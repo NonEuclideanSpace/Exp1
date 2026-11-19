@@ -44,3 +44,5 @@
 [Held-out bidirectional intervention judgments and original images](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/heldout-bowl.md)
 
 [Same-seed single-actor and independent-object controls](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/solo-controls.md)
+
+[Idle bystander and contact wording, seed-level source evidence](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/contact-controls.md)

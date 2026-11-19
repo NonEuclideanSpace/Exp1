@@ -12,3 +12,5 @@
 |J01-one-hold|![](../media/hypothesis-tests/error-panel/controls/J01-one-hold-s21.png)|![](../media/hypothesis-tests/error-panel/controls/J01-one-hold-s22.png)|![](../media/hypothesis-tests/error-panel/controls/J01-one-hold-s23.png)|![](../media/hypothesis-tests/error-panel/controls/J01-one-hold-s24.png)|
 |J01-two-strands|![](../media/hypothesis-tests/error-panel/controls/J01-two-strands-s21.png)|![](../media/hypothesis-tests/error-panel/controls/J01-two-strands-s22.png)|![](../media/hypothesis-tests/error-panel/controls/J01-two-strands-s23.png)|![](../media/hypothesis-tests/error-panel/controls/J01-two-strands-s24.png)|
 |N02-single-cat|![](../media/hypothesis-tests/error-panel/controls/N02-single-cat-s21.png)|![](../media/hypothesis-tests/error-panel/controls/N02-single-cat-s22.png)|![](../media/hypothesis-tests/error-panel/controls/N02-single-cat-s23.png)|![](../media/hypothesis-tests/error-panel/controls/N02-single-cat-s24.png)|
+
+[加入旁观者、强调触点与保留双人的对照](contact-controls.md)

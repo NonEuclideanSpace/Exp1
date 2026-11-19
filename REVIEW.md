@@ -34,3 +34,5 @@
 [四个新种子复测七块注意力中的 V](review/heldout-bowl.md)
 
 [同种子单主体与双物件对照](review/solo-controls.md)
+
+[木人偶触点的旁观者与表述对照](review/contact-controls.md)

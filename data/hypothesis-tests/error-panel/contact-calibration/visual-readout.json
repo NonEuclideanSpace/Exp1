@@ -1,0 +1,35 @@
+{
+  "seeds": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "endpoint": "Visible contact between the right-side fingertip and the white center dot. Body visibility and left-side task are additional readouts.",
+  "right_fingertip_meets_dot": {
+    "idle": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "contact-first": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rim-first": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "observations": {
+    "idle": "Left bystander has no part in the dish action. Four right hands miss the visible white target; figures and dish are framed smaller than in solo condition.",
+    "contact-first": "All four white targets are covered by a finger coming from the right. The right mannequin body is cut off or mostly cut off in seeds 21,23,24; only seed 22 clearly shows the two bodies and right shoulder. Cannot score other effects from contact alone.",
+    "rim-first": "All four images visibly include two bodies. Seeds 21,22,23 leave a clear gap; seed 24 shows the right fingertip touching the dot."
+  },
+  "scope": "More explicit wording changed framing and target size as well as order. The contrast does not establish word order as the cause."
+}

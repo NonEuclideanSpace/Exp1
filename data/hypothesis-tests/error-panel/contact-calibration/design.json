@@ -1,0 +1,14 @@
+{
+  "seeds": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "prompts": {
+    "idle": "Two ivory wooden artist's mannequins face one shallow cobalt dish on a walnut table, one on the left and one on the right. The left mannequin stands with both arms behind its back. The right mannequin presses one fingertip onto the white dot at the inside bottom of the dish. View from slightly above. Both figures are visible. Soft window light.",
+    "contact-first": "A wooden fingertip from the mannequin on the RIGHT presses flat onto the white dot in the center of a shallow cobalt dish. Part of the white dot is hidden under this fingertip. The fingertip connects through a fully extended wooden arm to the right mannequin's shoulder. On the LEFT a second identical wooden mannequin rests one fingertip on the upper rim. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+    "rim-first": "On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the RIGHT an identical wooden mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view."
+  },
+  "criterion": "Right fingertip must touch the white dot. Left idle or left rim evaluated separately; no inference from hidden/absent dot. Distinct order paraphrases are not a word-order-only contrast. Pilot selections from here cannot be used to estimate unbiased frequency."
+}
