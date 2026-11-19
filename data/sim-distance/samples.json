@@ -2554,6 +2554,116 @@
     "classification": null
   },
   {
+    "id": "joint/medium-near-yellow-green-s5",
+    "seed": 5,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. On the right, a man in his thirties with short black hair, wearing a green jacket and dark jeans, standing and facing the camera. The two stand about one meter apart.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/medium-near-yellow-green-s5.png",
+    "elapsed_seconds": 2.241,
+    "classification": null
+  },
+  {
+    "id": "joint/medium-near-yellow-green-s6",
+    "seed": 6,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. On the right, a man in his thirties with short black hair, wearing a green jacket and dark jeans, standing and facing the camera. The two stand about one meter apart.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/medium-near-yellow-green-s6.png",
+    "elapsed_seconds": 2.256,
+    "classification": null
+  },
+  {
+    "id": "joint/medium-near-yellow-green-s7",
+    "seed": 7,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. On the right, a man in his thirties with short black hair, wearing a green jacket and dark jeans, standing and facing the camera. The two stand about one meter apart.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/medium-near-yellow-green-s7.png",
+    "elapsed_seconds": 2.212,
+    "classification": null
+  },
+  {
+    "id": "joint/medium-touch-red-blue-s0",
+    "seed": 0,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. On the right, a man in his thirties with short black hair, wearing a blue jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": "media/sim-distance/images/joint/medium-touch-red-blue-s0.png",
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/medium-touch-red-blue-s0.png",
+    "elapsed_seconds": 2.297,
+    "classification": null
+  },
+  {
+    "id": "joint/medium-touch-red-blue-s1",
+    "seed": 1,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. On the right, a man in his thirties with short black hair, wearing a blue jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/medium-touch-red-blue-s1.png",
+    "elapsed_seconds": 2.222,
+    "classification": null
+  },
+  {
+    "id": "joint/medium-touch-red-blue-s2",
+    "seed": 2,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. On the right, a man in his thirties with short black hair, wearing a blue jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/medium-touch-red-blue-s2.png",
+    "elapsed_seconds": 2.221,
+    "classification": null
+  },
+  {
+    "id": "joint/medium-touch-red-blue-s3",
+    "seed": 3,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. On the right, a man in his thirties with short black hair, wearing a blue jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/medium-touch-red-blue-s3.png",
+    "elapsed_seconds": 2.26,
+    "classification": null
+  },
+  {
+    "id": "joint/medium-touch-red-blue-s4",
+    "seed": 4,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. On the right, a man in his thirties with short black hair, wearing a blue jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/medium-touch-red-blue-s4.png",
+    "elapsed_seconds": 2.224,
+    "classification": null
+  },
+  {
+    "id": "joint/medium-touch-red-blue-s5",
+    "seed": 5,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. On the right, a man in his thirties with short black hair, wearing a blue jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/medium-touch-red-blue-s5.png",
+    "elapsed_seconds": 2.234,
+    "classification": null
+  },
+  {
+    "id": "joint/medium-touch-red-blue-s6",
+    "seed": 6,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. On the right, a man in his thirties with short black hair, wearing a blue jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/medium-touch-red-blue-s6.png",
+    "elapsed_seconds": 2.259,
+    "classification": null
+  },
+  {
+    "id": "joint/medium-touch-red-blue-s7",
+    "seed": 7,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. On the right, a man in his thirties with short black hair, wearing a blue jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/medium-touch-red-blue-s7.png",
+    "elapsed_seconds": 2.199,
+    "classification": null
+  },
+  {
     "id": "seq_final/high-far-blue-red-s0",
     "seed": 0,
     "mode": "seq_final",
@@ -5044,6 +5154,146 @@
     "image": null,
     "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-near-red-blue-s7.png",
     "elapsed_seconds": 2.946,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-near-yellow-green-s0",
+    "seed": 0,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a green jacket and dark jeans on the right, standing and facing the camera. The two stand about one meter apart. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-near-yellow-green-s0.png",
+    "elapsed_seconds": 3.04,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-near-yellow-green-s1",
+    "seed": 1,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a green jacket and dark jeans on the right, standing and facing the camera. The two stand about one meter apart. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-near-yellow-green-s1.png",
+    "elapsed_seconds": 2.952,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-near-yellow-green-s2",
+    "seed": 2,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a green jacket and dark jeans on the right, standing and facing the camera. The two stand about one meter apart. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-near-yellow-green-s2.png",
+    "elapsed_seconds": 2.939,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-near-yellow-green-s3",
+    "seed": 3,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a green jacket and dark jeans on the right, standing and facing the camera. The two stand about one meter apart. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-near-yellow-green-s3.png",
+    "elapsed_seconds": 2.938,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-near-yellow-green-s4",
+    "seed": 4,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a green jacket and dark jeans on the right, standing and facing the camera. The two stand about one meter apart. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-near-yellow-green-s4.png",
+    "elapsed_seconds": 2.953,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-near-yellow-green-s5",
+    "seed": 5,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a green jacket and dark jeans on the right, standing and facing the camera. The two stand about one meter apart. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-near-yellow-green-s5.png",
+    "elapsed_seconds": 2.98,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-near-yellow-green-s6",
+    "seed": 6,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a green jacket and dark jeans on the right, standing and facing the camera. The two stand about one meter apart. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-near-yellow-green-s6.png",
+    "elapsed_seconds": 2.986,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-near-yellow-green-s7",
+    "seed": 7,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a green jacket and dark jeans on the right, standing and facing the camera. The two stand about one meter apart. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-near-yellow-green-s7.png",
+    "elapsed_seconds": 2.894,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-touch-red-blue-s0",
+    "seed": 0,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": "media/sim-distance/images/seq_final/medium-touch-red-blue-s0.png",
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-touch-red-blue-s0.png",
+    "elapsed_seconds": 3.011,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-touch-red-blue-s1",
+    "seed": 1,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-touch-red-blue-s1.png",
+    "elapsed_seconds": 2.953,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-touch-red-blue-s2",
+    "seed": 2,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-touch-red-blue-s2.png",
+    "elapsed_seconds": 2.938,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-touch-red-blue-s3",
+    "seed": 3,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-touch-red-blue-s3.png",
+    "elapsed_seconds": 2.948,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-touch-red-blue-s4",
+    "seed": 4,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-touch-red-blue-s4.png",
+    "elapsed_seconds": 2.956,
+    "classification": null
+  },
+  {
+    "id": "seq_final/medium-touch-red-blue-s5",
+    "seed": 5,
+    "mode": "seq_final",
+    "prompt": "Add a man in his thirties with short black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/medium-touch-red-blue-s5.png",
+    "elapsed_seconds": 2.949,
     "classification": null
   },
   {
