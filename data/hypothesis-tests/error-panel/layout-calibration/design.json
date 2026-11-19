@@ -1,0 +1,102 @@
+{
+  "stage": "calibrate",
+  "jobs": [
+    {
+      "id": "high-near-right-bottom-s29",
+      "seed": 29,
+      "similarity": "high",
+      "distance": "near",
+      "role": "right-bottom",
+      "shape_counterbalance": 0,
+      "layout": "layouts/high-near-0.png",
+      "prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. The left mannequin rests one fingertip on the upper rim of the dish. The right mannequin presses one fingertip onto the white dot at the inside bottom of the dish. View from slightly above. Both wooden arms are fully visible from shoulder to fingertip. Soft window light.",
+      "feed_layout": true
+    },
+    {
+      "id": "high-far-right-bottom-s29",
+      "seed": 29,
+      "similarity": "high",
+      "distance": "far",
+      "role": "right-bottom",
+      "shape_counterbalance": 0,
+      "layout": "layouts/high-far-0.png",
+      "prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. There is a clear gap between their shoulders; both are still within reach of the dish. The left mannequin rests one fingertip on the upper rim of the dish. The right mannequin presses one fingertip onto the white dot at the inside bottom of the dish. View from slightly above. Both wooden arms are fully visible from shoulder to fingertip. Soft window light.",
+      "feed_layout": true
+    },
+    {
+      "id": "low-near-right-bottom-s29",
+      "seed": 29,
+      "similarity": "low",
+      "distance": "near",
+      "role": "right-bottom",
+      "shape_counterbalance": 0,
+      "layout": "layouts/low-near-0.png",
+      "prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. The left mannequin rests one fingertip on the upper rim of the dish. The right mannequin presses one fingertip onto the white dot at the inside bottom of the dish. View from slightly above. Both wooden arms are fully visible from shoulder to fingertip. Soft window light.",
+      "feed_layout": true
+    },
+    {
+      "id": "low-far-right-bottom-s29",
+      "seed": 29,
+      "similarity": "low",
+      "distance": "far",
+      "role": "right-bottom",
+      "shape_counterbalance": 0,
+      "layout": "layouts/low-far-0.png",
+      "prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. There is a clear gap between their shoulders; both are still within reach of the dish. The left mannequin rests one fingertip on the upper rim of the dish. The right mannequin presses one fingertip onto the white dot at the inside bottom of the dish. View from slightly above. Both wooden arms are fully visible from shoulder to fingertip. Soft window light.",
+      "feed_layout": true
+    },
+    {
+      "id": "high-near-right-bottom-s30",
+      "seed": 30,
+      "similarity": "high",
+      "distance": "near",
+      "role": "right-bottom",
+      "shape_counterbalance": 1,
+      "layout": "layouts/high-near-1.png",
+      "prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. The left mannequin rests one fingertip on the upper rim of the dish. The right mannequin presses one fingertip onto the white dot at the inside bottom of the dish. View from slightly above. Both wooden arms are fully visible from shoulder to fingertip. Soft window light.",
+      "feed_layout": true
+    },
+    {
+      "id": "high-far-right-bottom-s30",
+      "seed": 30,
+      "similarity": "high",
+      "distance": "far",
+      "role": "right-bottom",
+      "shape_counterbalance": 1,
+      "layout": "layouts/high-far-1.png",
+      "prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. There is a clear gap between their shoulders; both are still within reach of the dish. The left mannequin rests one fingertip on the upper rim of the dish. The right mannequin presses one fingertip onto the white dot at the inside bottom of the dish. View from slightly above. Both wooden arms are fully visible from shoulder to fingertip. Soft window light.",
+      "feed_layout": true
+    },
+    {
+      "id": "low-near-right-bottom-s30",
+      "seed": 30,
+      "similarity": "low",
+      "distance": "near",
+      "role": "right-bottom",
+      "shape_counterbalance": 1,
+      "layout": "layouts/low-near-1.png",
+      "prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. The left mannequin rests one fingertip on the upper rim of the dish. The right mannequin presses one fingertip onto the white dot at the inside bottom of the dish. View from slightly above. Both wooden arms are fully visible from shoulder to fingertip. Soft window light.",
+      "feed_layout": true
+    },
+    {
+      "id": "low-far-right-bottom-s30",
+      "seed": 30,
+      "similarity": "low",
+      "distance": "far",
+      "role": "right-bottom",
+      "shape_counterbalance": 1,
+      "layout": "layouts/low-far-1.png",
+      "prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. There is a clear gap between their shoulders; both are still within reach of the dish. The left mannequin rests one fingertip on the upper rim of the dish. The right mannequin presses one fingertip onto the white dot at the inside bottom of the dish. View from slightly above. Both wooden arms are fully visible from shoulder to fingertip. Soft window light.",
+      "feed_layout": true
+    }
+  ],
+  "size": 512,
+  "steps": 4,
+  "seed_device": "cuda",
+  "text_encoder_layers": [
+    9,
+    18,
+    27
+  ],
+  "criterion": "Record observed heads and shoulder spacing independent of action. Rim/bottom contact, actor identity, omission and uncertainty scored separately. Compare normalized shoulder separation far vs near for same seed and head assignment. Calibration seeds excluded from confirmatory counts."
+}

@@ -1,0 +1,38 @@
+{
+  "seeds": [
+    29,
+    30
+  ],
+  "rendered": [
+    "high-near-right-bottom-s29",
+    "high-far-right-bottom-s29",
+    "low-near-right-bottom-s29",
+    "low-far-right-bottom-s29",
+    "high-near-right-bottom-s30",
+    "high-far-right-bottom-s30",
+    "low-near-right-bottom-s30",
+    "low-far-right-bottom-s30"
+  ],
+  "right_finger_on_white_mark": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "requested_head_shapes_visible": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "distance_readout": "Relative far images separate subjects more than matched near images by visual inspection. No bounding-box distance estimated here.",
+  "decision": "Do not expand the 64-image distance grid under this wording. With no positives for correct contact in either condition we cannot rank causes by these eight images. Test an idle companion and two role-equivalent, more explicit contact prompts to obtain paired correct and wrong outputs."
+}
