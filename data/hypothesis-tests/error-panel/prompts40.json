@@ -1,0 +1,154 @@
+[
+  {
+    "id": "N02",
+    "prompt": "A coral-pink ceramic rabbit wears a single coral scarf around its neck. A jade-green ceramic cat bites the free end of that same scarf; the cat's neck is bare. Show the whole scarf between the two figures. Matte ceramic glaze, warm ivory backdrop, soft studio light.",
+    "zh": "珊瑚粉陶瓷兔脖子上戴着唯一的一条珊瑚色围巾。玉绿色陶瓷猫咬住这条围巾的自由端，猫的脖子是空的。画出连接两只陶偶的整条围巾。哑光陶瓷釉面，暖象牙色背景，柔和的棚拍光。",
+    "criterion": "一条连续围巾绕兔颈，末端在猫嘴，猫颈无巾。",
+    "terms": [
+      "rabbit",
+      "scarf",
+      "neck",
+      "cat",
+      "bites",
+      "free end",
+      "scarf",
+      "bare"
+    ],
+    "seeds": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "max_sequence_length": 512,
+    "group": "controlled-round2"
+  },
+  {
+    "id": "N04",
+    "prompt": "One shallow cobalt-blue bowl sits between a jade-green ceramic cat and a coral-pink ceramic rabbit. The rabbit presses one front paw flat against the inside bottom of the bowl. The cat touches the top rim of the same bowl with one front paw. Seen slightly from above so both contact points are visible. Matte ceramic glaze, warm ivory backdrop, soft studio light.",
+    "zh": "玉绿色陶瓷猫和珊瑚粉陶瓷兔之间放着一个浅钴蓝碗。兔的一只前爪平贴碗内底部；猫的一只前爪搭在同一个碗的上沿。从稍高处俯看，使两个接触点都可见。哑光陶瓷釉面，暖象牙色背景，柔和的棚拍光。",
+    "criterion": "同一只碗；兔爪贴内底，猫爪碰上沿。",
+    "terms": [
+      "bowl",
+      "cat",
+      "rabbit",
+      "rabbit",
+      "inside bottom",
+      "cat",
+      "top rim",
+      "front paw"
+    ],
+    "seeds": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "max_sequence_length": 512,
+    "group": "controlled-round2"
+  },
+  {
+    "id": "C02B",
+    "group": "controlled",
+    "family": "两处缠绕",
+    "variant": "B",
+    "prompt": "A weathered backpack and one hiking boot sit on a mossy trail. The backpack strap winds around a hanging vine. The boot lace winds around a metal canteen. Soft natural light, still-life photograph, clear view of the contact points.",
+    "zh_summary": "背包肩带缠着藤蔓，登山靴鞋带缠着水壶。",
+    "seeds": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "terms": [
+      "backpack",
+      "boot",
+      "strap",
+      "vine",
+      "lace",
+      "canteen"
+    ],
+    "max_sequence_length": 512,
+    "criterion": "A: strap connects to canteen, lace to vine. B: those attachment targets exchange.",
+    "error_type": "attachment_target_exchange",
+    "source_row_1based": 3
+  },
+  {
+    "id": "C08A",
+    "group": "controlled",
+    "family": "人和倒影",
+    "variant": "A",
+    "prompt": "A child kneels beside a still puddle in a park. In the real scene the child holds a short stick. In the reflection the child holds a red balloon instead. Show the actual hand and the reflected hand. Soft natural light, still-life photograph, clear view of the contact points.",
+    "zh_summary": "孩子拿木棍，水洼倒影中的孩子拿红气球。",
+    "seeds": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "terms": [
+      "child",
+      "puddle",
+      "real scene",
+      "stick",
+      "reflection",
+      "balloon"
+    ],
+    "max_sequence_length": 512,
+    "criterion": "A: real child holds stick, reflected child holds balloon. B: reverse.",
+    "error_type": "duplicate_or_exchange_attributes",
+    "source_row_1based": 359
+  },
+  {
+    "id": "C02A",
+    "group": "controlled",
+    "family": "两处缠绕",
+    "variant": "A",
+    "prompt": "A weathered backpack and one hiking boot sit on a mossy trail. The backpack strap winds around a metal canteen. The boot lace winds around a hanging vine. Soft natural light, still-life photograph, clear view of the contact points.",
+    "zh_summary": "背包肩带缠着水壶，登山靴鞋带缠着藤蔓。",
+    "seeds": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "terms": [
+      "backpack",
+      "boot",
+      "strap",
+      "canteen",
+      "lace",
+      "vine"
+    ],
+    "max_sequence_length": 512,
+    "criterion": "A: strap connects to canteen, lace to vine. B: those attachment targets exchange.",
+    "error_type": "attachment_target_exchange",
+    "source_row_1based": 3
+  },
+  {
+    "id": "C08I",
+    "group": "controlled",
+    "family": "人和倒影",
+    "variant": "independent subjects",
+    "prompt": "Two children in matching ivory shirts kneel side by side in a park. The child on the left holds a short stick in one hand. The child on the right holds a red balloon by its string instead. Both children and both hands are clearly visible. Soft natural light, still-life photograph, clear view of the contact points.",
+    "zh_summary": "孩子拿木棍，水洼倒影中的孩子拿红气球。",
+    "seeds": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "terms": [
+      "children",
+      "left",
+      "stick",
+      "right",
+      "red balloon",
+      "string"
+    ],
+    "max_sequence_length": 512,
+    "criterion": "Left child holds the stick only. Right child holds the balloon by its string only.",
+    "error_type": "duplicate_or_exchange_attributes",
+    "source_row_1based": null
+  }
+]

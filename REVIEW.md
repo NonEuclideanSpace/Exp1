@@ -24,3 +24,5 @@
 [十条猜想的配对比较与干预口径](review/ten-predictions.md)
 
 [补充干预的成组证据与原图](review/hypothesis-evidence.md)
+
+[逐图核定的 38 张错误素材](review/error-materials.md)

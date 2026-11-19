@@ -34,3 +34,5 @@
 [Ten predictions, controls, and criteria](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/ten-predictions.md)
 
 [Paired causal controls and original images](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/hypothesis-evidence.md)
+
+[Original adjudication, prompts, images and machine trace locations for 38 failures](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/error-materials.json)

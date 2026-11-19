@@ -1,0 +1,41 @@
+{
+  "seeds": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "cases": [
+    "N02",
+    "N04",
+    "C02B",
+    "C08A",
+    "C02A",
+    "C08I"
+  ],
+  "exploratory_selection": true,
+  "selection": "N02 and N04 selected from visibly repeated failures; C02B and C08A selected from repeated automated candidates. C02A reverses assignments. C08I removes the reflection relationship and changes layout. These comparisons cannot isolate attention by themselves.",
+  "criteria": {
+    "N02": [
+      "extra loop on nonwearer",
+      "disconnected or multiple scarves",
+      "grasp missing"
+    ],
+    "N04": [
+      "rabbit misses inside bottom",
+      "cat on inside bottom",
+      "two valid contacts"
+    ],
+    "C02A/C02B": [
+      "what actually loops around canteen",
+      "what actually loops around vine; overlapping strands are unclear"
+    ],
+    "C08A/C08I": [
+      "specific object in each hand",
+      "object duplication",
+      "omission",
+      "ambiguous hand or reflected contact"
+    ]
+  },
+  "reporting": "Each generated seed retained. A visible contradiction counts once. Unknown remains in denominator. Report diagnostic and control conditions separately. Endpoint used is the target role/attribute, not unrelated aesthetic defects."
+}
