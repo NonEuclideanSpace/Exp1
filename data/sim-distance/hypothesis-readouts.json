@@ -1,0 +1,4209 @@
+{
+  "inclusion": "All original final images. Counts are unconditional. Color swap and convergence use count-valid outputs only. Sequential splits use actual initial count and color; the same initial image is reused across target conditions.",
+  "limits": "Undercount is not proof of fusion. A single image per setting. Eight seeds are the pairing units. Sign-flip results are exploratory, unadjusted multiple comparisons; non-significance is not evidence of distance equivalence. Geometry, color and identity are distinct end points.",
+  "cells": [
+    {
+      "mode": "joint",
+      "similarity": "high",
+      "distance": "far",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": 1.1473232421697794,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 32,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 32
+        },
+        "converged": {
+          "k": 0,
+          "n": 32
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "far",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": 1.0599272064107816,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 31,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 31
+        },
+        "converged": {
+          "k": 0,
+          "n": 31
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 31
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 31
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "far",
+      "reference_subset": "initial count and jacket correct",
+      "total": 31,
+      "gap_median": 1.0599272064107816,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 31,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 31
+        },
+        "converged": {
+          "k": 0,
+          "n": 31
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 31
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 31
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 31
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 31
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 31
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "far",
+      "reference_subset": "initial error",
+      "total": 1,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 1
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 1
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 1
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "joint",
+      "similarity": "high",
+      "distance": "near",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": 0.14183343751408412,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 31,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 31
+        },
+        "converged": {
+          "k": 0,
+          "n": 31
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "near",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": 0.5727166761735036,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 31,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 31
+        },
+        "converged": {
+          "k": 0,
+          "n": 31
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 31
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 31
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "near",
+      "reference_subset": "initial count and jacket correct",
+      "total": 31,
+      "gap_median": 0.5727166761735036,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 31,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 31
+        },
+        "converged": {
+          "k": 0,
+          "n": 31
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 31
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 31
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 31
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 31
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 31
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "near",
+      "reference_subset": "initial error",
+      "total": 1,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 1
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 1
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 1
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "joint",
+      "similarity": "high",
+      "distance": "touch",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": -0.0744409523966235,
+      "overlapping_boxes_n": 31,
+      "measurable_gap_n": 31,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 31
+        },
+        "converged": {
+          "k": 0,
+          "n": 31
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "touch",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": -0.006451728060311324,
+      "overlapping_boxes_n": 17,
+      "measurable_gap_n": 27,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 27
+        },
+        "converged": {
+          "k": 0,
+          "n": 27
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 5,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 27
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 27
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "touch",
+      "reference_subset": "initial count and jacket correct",
+      "total": 31,
+      "gap_median": -0.006451728060311324,
+      "overlapping_boxes_n": 17,
+      "measurable_gap_n": 27,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 27
+        },
+        "converged": {
+          "k": 0,
+          "n": 27
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 31
+        },
+        "overshoot": {
+          "k": 4,
+          "n": 31
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 31
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 27
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 27
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "touch",
+      "reference_subset": "initial error",
+      "total": 1,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 1
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 1
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 1
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "joint",
+      "similarity": "high",
+      "distance": "overlap",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": -0.08082783511041597,
+      "overlapping_boxes_n": 32,
+      "measurable_gap_n": 32,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 32
+        },
+        "converged": {
+          "k": 0,
+          "n": 32
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "overlap",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": 0.5861322283150547,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 29,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 29
+        },
+        "converged": {
+          "k": 0,
+          "n": 29
+        },
+        "undershoot": {
+          "k": 1,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 2,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 29
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 29
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "overlap",
+      "reference_subset": "initial count and jacket correct",
+      "total": 31,
+      "gap_median": 0.5861322283150547,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 29,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 29
+        },
+        "converged": {
+          "k": 0,
+          "n": 29
+        },
+        "undershoot": {
+          "k": 1,
+          "n": 31
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 31
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 31
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 29
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 29
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "high",
+      "distance": "overlap",
+      "reference_subset": "initial error",
+      "total": 1,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 1
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 1
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 1
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "joint",
+      "similarity": "medium",
+      "distance": "far",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": 1.0169001539690892,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 30,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 30
+        },
+        "converged": {
+          "k": 0,
+          "n": 30
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 2,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "far",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": 0.9735660624902206,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 31,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 31
+        },
+        "converged": {
+          "k": 0,
+          "n": 31
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 31
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 31
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "far",
+      "reference_subset": "initial count and jacket correct",
+      "total": 31,
+      "gap_median": 0.9735660624902206,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 31,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 31
+        },
+        "converged": {
+          "k": 0,
+          "n": 31
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 31
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 31
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 31
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 31
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 31
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "far",
+      "reference_subset": "initial error",
+      "total": 1,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 1
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 1
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 1
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "joint",
+      "similarity": "medium",
+      "distance": "near",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": 0.12520057149137262,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 31,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 31
+        },
+        "converged": {
+          "k": 0,
+          "n": 31
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "near",
+      "reference_subset": "all",
+      "total": 32,
+      "gap_median": 0.5217009610889702,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 31,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 31
+        },
+        "converged": {
+          "k": 0,
+          "n": 31
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 32
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 32
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 32
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 31
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 31
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "near",
+      "reference_subset": "initial count and jacket correct",
+      "total": 31,
+      "gap_median": 0.5217009610889702,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 31,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 31
+        },
+        "converged": {
+          "k": 0,
+          "n": 31
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 31
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 31
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 31
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 31
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 31
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "near",
+      "reference_subset": "initial error",
+      "total": 1,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 1
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 1
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 1
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "joint",
+      "similarity": "medium",
+      "distance": "touch",
+      "reference_subset": "all",
+      "total": 8,
+      "gap_median": -0.08692984797045036,
+      "overlapping_boxes_n": 8,
+      "measurable_gap_n": 8,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 8
+        },
+        "converged": {
+          "k": 0,
+          "n": 8
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 8
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 8
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 8
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "touch",
+      "reference_subset": "all",
+      "total": 6,
+      "gap_median": 0.1449956606572231,
+      "overlapping_boxes_n": 2,
+      "measurable_gap_n": 4,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 4
+        },
+        "converged": {
+          "k": 0,
+          "n": 4
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 6
+        },
+        "overshoot": {
+          "k": 2,
+          "n": 6
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 6
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 4
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 4
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "touch",
+      "reference_subset": "initial count and jacket correct",
+      "total": 5,
+      "gap_median": 0.1449956606572231,
+      "overlapping_boxes_n": 2,
+      "measurable_gap_n": 4,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 4
+        },
+        "converged": {
+          "k": 0,
+          "n": 4
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 5
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 5
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 5
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 4
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 4
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "touch",
+      "reference_subset": "initial error",
+      "total": 1,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 1
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 1
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 1
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "joint",
+      "similarity": "medium",
+      "distance": "overlap",
+      "reference_subset": "all",
+      "total": 2,
+      "gap_median": -0.1723899107173839,
+      "overlapping_boxes_n": 2,
+      "measurable_gap_n": 2,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 2
+        },
+        "converged": {
+          "k": 0,
+          "n": 2
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 2
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 2
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 2
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "overlap",
+      "reference_subset": "all",
+      "total": 2,
+      "gap_median": 0.39397438287984626,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 1,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 1
+        },
+        "converged": {
+          "k": 0,
+          "n": 1
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 2
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 2
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 2
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 1
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 1
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "overlap",
+      "reference_subset": "initial count and jacket correct",
+      "total": 2,
+      "gap_median": 0.39397438287984626,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 1,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 1
+        },
+        "converged": {
+          "k": 0,
+          "n": 1
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 2
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 2
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 2
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 1
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 1
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "medium",
+      "distance": "overlap",
+      "reference_subset": "initial error",
+      "total": 0,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 0
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 0
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 0
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "joint",
+      "similarity": "low",
+      "distance": "far",
+      "reference_subset": "all",
+      "total": 10,
+      "gap_median": 1.0000765454792466,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 10,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 10
+        },
+        "converged": {
+          "k": 0,
+          "n": 10
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 10
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 10
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 10
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "far",
+      "reference_subset": "all",
+      "total": 10,
+      "gap_median": 0.9996589658579121,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 9,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 9
+        },
+        "converged": {
+          "k": 0,
+          "n": 9
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 10
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 10
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 10
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 9
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 9
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "far",
+      "reference_subset": "initial count and jacket correct",
+      "total": 9,
+      "gap_median": 0.9996589658579121,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 9,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 9
+        },
+        "converged": {
+          "k": 0,
+          "n": 9
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 9
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 9
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 9
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 9
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 9
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "far",
+      "reference_subset": "initial error",
+      "total": 1,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 1
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 1
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 1
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "joint",
+      "similarity": "low",
+      "distance": "near",
+      "reference_subset": "all",
+      "total": 10,
+      "gap_median": 0.21535781684661698,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 10,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 10
+        },
+        "converged": {
+          "k": 0,
+          "n": 10
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 10
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 10
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 10
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "near",
+      "reference_subset": "all",
+      "total": 10,
+      "gap_median": 0.5947751522164323,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 9,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 9
+        },
+        "converged": {
+          "k": 0,
+          "n": 9
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 10
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 10
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 10
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 9
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 9
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "near",
+      "reference_subset": "initial count and jacket correct",
+      "total": 9,
+      "gap_median": 0.5947751522164323,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 9,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 9
+        },
+        "converged": {
+          "k": 0,
+          "n": 9
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 9
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 9
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 9
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 9
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 9
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "near",
+      "reference_subset": "initial error",
+      "total": 1,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 1
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 1
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 1
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "joint",
+      "similarity": "low",
+      "distance": "touch",
+      "reference_subset": "all",
+      "total": 10,
+      "gap_median": -0.20421814958623893,
+      "overlapping_boxes_n": 10,
+      "measurable_gap_n": 10,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 10
+        },
+        "converged": {
+          "k": 0,
+          "n": 10
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 10
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 10
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 10
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "touch",
+      "reference_subset": "all",
+      "total": 10,
+      "gap_median": 0.2083904290081163,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 9,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 9
+        },
+        "converged": {
+          "k": 0,
+          "n": 9
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 10
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 10
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 10
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 9
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 9
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "touch",
+      "reference_subset": "initial count and jacket correct",
+      "total": 9,
+      "gap_median": 0.2083904290081163,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 9,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 9
+        },
+        "converged": {
+          "k": 0,
+          "n": 9
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 9
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 9
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 9
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 9
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 9
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "touch",
+      "reference_subset": "initial error",
+      "total": 1,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 1
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 1
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 1
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "joint",
+      "similarity": "low",
+      "distance": "overlap",
+      "reference_subset": "all",
+      "total": 10,
+      "gap_median": -0.14642079093988278,
+      "overlapping_boxes_n": 10,
+      "measurable_gap_n": 10,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 10
+        },
+        "converged": {
+          "k": 0,
+          "n": 10
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 10
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 10
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 10
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "overlap",
+      "reference_subset": "all",
+      "total": 10,
+      "gap_median": 0.6736609808913616,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 9,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 9
+        },
+        "converged": {
+          "k": 0,
+          "n": 9
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 10
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 10
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 10
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 9
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 9
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "overlap",
+      "reference_subset": "initial count and jacket correct",
+      "total": 9,
+      "gap_median": 0.6736609808913616,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 9,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 9
+        },
+        "converged": {
+          "k": 0,
+          "n": 9
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 9
+        },
+        "overshoot": {
+          "k": 0,
+          "n": 9
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 9
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 9
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 9
+        }
+      }
+    },
+    {
+      "mode": "seq_final",
+      "similarity": "low",
+      "distance": "overlap",
+      "reference_subset": "initial error",
+      "total": 1,
+      "gap_median": null,
+      "overlapping_boxes_n": 0,
+      "measurable_gap_n": 0,
+      "measures": {
+        "swapped": {
+          "k": 0,
+          "n": 0
+        },
+        "converged": {
+          "k": 0,
+          "n": 0
+        },
+        "undershoot": {
+          "k": 0,
+          "n": 1
+        },
+        "overshoot": {
+          "k": 1,
+          "n": 1
+        },
+        "wrong_class_counts": {
+          "k": 0,
+          "n": 1
+        },
+        "color_copy": {
+          "k": 0,
+          "n": 0
+        },
+        "color_drift": {
+          "k": 0,
+          "n": 0
+        }
+      }
+    }
+  ],
+  "matched_contrasts": [
+    {
+      "comparison": "joint far high minus medium",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint far high minus medium",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint far high minus medium",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint far high minus medium",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": -6.25,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": -50.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint near high minus medium",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint near high minus medium",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint near high minus medium",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint near high minus medium",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint touch high minus medium",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint touch high minus medium",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint touch high minus medium",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint touch high minus medium",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 3.125,
+      "per_seed_difference_pp": {
+        "0": 25.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint overlap high minus medium",
+      "signal": "swapped",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint overlap high minus medium",
+      "signal": "converged",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint overlap high minus medium",
+      "signal": "undershoot",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint overlap high minus medium",
+      "signal": "overshoot",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint far high minus low",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint far high minus low",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint far high minus low",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint far high minus low",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint near high minus low",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint near high minus low",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint near high minus low",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint near high minus low",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 3.125,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 25.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint touch high minus low",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint touch high minus low",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint touch high minus low",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint touch high minus low",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 3.125,
+      "per_seed_difference_pp": {
+        "0": 25.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint overlap high minus low",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint overlap high minus low",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint overlap high minus low",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint overlap high minus low",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high near minus far",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high near minus far",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high near minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high near minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 3.125,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 25.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high touch minus far",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high touch minus far",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high touch minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high touch minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 3.125,
+      "per_seed_difference_pp": {
+        "0": 25.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high overlap minus far",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high overlap minus far",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high overlap minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint high overlap minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium near minus far",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium near minus far",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium near minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium near minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": -3.125,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": -50.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 25.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium touch minus far",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium touch minus far",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium touch minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium touch minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": -6.25,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": -50.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium overlap minus far",
+      "signal": "swapped",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium overlap minus far",
+      "signal": "converged",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium overlap minus far",
+      "signal": "undershoot",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint medium overlap minus far",
+      "signal": "overshoot",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low near minus far",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low near minus far",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low near minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low near minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low touch minus far",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low touch minus far",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low touch minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low touch minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low overlap minus far",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low overlap minus far",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low overlap minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "joint low overlap minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final far high minus medium",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final far high minus medium",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final far high minus medium",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final far high minus medium",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final far high minus medium",
+      "signal": "color_copy",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final near high minus medium",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final near high minus medium",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final near high minus medium",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final near high minus medium",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final near high minus medium",
+      "signal": "color_copy",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final touch high minus medium",
+      "signal": "swapped",
+      "seeds": 4,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final touch high minus medium",
+      "signal": "converged",
+      "seeds": 4,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final touch high minus medium",
+      "signal": "undershoot",
+      "seeds": 6,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final touch high minus medium",
+      "signal": "overshoot",
+      "seeds": 6,
+      "difference_percentage_points": -12.5,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": -75.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final touch high minus medium",
+      "signal": "color_copy",
+      "seeds": 4,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final overlap high minus medium",
+      "signal": "swapped",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final overlap high minus medium",
+      "signal": "converged",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final overlap high minus medium",
+      "signal": "undershoot",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final overlap high minus medium",
+      "signal": "overshoot",
+      "seeds": 1,
+      "difference_percentage_points": -50.0,
+      "per_seed_difference_pp": {
+        "0": -50.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final overlap high minus medium",
+      "signal": "color_copy",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final far high minus low",
+      "signal": "swapped",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final far high minus low",
+      "signal": "converged",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final far high minus low",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final far high minus low",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": -9.375,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": -75.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final far high minus low",
+      "signal": "color_copy",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final near high minus low",
+      "signal": "swapped",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final near high minus low",
+      "signal": "converged",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final near high minus low",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final near high minus low",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": -9.375,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": -75.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final near high minus low",
+      "signal": "color_copy",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final touch high minus low",
+      "signal": "swapped",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final touch high minus low",
+      "signal": "converged",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final touch high minus low",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final touch high minus low",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 3.125,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 25.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final touch high minus low",
+      "signal": "color_copy",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final overlap high minus low",
+      "signal": "swapped",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final overlap high minus low",
+      "signal": "converged",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final overlap high minus low",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 3.125,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 25.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final overlap high minus low",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": -6.25,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 25.0,
+        "4": 0.0,
+        "5": -75.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final overlap high minus low",
+      "signal": "color_copy",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final high near minus far",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final high near minus far",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final high near minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final high near minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final high touch minus far",
+      "signal": "swapped",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final high touch minus far",
+      "signal": "converged",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final high touch minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final high touch minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 12.5,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 25.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 75.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 0.5
+    },
+    {
+      "comparison": "seq_final high overlap minus far",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final high overlap minus far",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final high overlap minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 3.125,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 25.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final high overlap minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 3.125,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 25.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final medium near minus far",
+      "signal": "swapped",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final medium near minus far",
+      "signal": "converged",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final medium near minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final medium near minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final medium touch minus far",
+      "signal": "swapped",
+      "seeds": 4,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final medium touch minus far",
+      "signal": "converged",
+      "seeds": 4,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "3": 0.0,
+        "4": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final medium touch minus far",
+      "signal": "undershoot",
+      "seeds": 6,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final medium touch minus far",
+      "signal": "overshoot",
+      "seeds": 6,
+      "difference_percentage_points": 29.1667,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 100.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 75.0
+      },
+      "two_sided_sign_flip": 0.5
+    },
+    {
+      "comparison": "seq_final medium overlap minus far",
+      "signal": "swapped",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final medium overlap minus far",
+      "signal": "converged",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final medium overlap minus far",
+      "signal": "undershoot",
+      "seeds": 1,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final medium overlap minus far",
+      "signal": "overshoot",
+      "seeds": 1,
+      "difference_percentage_points": 50.0,
+      "per_seed_difference_pp": {
+        "0": 50.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low near minus far",
+      "signal": "swapped",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low near minus far",
+      "signal": "converged",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low near minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low near minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low touch minus far",
+      "signal": "swapped",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low touch minus far",
+      "signal": "converged",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low touch minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low touch minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low overlap minus far",
+      "signal": "swapped",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low overlap minus far",
+      "signal": "converged",
+      "seeds": 7,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low overlap minus far",
+      "signal": "undershoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    },
+    {
+      "comparison": "seq_final low overlap minus far",
+      "signal": "overshoot",
+      "seeds": 8,
+      "difference_percentage_points": 0.0,
+      "per_seed_difference_pp": {
+        "0": 0.0,
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0
+      },
+      "two_sided_sign_flip": 1.0
+    }
+  ]
+}

@@ -1,0 +1,3013 @@
+{
+  "method": "Pair on identical mode/seed/color/remaining experimental factors. Color differences require both outputs count-valid. Equal weight to each seed cluster. Bootstrap 20,000 unadjusted percentile replicates of 8 seeds. A degenerate interval when all seed contrasts are zero is not evidence of population equivalence.",
+  "effects": [
+    {
+      "comparison": "joint high minus medium",
+      "metric": "swapped",
+      "eligible_pairs": 70,
+      "pairwise_validity_exclusions": 58,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high minus medium",
+      "metric": "converged",
+      "eligible_pairs": 70,
+      "pairwise_validity_exclusions": 58,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high minus medium",
+      "metric": "undershoot",
+      "eligible_pairs": 74,
+      "pairwise_validity_exclusions": 54,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high minus medium",
+      "metric": "overshoot",
+      "eligible_pairs": 74,
+      "pairwise_validity_exclusions": 54,
+      "counts_A": 1,
+      "counts_B": 3,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": -2.778,
+      "percentile_seed_bootstrap_95_pp": [
+        -8.333,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        -22.222,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": true,
+        "15": true
+      }
+    },
+    {
+      "comparison": "joint high minus low",
+      "metric": "swapped",
+      "eligible_pairs": 39,
+      "pairwise_validity_exclusions": 89,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high minus low",
+      "metric": "converged",
+      "eligible_pairs": 39,
+      "pairwise_validity_exclusions": 89,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high minus low",
+      "metric": "undershoot",
+      "eligible_pairs": 40,
+      "pairwise_validity_exclusions": 88,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high minus low",
+      "metric": "overshoot",
+      "eligible_pairs": 40,
+      "pairwise_validity_exclusions": 88,
+      "counts_A": 1,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 1.562,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        4.688
+      ],
+      "seed_deltas_pp": [
+        12.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": true,
+        "10": true,
+        "15": true
+      }
+    },
+    {
+      "comparison": "joint high near minus far",
+      "metric": "swapped",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high near minus far",
+      "metric": "converged",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high near minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high near minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 1,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 3.125,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        9.375
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        25.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": true,
+        "15": true
+      }
+    },
+    {
+      "comparison": "joint high touch minus far",
+      "metric": "swapped",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high touch minus far",
+      "metric": "converged",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high touch minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high touch minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 1,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 3.125,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        9.375
+      ],
+      "seed_deltas_pp": [
+        25.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": true,
+        "15": true
+      }
+    },
+    {
+      "comparison": "joint high overlap minus far",
+      "metric": "swapped",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high overlap minus far",
+      "metric": "converged",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high overlap minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint high overlap minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint medium near minus far",
+      "metric": "swapped",
+      "eligible_pairs": 29,
+      "pairwise_validity_exclusions": 3,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint medium near minus far",
+      "metric": "converged",
+      "eligible_pairs": 29,
+      "pairwise_validity_exclusions": 3,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint medium near minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint medium near minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 1,
+      "counts_B": 2,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": -3.125,
+      "percentile_seed_bootstrap_95_pp": [
+        -18.75,
+        9.375
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        -50.0,
+        0.0,
+        0.0,
+        0.0,
+        25.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": false,
+        "15": false
+      }
+    },
+    {
+      "comparison": "joint medium touch minus far",
+      "metric": "swapped",
+      "eligible_pairs": 8,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint medium touch minus far",
+      "metric": "converged",
+      "eligible_pairs": 8,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint medium touch minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 8,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint medium touch minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 8,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint medium overlap minus far",
+      "metric": "swapped",
+      "eligible_pairs": 2,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 1,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint medium overlap minus far",
+      "metric": "converged",
+      "eligible_pairs": 2,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 1,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint medium overlap minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 2,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 1,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint medium overlap minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 2,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 1,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low near minus far",
+      "metric": "swapped",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low near minus far",
+      "metric": "converged",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low near minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low near minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low touch minus far",
+      "metric": "swapped",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low touch minus far",
+      "metric": "converged",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low touch minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low touch minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low overlap minus far",
+      "metric": "swapped",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low overlap minus far",
+      "metric": "converged",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low overlap minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "joint low overlap minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high minus medium",
+      "metric": "swapped",
+      "eligible_pairs": 67,
+      "pairwise_validity_exclusions": 61,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high minus medium",
+      "metric": "converged",
+      "eligible_pairs": 67,
+      "pairwise_validity_exclusions": 61,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high minus medium",
+      "metric": "undershoot",
+      "eligible_pairs": 72,
+      "pairwise_validity_exclusions": 56,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high minus medium",
+      "metric": "overshoot",
+      "eligible_pairs": 72,
+      "pairwise_validity_exclusions": 56,
+      "counts_A": 3,
+      "counts_B": 5,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": -2.525,
+      "percentile_seed_bootstrap_95_pp": [
+        -5.934,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        -9.091,
+        0.0,
+        -11.111,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": true,
+        "15": true
+      }
+    },
+    {
+      "comparison": "seq_final high minus medium",
+      "metric": "color_copy",
+      "eligible_pairs": 67,
+      "pairwise_validity_exclusions": 61,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high minus medium",
+      "metric": "color_drift",
+      "eligible_pairs": 67,
+      "pairwise_validity_exclusions": 61,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high minus low",
+      "metric": "swapped",
+      "eligible_pairs": 36,
+      "pairwise_validity_exclusions": 92,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high minus low",
+      "metric": "converged",
+      "eligible_pairs": 36,
+      "pairwise_validity_exclusions": 92,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high minus low",
+      "metric": "undershoot",
+      "eligible_pairs": 40,
+      "pairwise_validity_exclusions": 88,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high minus low",
+      "metric": "overshoot",
+      "eligible_pairs": 40,
+      "pairwise_validity_exclusions": 88,
+      "counts_A": 4,
+      "counts_B": 4,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high minus low",
+      "metric": "color_copy",
+      "eligible_pairs": 36,
+      "pairwise_validity_exclusions": 92,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high minus low",
+      "metric": "color_drift",
+      "eligible_pairs": 36,
+      "pairwise_validity_exclusions": 92,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high near minus far",
+      "metric": "swapped",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high near minus far",
+      "metric": "converged",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high near minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high near minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 1,
+      "counts_B": 1,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high near minus far",
+      "metric": "color_copy",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high near minus far",
+      "metric": "color_drift",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high touch minus far",
+      "metric": "swapped",
+      "eligible_pairs": 27,
+      "pairwise_validity_exclusions": 5,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high touch minus far",
+      "metric": "converged",
+      "eligible_pairs": 27,
+      "pairwise_validity_exclusions": 5,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high touch minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high touch minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 5,
+      "counts_B": 1,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 12.5,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        31.25
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        25.0,
+        0.0,
+        0.0,
+        75.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": false,
+        "15": false
+      }
+    },
+    {
+      "comparison": "seq_final high touch minus far",
+      "metric": "color_copy",
+      "eligible_pairs": 27,
+      "pairwise_validity_exclusions": 5,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high touch minus far",
+      "metric": "color_drift",
+      "eligible_pairs": 27,
+      "pairwise_validity_exclusions": 5,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high overlap minus far",
+      "metric": "swapped",
+      "eligible_pairs": 29,
+      "pairwise_validity_exclusions": 3,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high overlap minus far",
+      "metric": "converged",
+      "eligible_pairs": 29,
+      "pairwise_validity_exclusions": 3,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high overlap minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 1,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 3.125,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        9.375
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        25.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": true,
+        "15": true
+      }
+    },
+    {
+      "comparison": "seq_final high overlap minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 2,
+      "counts_B": 1,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 3.125,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        9.375
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        25.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": true,
+        "15": true
+      }
+    },
+    {
+      "comparison": "seq_final high overlap minus far",
+      "metric": "color_copy",
+      "eligible_pairs": 29,
+      "pairwise_validity_exclusions": 3,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final high overlap minus far",
+      "metric": "color_drift",
+      "eligible_pairs": 29,
+      "pairwise_validity_exclusions": 3,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium near minus far",
+      "metric": "swapped",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium near minus far",
+      "metric": "converged",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium near minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium near minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 32,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 1,
+      "counts_B": 1,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium near minus far",
+      "metric": "color_copy",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium near minus far",
+      "metric": "color_drift",
+      "eligible_pairs": 31,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium touch minus far",
+      "metric": "swapped",
+      "eligible_pairs": 4,
+      "pairwise_validity_exclusions": 2,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 4,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium touch minus far",
+      "metric": "converged",
+      "eligible_pairs": 4,
+      "pairwise_validity_exclusions": 2,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 4,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium touch minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 6,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 6,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium touch minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 6,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 2,
+      "counts_B": 1,
+      "independent_seed_clusters": 6,
+      "equal_seed_mean_delta_percentage_points": 16.667,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        50.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        100.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": false,
+        "15": false
+      }
+    },
+    {
+      "comparison": "seq_final medium touch minus far",
+      "metric": "color_copy",
+      "eligible_pairs": 4,
+      "pairwise_validity_exclusions": 2,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 4,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium touch minus far",
+      "metric": "color_drift",
+      "eligible_pairs": 4,
+      "pairwise_validity_exclusions": 2,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 4,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium overlap minus far",
+      "metric": "swapped",
+      "eligible_pairs": 1,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 1,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium overlap minus far",
+      "metric": "converged",
+      "eligible_pairs": 1,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 1,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium overlap minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 2,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 1,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium overlap minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 2,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 1,
+      "counts_B": 0,
+      "independent_seed_clusters": 1,
+      "equal_seed_mean_delta_percentage_points": 50.0,
+      "percentile_seed_bootstrap_95_pp": [
+        50.0,
+        50.0
+      ],
+      "seed_deltas_pp": [
+        50.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium overlap minus far",
+      "metric": "color_copy",
+      "eligible_pairs": 1,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 1,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final medium overlap minus far",
+      "metric": "color_drift",
+      "eligible_pairs": 1,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 1,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low near minus far",
+      "metric": "swapped",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low near minus far",
+      "metric": "converged",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low near minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low near minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 1,
+      "counts_B": 1,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low near minus far",
+      "metric": "color_copy",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low near minus far",
+      "metric": "color_drift",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low touch minus far",
+      "metric": "swapped",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low touch minus far",
+      "metric": "converged",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low touch minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low touch minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 1,
+      "counts_B": 1,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low touch minus far",
+      "metric": "color_copy",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low touch minus far",
+      "metric": "color_drift",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low overlap minus far",
+      "metric": "swapped",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low overlap minus far",
+      "metric": "converged",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low overlap minus far",
+      "metric": "undershoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low overlap minus far",
+      "metric": "overshoot",
+      "eligible_pairs": 10,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 1,
+      "counts_B": 1,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low overlap minus far",
+      "metric": "color_copy",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "seq_final low overlap minus far",
+      "metric": "color_drift",
+      "eligible_pairs": 9,
+      "pairwise_validity_exclusions": 1,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "high seq_final minus joint",
+      "metric": "swapped",
+      "eligible_pairs": 116,
+      "pairwise_validity_exclusions": 12,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "high seq_final minus joint",
+      "metric": "converged",
+      "eligible_pairs": 116,
+      "pairwise_validity_exclusions": 12,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "high seq_final minus joint",
+      "metric": "undershoot",
+      "eligible_pairs": 128,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 1,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.781,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        2.344
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        6.25,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": true,
+        "10": true,
+        "15": true
+      }
+    },
+    {
+      "comparison": "high seq_final minus joint",
+      "metric": "overshoot",
+      "eligible_pairs": 128,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 9,
+      "counts_B": 2,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 5.469,
+      "percentile_seed_bootstrap_95_pp": [
+        -2.344,
+        17.188
+      ],
+      "seed_deltas_pp": [
+        -6.25,
+        0.0,
+        6.25,
+        6.25,
+        0.0,
+        43.75,
+        -6.25,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": false,
+        "15": false
+      }
+    },
+    {
+      "comparison": "medium seq_final minus joint",
+      "metric": "swapped",
+      "eligible_pairs": 64,
+      "pairwise_validity_exclusions": 8,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "medium seq_final minus joint",
+      "metric": "converged",
+      "eligible_pairs": 64,
+      "pairwise_validity_exclusions": 8,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "medium seq_final minus joint",
+      "metric": "undershoot",
+      "eligible_pairs": 72,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "medium seq_final minus joint",
+      "metric": "overshoot",
+      "eligible_pairs": 72,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 5,
+      "counts_B": 3,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 2.352,
+      "percentile_seed_bootstrap_95_pp": [
+        -5.903,
+        12.5
+      ],
+      "seed_deltas_pp": [
+        9.091,
+        0.0,
+        -11.111,
+        0.0,
+        0.0,
+        33.333,
+        -12.5,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": false,
+        "15": true
+      }
+    },
+    {
+      "comparison": "low seq_final minus joint",
+      "metric": "swapped",
+      "eligible_pairs": 36,
+      "pairwise_validity_exclusions": 4,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "low seq_final minus joint",
+      "metric": "converged",
+      "eligible_pairs": 36,
+      "pairwise_validity_exclusions": 4,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 7,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "low seq_final minus joint",
+      "metric": "undershoot",
+      "eligible_pairs": 40,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 0,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 0.0,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        0.0
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": true
+    },
+    {
+      "comparison": "low seq_final minus joint",
+      "metric": "overshoot",
+      "eligible_pairs": 40,
+      "pairwise_validity_exclusions": 0,
+      "counts_A": 4,
+      "counts_B": 0,
+      "independent_seed_clusters": 8,
+      "equal_seed_mean_delta_percentage_points": 12.5,
+      "percentile_seed_bootstrap_95_pp": [
+        0.0,
+        37.5
+      ],
+      "seed_deltas_pp": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        100.0,
+        0.0,
+        0.0
+      ],
+      "seed_zero_variance": false,
+      "equivalence_sensitivity": {
+        "5": false,
+        "10": false,
+        "15": false
+      }
+    }
+  ]
+}

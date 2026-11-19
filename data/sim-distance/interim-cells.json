@@ -1,6 +1,6 @@
 {
-  "scored": 419,
-  "finals": 387,
+  "scored": 491,
+  "finals": 459,
   "balanced_complete": false,
   "cells": {
     "all_scored": [
@@ -96,10 +96,10 @@
         "mode": "joint",
         "similarity": "medium",
         "distance": "touch",
-        "n": 3,
-        "count_ok": 3,
+        "n": 8,
+        "count_ok": 8,
         "counts": {
-          "correct": 3
+          "correct": 8
         },
         "undercount": 0,
         "overcount": 0,
@@ -122,9 +122,11 @@
         "mode": "joint",
         "similarity": "low",
         "distance": "far",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 10,
+        "count_ok": 10,
+        "counts": {
+          "correct": 10
+        },
         "undercount": 0,
         "overcount": 0,
         "copy": 0,
@@ -134,9 +136,11 @@
         "mode": "joint",
         "similarity": "low",
         "distance": "near",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 9,
+        "count_ok": 9,
+        "counts": {
+          "correct": 9
+        },
         "undercount": 0,
         "overcount": 0,
         "copy": 0,
@@ -146,9 +150,11 @@
         "mode": "joint",
         "similarity": "low",
         "distance": "touch",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 9,
+        "count_ok": 9,
+        "counts": {
+          "correct": 9
+        },
         "undercount": 0,
         "overcount": 0,
         "copy": 0,
@@ -158,9 +164,11 @@
         "mode": "joint",
         "similarity": "low",
         "distance": "overlap",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 5,
+        "count_ok": 5,
+        "counts": {
+          "correct": 5
+        },
         "undercount": 0,
         "overcount": 0,
         "copy": 0,
@@ -260,13 +268,16 @@
         "mode": "seq_final",
         "similarity": "medium",
         "distance": "touch",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 6,
+        "count_ok": 4,
+        "counts": {
+          "correct": 4,
+          "count_error": 2
+        },
         "undercount": 0,
-        "overcount": 0,
+        "overcount": 2,
         "copy": 0,
-        "copy_n": 0
+        "copy_n": 4
       },
       {
         "mode": "seq_final",
@@ -284,37 +295,46 @@
         "mode": "seq_final",
         "similarity": "low",
         "distance": "far",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 10,
+        "count_ok": 9,
+        "counts": {
+          "correct": 9,
+          "count_error": 1
+        },
         "undercount": 0,
-        "overcount": 0,
+        "overcount": 1,
         "copy": 0,
-        "copy_n": 0
+        "copy_n": 9
       },
       {
         "mode": "seq_final",
         "similarity": "low",
         "distance": "near",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 9,
+        "count_ok": 8,
+        "counts": {
+          "correct": 8,
+          "count_error": 1
+        },
         "undercount": 0,
-        "overcount": 0,
+        "overcount": 1,
         "copy": 0,
-        "copy_n": 0
+        "copy_n": 8
       },
       {
         "mode": "seq_final",
         "similarity": "low",
         "distance": "touch",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 9,
+        "count_ok": 8,
+        "counts": {
+          "correct": 8,
+          "count_error": 1
+        },
         "undercount": 0,
-        "overcount": 0,
+        "overcount": 1,
         "copy": 0,
-        "copy_n": 0
+        "copy_n": 8
       },
       {
         "mode": "seq_final",
@@ -419,10 +439,10 @@
         "mode": "joint",
         "similarity": "medium",
         "distance": "touch",
-        "n": 3,
-        "count_ok": 3,
+        "n": 8,
+        "count_ok": 8,
         "counts": {
-          "correct": 3
+          "correct": 8
         },
         "undercount": 0,
         "overcount": 0,
@@ -445,9 +465,11 @@
         "mode": "joint",
         "similarity": "low",
         "distance": "far",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 10,
+        "count_ok": 10,
+        "counts": {
+          "correct": 10
+        },
         "undercount": 0,
         "overcount": 0,
         "copy": 0,
@@ -457,9 +479,11 @@
         "mode": "joint",
         "similarity": "low",
         "distance": "near",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 9,
+        "count_ok": 9,
+        "counts": {
+          "correct": 9
+        },
         "undercount": 0,
         "overcount": 0,
         "copy": 0,
@@ -469,9 +493,11 @@
         "mode": "joint",
         "similarity": "low",
         "distance": "touch",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 9,
+        "count_ok": 9,
+        "counts": {
+          "correct": 9
+        },
         "undercount": 0,
         "overcount": 0,
         "copy": 0,
@@ -481,9 +507,11 @@
         "mode": "joint",
         "similarity": "low",
         "distance": "overlap",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 5,
+        "count_ok": 5,
+        "counts": {
+          "correct": 5
+        },
         "undercount": 0,
         "overcount": 0,
         "copy": 0,
@@ -583,13 +611,16 @@
         "mode": "seq_final",
         "similarity": "medium",
         "distance": "touch",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 6,
+        "count_ok": 4,
+        "counts": {
+          "correct": 4,
+          "count_error": 2
+        },
         "undercount": 0,
-        "overcount": 0,
+        "overcount": 2,
         "copy": 0,
-        "copy_n": 0
+        "copy_n": 4
       },
       {
         "mode": "seq_final",
@@ -607,37 +638,46 @@
         "mode": "seq_final",
         "similarity": "low",
         "distance": "far",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 10,
+        "count_ok": 9,
+        "counts": {
+          "correct": 9,
+          "count_error": 1
+        },
         "undercount": 0,
-        "overcount": 0,
+        "overcount": 1,
         "copy": 0,
-        "copy_n": 0
+        "copy_n": 9
       },
       {
         "mode": "seq_final",
         "similarity": "low",
         "distance": "near",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 9,
+        "count_ok": 8,
+        "counts": {
+          "correct": 8,
+          "count_error": 1
+        },
         "undercount": 0,
-        "overcount": 0,
+        "overcount": 1,
         "copy": 0,
-        "copy_n": 0
+        "copy_n": 8
       },
       {
         "mode": "seq_final",
         "similarity": "low",
         "distance": "touch",
-        "n": 0,
-        "count_ok": 0,
-        "counts": {},
+        "n": 9,
+        "count_ok": 8,
+        "counts": {
+          "correct": 8,
+          "count_error": 1
+        },
         "undercount": 0,
-        "overcount": 0,
+        "overcount": 1,
         "copy": 0,
-        "copy_n": 0
+        "copy_n": 8
       },
       {
         "mode": "seq_final",
