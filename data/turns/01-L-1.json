@@ -22,7 +22,7 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/combined/step-2.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/combined/step-3.jpg"
     ],
-    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "trace": "/root/autodl-tmp/flux-experiments/2026-11-19/05-multiturn-360/C01L/seed-1/combined/trace.npz"
   },
   {
     "case": "C01L",
@@ -47,7 +47,7 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/marble/step-2.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/marble/step-3.jpg"
     ],
-    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "trace": "/root/autodl-tmp/flux-experiments/2026-11-19/05-multiturn-360/C01L/seed-1/marble/trace.npz"
   },
   {
     "case": "C01L",
@@ -72,7 +72,7 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/marble_then_swap/step-2.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/marble_then_swap/step-3.jpg"
     ],
-    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "trace": "/root/autodl-tmp/flux-experiments/2026-11-19/05-multiturn-360/C01L/seed-1/marble_then_swap/trace.npz"
   },
   {
     "case": "C01L",
@@ -97,7 +97,7 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/swap/step-2.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/swap/step-3.jpg"
     ],
-    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "trace": "/root/autodl-tmp/flux-experiments/2026-11-19/05-multiturn-360/C01L/seed-1/swap/trace.npz"
   },
   {
     "case": "C01L",
@@ -122,7 +122,7 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/swap_then_marble/step-2.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/swap_then_marble/step-3.jpg"
     ],
-    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "trace": "/root/autodl-tmp/flux-experiments/2026-11-19/05-multiturn-360/C01L/seed-1/swap_then_marble/trace.npz"
   },
   {
     "case": "C01L",
@@ -147,6 +147,6 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/undo/step-2.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C01L/seed-1/undo/step-3.jpg"
     ],
-    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "trace": "/root/autodl-tmp/flux-experiments/2026-11-19/05-multiturn-360/C01L/seed-1/undo/trace.npz"
   }
 ]

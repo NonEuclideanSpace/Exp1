@@ -34,7 +34,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01A/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01A/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01A/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01A",
@@ -71,7 +72,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01A/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01A/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01A/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01A",
@@ -108,7 +110,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01A/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01A/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01A/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01A",
@@ -145,7 +148,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01A/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01A/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01A/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01A",
@@ -182,7 +186,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01A/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01A/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01A/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01B",
@@ -219,7 +224,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01B/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01B/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01B/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01B",
@@ -256,7 +262,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01B/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01B/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01B/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01B",
@@ -293,7 +300,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01B/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01B/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01B/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01B",
@@ -330,7 +338,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01B/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01B/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01B/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01B",
@@ -367,7 +376,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01B/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01B/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01B/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01L",
@@ -404,7 +414,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01L/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01L/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01L/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01L",
@@ -441,7 +452,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01L/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01L/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01L/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01L",
@@ -478,7 +490,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01L/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01L/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01L/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01L",
@@ -515,7 +528,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01L/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01L/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01L/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C01L",
@@ -552,7 +566,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01L/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C01L/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C01L/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02A",
@@ -590,7 +605,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02A/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02A/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02A/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02A",
@@ -628,7 +644,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02A/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02A/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02A/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02A",
@@ -666,7 +683,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02A/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02A/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02A/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02A",
@@ -704,7 +722,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02A/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02A/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02A/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02A",
@@ -742,7 +761,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02A/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02A/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02A/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02B",
@@ -780,7 +800,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02B/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02B/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02B/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02B",
@@ -818,7 +839,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02B/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02B/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02B/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02B",
@@ -856,7 +878,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02B/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02B/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02B/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02B",
@@ -894,7 +917,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02B/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02B/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02B/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02B",
@@ -932,7 +956,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02B/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02B/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02B/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02L",
@@ -970,7 +995,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02L/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02L/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02L/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02L",
@@ -1008,7 +1034,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02L/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02L/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02L/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02L",
@@ -1046,7 +1073,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02L/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02L/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02L/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02L",
@@ -1084,7 +1112,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02L/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02L/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02L/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C02L",
@@ -1122,7 +1151,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02L/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C02L/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C02L/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03A",
@@ -1159,7 +1189,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03A/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03A/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03A/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03A",
@@ -1196,7 +1227,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03A/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03A/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03A/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03A",
@@ -1233,7 +1265,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03A/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03A/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03A/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03A",
@@ -1270,7 +1303,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03A/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03A/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03A/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03A",
@@ -1307,7 +1341,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03A/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03A/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03A/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03B",
@@ -1344,7 +1379,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03B/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03B/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03B/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03B",
@@ -1381,7 +1417,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03B/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03B/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03B/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03B",
@@ -1418,7 +1455,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03B/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03B/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03B/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03B",
@@ -1455,7 +1493,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03B/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03B/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03B/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03B",
@@ -1492,7 +1531,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03B/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03B/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03B/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03L",
@@ -1529,7 +1569,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03L/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03L/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03L/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03L",
@@ -1566,7 +1607,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03L/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03L/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03L/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03L",
@@ -1603,7 +1645,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03L/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03L/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03L/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03L",
@@ -1640,7 +1683,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03L/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03L/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03L/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C03L",
@@ -1677,7 +1721,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03L/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C03L/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C03L/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04A",
@@ -1715,7 +1760,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04A/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04A/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04A/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04A",
@@ -1753,7 +1799,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04A/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04A/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04A/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04A",
@@ -1791,7 +1838,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04A/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04A/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04A/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04A",
@@ -1829,7 +1877,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04A/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04A/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04A/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04A",
@@ -1867,7 +1916,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04A/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04A/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04A/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04B",
@@ -1905,7 +1955,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04B/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04B/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04B/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04B",
@@ -1943,7 +1994,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04B/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04B/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04B/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04B",
@@ -1981,7 +2033,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04B/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04B/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04B/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04B",
@@ -2019,7 +2072,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04B/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04B/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04B/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04B",
@@ -2057,7 +2111,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04B/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04B/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04B/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04L",
@@ -2095,7 +2150,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04L/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04L",
@@ -2133,7 +2189,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04L/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04L",
@@ -2171,7 +2228,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04L/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04L",
@@ -2209,7 +2267,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04L/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C04L",
@@ -2247,7 +2306,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C04L/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05A",
@@ -2285,7 +2345,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05A/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05A/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05A/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05A",
@@ -2323,7 +2384,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05A/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05A/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05A/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05A",
@@ -2361,7 +2423,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05A/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05A/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05A/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05A",
@@ -2399,7 +2462,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05A/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05A/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05A/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05A",
@@ -2437,7 +2501,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05A/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05A/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05A/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05B",
@@ -2475,7 +2540,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05B/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05B/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05B/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05B",
@@ -2513,7 +2579,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05B/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05B/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05B/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05B",
@@ -2551,7 +2618,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05B/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05B/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05B/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05B",
@@ -2589,7 +2657,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05B/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05B/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05B/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05B",
@@ -2627,7 +2696,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05B/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05B/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05B/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05L",
@@ -2663,7 +2733,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05L/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05L/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05L/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05L",
@@ -2699,7 +2770,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05L/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05L/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05L/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05L",
@@ -2735,7 +2807,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05L/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05L/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05L/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05L",
@@ -2771,7 +2844,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05L/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05L/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05L/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C05L",
@@ -2807,7 +2881,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05L/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C05L/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C05L/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06A",
@@ -2846,7 +2921,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06A/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06A",
@@ -2885,7 +2961,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06A/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06A",
@@ -2924,7 +3001,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06A/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06A",
@@ -2963,7 +3041,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06A/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06A",
@@ -3002,7 +3081,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06A/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06B",
@@ -3041,7 +3121,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06B/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06B/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06B/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06B",
@@ -3080,7 +3161,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06B/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06B/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06B/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06B",
@@ -3119,7 +3201,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06B/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06B/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06B/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06B",
@@ -3158,7 +3241,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06B/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06B/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06B/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06B",
@@ -3197,7 +3281,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06B/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06B/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06B/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06L",
@@ -3235,7 +3320,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06L/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06L/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06L/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06L",
@@ -3273,7 +3359,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06L/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06L/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06L/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06L",
@@ -3311,7 +3398,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06L/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06L/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06L/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06L",
@@ -3349,7 +3437,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06L/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06L/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06L/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C06L",
@@ -3387,7 +3476,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06L/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06L/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C06L/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07A",
@@ -3426,7 +3516,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07A/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07A/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07A/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07A",
@@ -3465,7 +3556,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07A/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07A/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07A/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07A",
@@ -3504,7 +3596,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07A/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07A/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07A/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07A",
@@ -3543,7 +3636,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07A/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07A/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07A/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07A",
@@ -3582,7 +3676,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07A/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07A/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07A/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07B",
@@ -3621,7 +3716,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07B/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07B/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07B/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07B",
@@ -3660,7 +3756,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07B/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07B/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07B/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07B",
@@ -3699,7 +3796,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07B/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07B/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07B/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07B",
@@ -3738,7 +3836,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07B/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07B/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07B/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07B",
@@ -3777,7 +3876,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07B/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07B/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07B/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07L",
@@ -3815,7 +3915,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07L/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07L",
@@ -3853,7 +3954,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07L/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07L",
@@ -3891,7 +3993,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07L/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07L",
@@ -3929,7 +4032,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07L/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C07L",
@@ -3967,7 +4071,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C07L/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08A",
@@ -4005,7 +4110,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08A/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08A/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08A/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08A",
@@ -4043,7 +4149,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08A/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08A/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08A/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08A",
@@ -4081,7 +4188,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08A/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08A/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08A/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08A",
@@ -4119,7 +4227,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08A/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08A/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08A/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08A",
@@ -4157,7 +4266,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08A/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08A/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08A/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08B",
@@ -4195,7 +4305,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08B/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08B/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08B/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08B",
@@ -4233,7 +4344,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08B/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08B/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08B/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08B",
@@ -4271,7 +4383,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08B/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08B/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08B/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08B",
@@ -4309,7 +4422,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08B/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08B/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08B/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08B",
@@ -4347,7 +4461,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08B/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08B/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08B/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08L",
@@ -4385,7 +4500,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08L/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08L",
@@ -4423,7 +4539,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08L/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08L",
@@ -4461,7 +4578,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08L/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08L",
@@ -4499,7 +4617,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08L/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C08L",
@@ -4537,7 +4656,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C08L/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09A",
@@ -4576,7 +4696,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09A/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09A/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09A/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09A",
@@ -4615,7 +4736,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09A/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09A/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09A/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09A",
@@ -4654,7 +4776,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09A/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09A/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09A/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09A",
@@ -4693,7 +4816,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09A/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09A/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09A/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09A",
@@ -4732,7 +4856,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09A/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09A/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09A/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09B",
@@ -4771,7 +4896,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09B/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09B/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09B/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09B",
@@ -4810,7 +4936,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09B/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09B/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09B/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09B",
@@ -4849,7 +4976,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09B/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09B/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09B/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09B",
@@ -4888,7 +5016,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09B/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09B/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09B/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09B",
@@ -4927,7 +5056,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09B/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09B/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09B/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09L",
@@ -4963,7 +5093,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09L/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09L",
@@ -4999,7 +5130,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09L/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09L",
@@ -5035,7 +5167,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09L/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09L",
@@ -5071,7 +5204,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09L/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C09L",
@@ -5107,7 +5241,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09L/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10A",
@@ -5143,7 +5278,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10A/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10A",
@@ -5179,7 +5315,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10A/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10A",
@@ -5215,7 +5352,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10A/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10A",
@@ -5251,7 +5389,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10A/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10A",
@@ -5287,7 +5426,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10A/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10B",
@@ -5323,7 +5463,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10B/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10B/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10B/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10B",
@@ -5359,7 +5500,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10B/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10B/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10B/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10B",
@@ -5395,7 +5537,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10B/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10B/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10B/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10B",
@@ -5431,7 +5574,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10B/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10B/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10B/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10B",
@@ -5467,7 +5611,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10B/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10B/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10B/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10L",
@@ -5503,7 +5648,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10L/seed-0/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10L/seed-0/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10L/seed-0",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10L",
@@ -5539,7 +5685,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10L/seed-1/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10L/seed-1/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10L/seed-1",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10L",
@@ -5575,7 +5722,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10L/seed-2/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10L/seed-2/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10L/seed-2",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10L",
@@ -5611,7 +5759,8 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10L/seed-3/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10L/seed-3/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10L/seed-3",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   },
   {
     "case": "C10L",
@@ -5647,6 +5796,7 @@
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10L/seed-4/step-2-estimate.jpg",
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10L/seed-4/step-3-estimate.jpg"
     ],
-    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+    "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C10L/seed-4",
+    "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
   }
 ]

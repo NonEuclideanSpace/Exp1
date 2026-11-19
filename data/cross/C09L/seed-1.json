@@ -32,5 +32,6 @@
     "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-1/step-2-estimate.jpg",
     "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C09L/seed-1/step-3-estimate.jpg"
   ],
-  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  "machine_trace_path": "/root/autodl-tmp/flux-experiments/2026-11-19/04-cross-scene-150/results/C09L/seed-1",
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/blob/main/DATA_LOCATION.md"
 }

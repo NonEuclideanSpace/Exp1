@@ -1,0 +1,21 @@
+{
+  "new_fixed_seeds": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "right_neck_copied": [
+    true,
+    false,
+    false,
+    false
+  ],
+  "unclear_continuity": [
+    10
+  ],
+  "source": "AI inspection of full-size originals; retain earlier blind Qwen outputs without replacing them",
+  "count_clear_typical_error": 1,
+  "minimum_for_expansion": 2,
+  "decision": "Stop this candidate; retain real seed 8 error and matched negative images. Do not expand to the proposed 32 runs."
+}

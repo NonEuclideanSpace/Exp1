@@ -32,3 +32,5 @@
 [Prospective diagnostic cases and falsification criteria](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/diagnostic-design.md)
 
 [Ten predictions, controls, and criteria](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/ten-predictions.md)
+
+[Paired causal controls and original images](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/hypothesis-evidence.md)
