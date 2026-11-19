@@ -1,0 +1,166 @@
+{
+  "model": "FLUX.2-klein-9b-kv",
+  "steps": 4,
+  "size": [
+    512,
+    512
+  ],
+  "eval_seeds": [
+    0,
+    1,
+    2
+  ],
+  "branches": [
+    [
+      "swap",
+      "initial",
+      "B",
+      false,
+      "swap"
+    ],
+    [
+      "swap_then_marble",
+      "swap",
+      "B",
+      true,
+      "marble"
+    ],
+    [
+      "undo",
+      "swap_then_marble",
+      "A",
+      true,
+      "undo"
+    ],
+    [
+      "marble",
+      "initial",
+      "A",
+      true,
+      "marble"
+    ],
+    [
+      "marble_then_swap",
+      "marble",
+      "B",
+      true,
+      "swap"
+    ],
+    [
+      "combined",
+      "initial",
+      "B",
+      true,
+      "combined"
+    ]
+  ],
+  "edit_noise": "seed=1039+original_seed for every edit branch and every turn; same initial noise on sibling arms and across contexts",
+  "channel_axes": [
+    "all_text_keys",
+    "all_reference_keys",
+    "all_current_image_keys",
+    "then token groups in tokens.json"
+  ],
+  "head_spatial": "one image query at row/column 2 of each 4x4 cell, full-key softmax. 32 layers, 32 heads, four steps",
+  "initial_images": "actual simple A or unmodified benchmark L from flux-cross-20261119",
+  "marble": "Add exactly one small, vivid violet glass marble to the lower-left foreground of the scene. Preserve the people, objects, colors, and their relationships.",
+  "roles": {
+    "01": [
+      "Put the folded newspaper inside the suitcase and balance the cigar across its front rim.",
+      "Put the cigar inside the suitcase and balance the folded newspaper across its front rim.",
+      [
+        "newspaper",
+        "cigar",
+        "rim"
+      ]
+    ],
+    "02": [
+      "Wrap the backpack strap around the canteen and wrap the boot lace around the vine.",
+      "Wrap the backpack strap around the vine and wrap the boot lace around the canteen.",
+      [
+        "strap",
+        "lace",
+        "vine",
+        "canteen"
+      ]
+    ],
+    "03": [
+      "Point the broad trumpet bell upwards and put the narrow mouthpiece against the water.",
+      "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water.",
+      [
+        "mouthpiece",
+        "bell",
+        "water"
+      ]
+    ],
+    "04": [
+      "Place the silver spoon inside the ceramic bowl and lay the yellow-handled knife flat on the cutting board.",
+      "Place the yellow-handled knife inside the ceramic bowl and lay the silver spoon flat on the cutting board.",
+      [
+        "spoon",
+        "knife",
+        "bowl",
+        "cutting board"
+      ]
+    ],
+    "05": [
+      "Place the chrome tip of the screwdriver against the pocket watch; point the yellow handle away.",
+      "Place the yellow handle of the screwdriver against the pocket watch; point the chrome tip away.",
+      [
+        "tip",
+        "handle",
+        "pocket watch"
+      ]
+    ],
+    "06": [
+      "Stand the foot of the ladder inside the puddle and pin the end of the hose under the flowerpot.",
+      "Place the end of the hose inside the puddle and pin the foot of the ladder under the flowerpot.",
+      [
+        "ladder",
+        "hose",
+        "puddle",
+        "flowerpot"
+      ]
+    ],
+    "07": [
+      "Place the wire in the grip of the raven’s feet and the rusty key in its beak.",
+      "Place the rusty key in the grip of the raven’s feet and the wire in its beak.",
+      [
+        "wire",
+        "key",
+        "feet",
+        "beak"
+      ]
+    ],
+    "08": [
+      "Give the real child a stick and give the child in the puddle reflection a red balloon.",
+      "Give the real child a red balloon and give the child in the puddle reflection a stick.",
+      [
+        "real child",
+        "stick",
+        "reflection",
+        "balloon"
+      ]
+    ],
+    "09": [
+      "Place the raven on the highest ladder rung and the fox behind the bucket.",
+      "Place the fox on the highest ladder rung and the raven behind the bucket.",
+      [
+        "raven",
+        "fox",
+        "highest ladder rung",
+        "bucket"
+      ]
+    ],
+    "10": [
+      "In the framed photograph, make the dress blue and the thread spool red.",
+      "In the framed photograph, make the dress red and the thread spool blue.",
+      [
+        "dress",
+        "thread spool",
+        "blue",
+        "red"
+      ]
+    ]
+  }
+}

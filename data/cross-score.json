@@ -2,7 +2,7 @@
   "source": "Qwen3-VL blind + any separately saved human review",
   "totals": {
     "A": {
-      "correct": 27,
+      "correct": 32,
       "mixed": 11,
       "missing_contact": 6,
       "swapped": 1
@@ -11,13 +11,13 @@
       "mixed": 11,
       "swapped": 9,
       "missing_contact": 11,
-      "correct": 13,
+      "correct": 18,
       "duplicated": 1
     },
     "L": {
       "mixed": 13,
-      "correct": 11,
-      "unreadable": 6,
+      "correct": 15,
+      "unreadable": 7,
       "duplicated": 6,
       "swapped": 4,
       "missing_contact": 5

@@ -11,7 +11,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P01-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P01-0.png"
   },
   {
     "id": "P01",
@@ -25,7 +25,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P01-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P01-1.png"
   },
   {
     "id": "P01",
@@ -39,7 +39,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P01-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P01-2.png"
   },
   {
     "id": "P02",
@@ -53,7 +53,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P02-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P02-0.png"
   },
   {
     "id": "P02",
@@ -67,7 +67,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P02-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P02-1.png"
   },
   {
     "id": "P02",
@@ -81,7 +81,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P02-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P02-2.png"
   },
   {
     "id": "P03",
@@ -95,7 +95,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P03-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P03-0.png"
   },
   {
     "id": "P03",
@@ -109,7 +109,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P03-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P03-1.png"
   },
   {
     "id": "P03",
@@ -123,7 +123,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P03-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P03-2.png"
   },
   {
     "id": "P04",
@@ -137,7 +137,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P04-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P04-0.png"
   },
   {
     "id": "P04",
@@ -151,7 +151,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P04-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P04-1.png"
   },
   {
     "id": "P04",
@@ -165,7 +165,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P04-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P04-2.png"
   },
   {
     "id": "P05",
@@ -179,7 +179,7 @@
     "verdict": "错误",
     "pattern": "接触部位",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P05-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P05-0.png"
   },
   {
     "id": "P05",
@@ -193,7 +193,7 @@
     "verdict": "待定",
     "pattern": "遮挡",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P05-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P05-1.png"
   },
   {
     "id": "P05",
@@ -207,7 +207,7 @@
     "verdict": "错误",
     "pattern": "接触部位",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P05-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P05-2.png"
   },
   {
     "id": "P06",
@@ -221,7 +221,7 @@
     "verdict": "错误",
     "pattern": "接触部位",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P06-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P06-0.png"
   },
   {
     "id": "P06",
@@ -235,7 +235,7 @@
     "verdict": "错误",
     "pattern": "接触部位",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P06-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P06-1.png"
   },
   {
     "id": "P06",
@@ -249,7 +249,7 @@
     "verdict": "错误",
     "pattern": "接触部位",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P06-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P06-2.png"
   },
   {
     "id": "P07",
@@ -263,7 +263,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P07-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P07-0.png"
   },
   {
     "id": "P07",
@@ -277,7 +277,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P07-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P07-1.png"
   },
   {
     "id": "P07",
@@ -291,7 +291,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P07-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P07-2.png"
   },
   {
     "id": "P08",
@@ -305,7 +305,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P08-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P08-0.png"
   },
   {
     "id": "P08",
@@ -319,7 +319,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P08-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P08-1.png"
   },
   {
     "id": "P08",
@@ -333,7 +333,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P08-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P08-2.png"
   },
   {
     "id": "P09",
@@ -347,7 +347,7 @@
     "verdict": "错误",
     "pattern": "实体数量",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P09-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P09-0.png"
   },
   {
     "id": "P09",
@@ -361,7 +361,7 @@
     "verdict": "待定",
     "pattern": "遮挡",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P09-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P09-1.png"
   },
   {
     "id": "P09",
@@ -375,7 +375,7 @@
     "verdict": "错误",
     "pattern": "实体数量",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P09-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P09-2.png"
   },
   {
     "id": "P10",
@@ -389,7 +389,7 @@
     "verdict": "通过",
     "pattern": "",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P10-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P10-0.png"
   },
   {
     "id": "P10",
@@ -403,7 +403,7 @@
     "verdict": "待定",
     "pattern": "遮挡",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P10-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P10-1.png"
   },
   {
     "id": "P10",
@@ -417,7 +417,7 @@
     "verdict": "错误",
     "pattern": "实体数量",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/P10-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/P10-2.png"
   },
   {
     "id": "L01",
@@ -440,7 +440,7 @@
     "verdict": "错误",
     "pattern": "容器与物体归属",
     "source": "https://huggingface.co/datasets/YCZhou/LongBench-T2I/blob/ee9b9cbbcb1a683f71bddaded196ce2feca6d450/instruction.jsonl#L213",
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/L01-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/L01-0.png"
   },
   {
     "id": "L02",
@@ -463,7 +463,7 @@
     "verdict": "错误",
     "pattern": "物体朝向",
     "source": "https://huggingface.co/datasets/YCZhou/LongBench-T2I/blob/ee9b9cbbcb1a683f71bddaded196ce2feca6d450/instruction.jsonl#L478",
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/L02-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/L02-0.png"
   },
   {
     "id": "L03",
@@ -486,7 +486,7 @@
     "verdict": "错误",
     "pattern": "空间位置",
     "source": "https://huggingface.co/datasets/YCZhou/LongBench-T2I/blob/ee9b9cbbcb1a683f71bddaded196ce2feca6d450/instruction.jsonl#L414",
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/L03-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/L03-0.png"
   },
   {
     "id": "L04",
@@ -509,7 +509,7 @@
     "verdict": "错误",
     "pattern": "容器与空间关系",
     "source": "https://huggingface.co/datasets/YCZhou/LongBench-T2I/blob/ee9b9cbbcb1a683f71bddaded196ce2feca6d450/instruction.jsonl#L304",
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/L04-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/L04-0.png"
   },
   {
     "id": "L05",
@@ -532,7 +532,7 @@
     "verdict": "错误",
     "pattern": "工具与作用对象",
     "source": "https://huggingface.co/datasets/YCZhou/LongBench-T2I/blob/ee9b9cbbcb1a683f71bddaded196ce2feca6d450/instruction.jsonl#L462",
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/L05-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/L05-0.png"
   },
   {
     "id": "L06",
@@ -555,7 +555,7 @@
     "verdict": "错误",
     "pattern": "实体遗漏与接触",
     "source": "https://huggingface.co/datasets/YCZhou/LongBench-T2I/blob/ee9b9cbbcb1a683f71bddaded196ce2feca6d450/instruction.jsonl#L226",
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/L06-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/L06-0.png"
   },
   {
     "id": "L07",
@@ -578,7 +578,7 @@
     "verdict": "错误",
     "pattern": "实体数量与物体归属",
     "source": "https://huggingface.co/datasets/YCZhou/LongBench-T2I/blob/ee9b9cbbcb1a683f71bddaded196ce2feca6d450/instruction.jsonl#L273",
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/L07-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/L07-0.png"
   },
   {
     "id": "L08",
@@ -601,7 +601,7 @@
     "verdict": "错误",
     "pattern": "支撑关系",
     "source": "https://huggingface.co/datasets/YCZhou/LongBench-T2I/blob/ee9b9cbbcb1a683f71bddaded196ce2feca6d450/instruction.jsonl#L66",
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/L08-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/L08-0.png"
   },
   {
     "id": "L09",
@@ -624,7 +624,7 @@
     "verdict": "错误",
     "pattern": "实体关系",
     "source": "https://huggingface.co/datasets/YCZhou/LongBench-T2I/blob/ee9b9cbbcb1a683f71bddaded196ce2feca6d450/instruction.jsonl#L319",
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/L09-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/L09-0.png"
   },
   {
     "id": "L10",
@@ -647,7 +647,7 @@
     "verdict": "错误",
     "pattern": "空间位置",
     "source": "https://huggingface.co/datasets/YCZhou/LongBench-T2I/blob/ee9b9cbbcb1a683f71bddaded196ce2feca6d450/instruction.jsonl#L482",
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/L10-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/L10-0.png"
   },
   {
     "id": "N01",
@@ -661,7 +661,7 @@
     "verdict": "通过",
     "pattern": "一条围巾",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N01-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N01-0.png"
   },
   {
     "id": "N01",
@@ -675,7 +675,7 @@
     "verdict": "错误",
     "pattern": "一条围巾",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N01-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N01-1.png"
   },
   {
     "id": "N01",
@@ -689,7 +689,7 @@
     "verdict": "错误",
     "pattern": "一条围巾",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N01-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N01-2.png"
   },
   {
     "id": "N02",
@@ -703,7 +703,7 @@
     "verdict": "错误",
     "pattern": "一条围巾",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N02-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N02-0.png"
   },
   {
     "id": "N02",
@@ -717,7 +717,7 @@
     "verdict": "错误",
     "pattern": "一条围巾",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N02-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N02-1.png"
   },
   {
     "id": "N02",
@@ -731,7 +731,7 @@
     "verdict": "错误",
     "pattern": "一条围巾",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N02-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N02-2.png"
   },
   {
     "id": "N03",
@@ -745,7 +745,7 @@
     "verdict": "待定",
     "pattern": "同一只碗",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N03-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N03-0.png"
   },
   {
     "id": "N03",
@@ -759,7 +759,7 @@
     "verdict": "待定",
     "pattern": "同一只碗",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N03-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N03-1.png"
   },
   {
     "id": "N03",
@@ -773,7 +773,7 @@
     "verdict": "通过",
     "pattern": "同一只碗",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N03-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N03-2.png"
   },
   {
     "id": "N04",
@@ -787,7 +787,7 @@
     "verdict": "错误",
     "pattern": "同一只碗",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N04-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N04-0.png"
   },
   {
     "id": "N04",
@@ -801,7 +801,7 @@
     "verdict": "错误",
     "pattern": "同一只碗",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N04-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N04-1.png"
   },
   {
     "id": "N04",
@@ -815,7 +815,7 @@
     "verdict": "错误",
     "pattern": "同一只碗",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N04-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N04-2.png"
   },
   {
     "id": "N05",
@@ -829,7 +829,7 @@
     "verdict": "待定",
     "pattern": "钥匙穿环",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N05-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N05-0.png"
   },
   {
     "id": "N05",
@@ -843,7 +843,7 @@
     "verdict": "错误",
     "pattern": "钥匙穿环",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N05-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N05-1.png"
   },
   {
     "id": "N05",
@@ -857,7 +857,7 @@
     "verdict": "待定",
     "pattern": "钥匙穿环",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N05-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N05-2.png"
   },
   {
     "id": "N06",
@@ -871,7 +871,7 @@
     "verdict": "通过",
     "pattern": "钥匙穿环",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N06-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N06-0.png"
   },
   {
     "id": "N06",
@@ -885,7 +885,7 @@
     "verdict": "通过",
     "pattern": "钥匙穿环",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N06-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N06-1.png"
   },
   {
     "id": "N06",
@@ -899,7 +899,7 @@
     "verdict": "错误",
     "pattern": "钥匙穿环",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N06-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N06-2.png"
   },
   {
     "id": "N07",
@@ -913,7 +913,7 @@
     "verdict": "错误",
     "pattern": "双爪接触",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N07-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N07-0.png"
   },
   {
     "id": "N07",
@@ -927,7 +927,7 @@
     "verdict": "错误",
     "pattern": "双爪接触",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N07-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N07-1.png"
   },
   {
     "id": "N07",
@@ -941,7 +941,7 @@
     "verdict": "错误",
     "pattern": "双爪接触",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N07-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N07-2.png"
   },
   {
     "id": "N08",
@@ -955,7 +955,7 @@
     "verdict": "错误",
     "pattern": "双爪接触",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N08-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N08-0.png"
   },
   {
     "id": "N08",
@@ -969,7 +969,7 @@
     "verdict": "错误",
     "pattern": "双爪接触",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N08-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N08-1.png"
   },
   {
     "id": "N08",
@@ -983,7 +983,7 @@
     "verdict": "错误",
     "pattern": "双爪接触",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N08-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N08-2.png"
   },
   {
     "id": "N09",
@@ -997,7 +997,7 @@
     "verdict": "错误",
     "pattern": "同一朵郁金香",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N09-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N09-0.png"
   },
   {
     "id": "N09",
@@ -1011,7 +1011,7 @@
     "verdict": "通过",
     "pattern": "同一朵郁金香",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N09-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N09-1.png"
   },
   {
     "id": "N09",
@@ -1025,7 +1025,7 @@
     "verdict": "错误",
     "pattern": "同一朵郁金香",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N09-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N09-2.png"
   },
   {
     "id": "N10",
@@ -1039,7 +1039,7 @@
     "verdict": "错误",
     "pattern": "同一朵郁金香",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N10-0.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N10-0.png"
   },
   {
     "id": "N10",
@@ -1053,7 +1053,7 @@
     "verdict": "错误",
     "pattern": "同一朵郁金香",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N10-1.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N10-1.png"
   },
   {
     "id": "N10",
@@ -1067,6 +1067,6 @@
     "verdict": "待定",
     "pattern": "同一朵郁金香",
     "source": null,
-    "image": "https://noneuclideanspace.github.io/Exp1/articles/flux/prior-samples/N10-2.png"
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/articles/flux/prior-samples/N10-2.png"
   }
 ]

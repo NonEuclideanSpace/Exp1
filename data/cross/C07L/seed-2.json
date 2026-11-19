@@ -27,12 +27,12 @@
   ],
   "behavior": "在乌鸦脚下或脚中　钥匙　｜　在乌鸦嘴里　钥匙",
   "readout": "Qwen3-VL blind",
-  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C07L/seed-2/final.png",
+  "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-2/final.png",
   "stages": [
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C07L/seed-2/step-0-estimate.jpg",
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C07L/seed-2/step-1-estimate.jpg",
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C07L/seed-2/step-2-estimate.jpg",
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C07L/seed-2/step-3-estimate.jpg"
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-2/step-0-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-2/step-1-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-2/step-2-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C07L/seed-2/step-3-estimate.jpg"
   ],
   "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
 }

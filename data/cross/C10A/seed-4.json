@@ -1,0 +1,36 @@
+{
+  "case": "C10A",
+  "family": "衣服与线轴",
+  "seed": 4,
+  "variant": "A",
+  "prompt_en": "A framed photograph on a wall shows a woman in a blue dress holding a red thread spool in one hand. Both the fabric of the dress and the thread on the spool are clearly visible. Soft natural light, still-life photograph, clear view of the contact points.",
+  "target_zh": "墙上照片里，女子穿蓝裙，拿红色线轴。",
+  "criterion": "A: dress blue, spool red. B: dress red, spool blue.",
+  "source": null,
+  "model": "FLUX.2-klein-9b-kv",
+  "size": [
+    512,
+    512
+  ],
+  "denoising_steps": 4,
+  "term_groups": [
+    "photograph",
+    "woman",
+    "blue dress",
+    "red thread spool"
+  ],
+  "verdict_codes": [
+    "A",
+    "B"
+  ],
+  "behavior": "照片内裙子　蓝色　｜　照片内线轴　红色",
+  "readout": "Qwen3-VL blind",
+  "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-4/final.png",
+  "stages": [
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-4/step-0-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-4/step-1-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-4/step-2-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10A/seed-4/step-3-estimate.jpg"
+  ],
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+}

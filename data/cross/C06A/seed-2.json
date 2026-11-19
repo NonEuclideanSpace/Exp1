@@ -28,12 +28,12 @@
   ],
   "behavior": "位于水洼　软管　｜　在花盆下　都没有",
   "readout": "Qwen3-VL blind",
-  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C06A/seed-2/final.png",
+  "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-2/final.png",
   "stages": [
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C06A/seed-2/step-0-estimate.jpg",
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C06A/seed-2/step-1-estimate.jpg",
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C06A/seed-2/step-2-estimate.jpg",
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C06A/seed-2/step-3-estimate.jpg"
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-2/step-0-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-2/step-1-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-2/step-2-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-2/step-3-estimate.jpg"
   ],
   "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
 }

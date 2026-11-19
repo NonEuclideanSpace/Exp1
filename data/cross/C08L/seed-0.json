@@ -27,12 +27,12 @@
   ],
   "behavior": "真人手中　木棍　｜　倒影手中　两者",
   "readout": "Qwen3-VL blind",
-  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C08L/seed-0/final.png",
+  "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-0/final.png",
   "stages": [
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C08L/seed-0/step-0-estimate.jpg",
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C08L/seed-0/step-1-estimate.jpg",
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C08L/seed-0/step-2-estimate.jpg",
-    "https://noneuclideanspace.github.io/Exp1/media/cross/C08L/seed-0/step-3-estimate.jpg"
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-0/step-0-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-0/step-1-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-0/step-2-estimate.jpg",
+    "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C08L/seed-0/step-3-estimate.jpg"
   ],
   "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
 }

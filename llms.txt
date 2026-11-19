@@ -1,22 +1,18 @@
-# Exp1 | FLUX entity binding and multi-turn edits
+# Exp1 | FLUX 实验审阅
 
-Canonical project site: https://noneuclideanspace.github.io/Exp1/
+网上的图像、表格和提示词均由独立 GitHub 仓库提供，无需运行 JavaScript。
 
-- https://noneuclideanspace.github.io/Exp1/data/index.json — 实验数据总索引、样本总数与机器可读表。
-- https://noneuclideanspace.github.io/Exp1/data/findings.json — 已测得的模块条件和逐块结论。
-- https://noneuclideanspace.github.io/Exp1/data/prior-samples.json — 70 条基线样本、英文输入、中文说明、原图、行为判读。
-- https://noneuclideanspace.github.io/Exp1/data/blocks/5.md — H22 的词路由对照和成图干预。
-- https://noneuclideanspace.github.io/Exp1/data/blocks/25.md — 七块联合移植与平移对照。
-- https://noneuclideanspace.github.io/Exp1/research/ — 新的简单场景、LongBench 和真正多轮编辑。
-- https://noneuclideanspace.github.io/Exp1/articles/flux/block-5.html — 不运行 JavaScript 也可阅读的实验页。
-
-## Sample indexes
-
-baseline 70, single-turn cross-domain 138/150, multi-turn edits 0/360
-
-- prior: https://noneuclideanspace.github.io/Exp1/data/prior-samples.json
-- bowl: https://noneuclideanspace.github.io/Exp1/data/bowl-samples.json
-- cross: https://noneuclideanspace.github.io/Exp1/data/cross-samples.json
-- multiturn: https://noneuclideanspace.github.io/Exp1/data/multiturn-samples.json
-- reference: https://noneuclideanspace.github.io/Exp1/data/reference-samples.json
-- Download archives: https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119
+- https://github.com/NonEuclideanSpace/Exp1
+- https://github.com/NonEuclideanSpace/Exp1/blob/main/REVIEW.md
+- https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/index.json
+- https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/findings.json
+- https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/causal-reviewed.json
+- https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/prior-samples.json
+- https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/cross-samples.json
+- https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/multiturn-samples.json
+- https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/bowl-samples.json
+- https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/component-search.json
+- https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/first-step-rabbit-heads.json
+- https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/blocks/5.md
+- https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/blocks/25.md
+- https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119
