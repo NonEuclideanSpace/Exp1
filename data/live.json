@@ -1,5 +1,5 @@
 {
-  "snapshot_hong_kong": "2026-11-19 21:29:11 +0800",
+  "snapshot_hong_kong": "2026-11-19 21:30:26 +0800",
   "published_cohorts": {
     "prior": 70,
     "bowl_intervention_outputs": 320,
@@ -7,9 +7,9 @@
     "multiturn_edits": 360,
     "reference_path_intervention": 12
   },
-  "sim_distance_generated": 445,
+  "sim_distance_generated": 465,
   "sim_distance_generation_target": 800,
-  "sim_distance_scored": 123,
+  "sim_distance_scored": 227,
   "sim_distance_passive_completed": 0,
   "multiturn_target": 360,
   "update_policy": "Check new artifacts every 60 seconds. Publication time also includes copying and pushing images."
