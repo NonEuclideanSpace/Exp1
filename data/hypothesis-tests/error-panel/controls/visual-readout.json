@@ -1,0 +1,101 @@
+{
+  "seeds": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "source": "AI visual examination. Endpoint is specific to each condition; unknown projection is retained. No uniform overall accuracy claimed.",
+  "conditions": {
+    "J02-one-bottom": {
+      "endpoint": "Fingertip visibly meets white target",
+      "met": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "observation": [
+        "指尖接到白点右上边缘。",
+        "指尖落在白点上。",
+        "指尖遮住白点的一部分。",
+        "指尖和白点之间保留一小段蓝色间隙。"
+      ]
+    },
+    "J02-one-rim": {
+      "endpoint": "Hand directed to upper rim; physical depth ambiguous",
+      "met": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "observation": [
+        "手与上沿轮廓相交，指尖投影位于上沿内侧，深度未定。",
+        "手与上沿轮廓相交，指尖投影位于上沿内侧，深度未定。",
+        "手与上沿轮廓相交，指尖投影位于上沿内侧，深度未定。",
+        "手与上沿轮廓相交，指尖投影位于上沿内侧，深度未定。"
+      ]
+    },
+    "J01-one-wear": {
+      "endpoint": "Subject wears beads, irrespective of loop count",
+      "met": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "observation": [
+        "胸前有单道垂珠。",
+        "胸前有单道垂珠。",
+        "胸前有两道垂珠。",
+        "胸前有多道垂珠。"
+      ]
+    },
+    "J01-one-hold": {
+      "endpoint": "Subject grasps beads with bare neck",
+      "met": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "observation": [
+        "手上有珠串，颈部裸露。",
+        "手上有珠串，颈部裸露。",
+        "手上有珠串，颈部裸露。",
+        "手上有珠串，颈部裸露。"
+      ]
+    },
+    "J01-two-strands": {
+      "endpoint": "Right subject holds separate beads and has bare neck; full strand count scored separately",
+      "met": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "observation": [
+        "右偶手持珠串，颈部裸露。",
+        "右偶颈上也有珠串。",
+        "右偶手持珠串，颈部裸露；左偶颈和手处均可见珠子。",
+        "右偶身上也有一串从颈侧和肩上垂下的珠子。"
+      ]
+    },
+    "N02-single-cat": {
+      "endpoint": "Cat grasps cloth without a neck loop",
+      "met": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "observation": [
+        "猫嘴叼布，颈上无红圈。",
+        "猫嘴叼布，颈上也有红圈。",
+        "猫嘴叼布，颈上也有红圈。",
+        "猫嘴叼布，颈上也有红圈。"
+      ]
+    }
+  }
+}

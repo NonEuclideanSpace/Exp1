@@ -1,0 +1,24 @@
+{
+  "seeds": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "model": "FLUX.2-klein-9b-kv",
+  "steps": 4,
+  "size": [
+    512,
+    512
+  ],
+  "rng": "cuda",
+  "prompts": {
+    "J02-one-bottom": "One ivory wooden artist's mannequin on the right faces one shallow cobalt dish on a walnut table. The mannequin presses one fingertip onto the white dot at the inside bottom of the dish. View from slightly above. Its wooden arm is fully visible from shoulder to fingertip. Soft window light.",
+    "J02-one-rim": "One ivory wooden artist's mannequin on the left faces one shallow cobalt dish on a walnut table. The mannequin rests one fingertip on the upper rim. A white dot is painted at the inside bottom of the dish. View from slightly above. Its wooden arm is fully visible from shoulder to fingertip. Soft window light.",
+    "J01-one-wear": "One ivory wooden artist's mannequin stands on the left behind a walnut jewelry counter, facing the camera. A single long strand of garnet beads loops once around its neck. Its neck, both hands and the entire strand are in frame. Soft window light.",
+    "J01-one-hold": "One ivory wooden artist's mannequin stands on the right behind a walnut jewelry counter, facing the camera. It holds the loose end of a long strand of garnet beads between its fingertips, its own bare wooden neck fully visible. Its neck, both hands and the entire strand are in frame. Soft window light.",
+    "J01-two-strands": "Two ivory wooden artist's mannequins stand side by side behind a walnut jewelry counter, facing the camera. One strand of garnet beads loops once around the left mannequin's neck. The right mannequin holds a second, separate strand of garnet beads between its fingertips, its own bare wooden neck fully visible. Both necks, both hands and both strands are in frame. Soft window light.",
+    "N02-single-cat": "A jade-green ceramic cat bites the free end of a single coral scarf, its neck completely bare. The remaining length of fabric lies on the studio floor in front of the cat. Show the entire scarf and the cat's neck. Matte ceramic glaze, warm ivory backdrop, soft studio light."
+  },
+  "scope": "Same pilot seeds. Single subject and separate strands are diagnostics. Removing an actor changes language and may shift layout."
+}

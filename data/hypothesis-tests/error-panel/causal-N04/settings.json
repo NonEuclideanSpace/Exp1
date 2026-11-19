@@ -1,0 +1,35 @@
+{
+  "seeds": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "steps": [
+    1,
+    2
+  ],
+  "blocks": [
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    32
+  ],
+  "forward": [
+    "capture",
+    "base",
+    "copy",
+    "R",
+    "V",
+    "whole"
+  ],
+  "reverse": [
+    "capture",
+    "base",
+    "V"
+  ],
+  "reverse_description": "N04 V captured and injected into role-equivalent G1 at same seed; count induction only where original G1 satisfies both roles."
+}

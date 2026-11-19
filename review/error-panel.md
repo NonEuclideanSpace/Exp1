@@ -20,3 +20,7 @@
 |J02|22|错误|右侧两手在白点的上方与右上方，盘底白点无遮挡，没有指尖碰到。|[打开](../media/hypothesis-tests/error-panel/J02-s22.png)|
 |J02|23|错误|右偶一只尖手朝盘内白点伸去，末端和白点之间仍有一段蓝色盘面。|[打开](../media/hypothesis-tests/error-panel/J02-s23.png)|
 |J02|24|错误|右侧两只手都伸向盘内，前端停在白点上方，白点与指尖之间仍有可见间隙。|[打开](../media/hypothesis-tests/error-panel/J02-s24.png)|
+
+[同批错图的双向因果干预](heldout-bowl.md)
+
+[同种子单主体能力、双物件对照与原图](solo-controls.md)

@@ -30,3 +30,7 @@
 [新种子关系归属实验](review/error-panel.md)
 
 [新的关系串位实验方案](review/redesign.md)
+
+[四个新种子复测七块注意力中的 V](review/heldout-bowl.md)
+
+[同种子单主体与双物件对照](review/solo-controls.md)

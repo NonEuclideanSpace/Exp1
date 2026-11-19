@@ -40,3 +40,7 @@
 [New seed attribution panel, prompts and visual outcomes](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/hypothesis-tests/error-panel/visual-readout.json)
 
 [Redesigned positive-case selection, full paired grid and causal interventions](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/redesign.md)
+
+[Held-out bidirectional intervention judgments and original images](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/heldout-bowl.md)
+
+[Same-seed single-actor and independent-object controls](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/solo-controls.md)

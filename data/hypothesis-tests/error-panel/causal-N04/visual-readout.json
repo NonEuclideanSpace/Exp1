@@ -1,0 +1,75 @@
+{
+  "endpoint": "Pink rabbit forelimb visibly continuous to inside bottom; green cat does not reach inside.",
+  "seeds": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "role_endpoint_satisfied": {
+    "rescue": {
+      "capture": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "base": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "copy": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "R": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "V": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "whole": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    "induce": {
+      "base": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "V": [
+        false,
+        false,
+        true,
+        true
+      ]
+    }
+  },
+  "observations": {
+    "rescue": {
+      "R": "Original curled poses remain; all four have visible unobstructed blue bottom with no rabbit foreleg reaching the bottom. In seeds 21 and 22 the original wrong cat-side entrant no longer touches the bottom.",
+      "V": "All four show one long continuous pink foreleg reaching the bowl bottom while green paws remain at the rim.",
+      "copy": "The two cat-in and two empty-bowl baseline phenotypes remain.",
+      "whole": "All four satisfy the same two role-specific contacts."
+    },
+    "induce": {
+      "V": "Seed 21 shows green cat paw inside, rabbit on rim, and faint pink trace inside. Seed 22 shows green paw reaching inside, pink forelimb stopping above bottom. Seeds 23–24 preserve a continuous pink foreleg pressed onto the bowl interior and keep the cat side at rim."
+    }
+  },
+  "readout_source": "AI direct visual judgment, four new seeds not used to choose blocks. Both directions use two role-equivalent prompts, the same seed, four sampling steps and the same original recipient prompt for each individual baseline and patch."
+}
