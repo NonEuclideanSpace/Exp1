@@ -1,0 +1,11 @@
+# Exp1 | FLUX entity binding and multi-turn edits
+
+Canonical project site: https://noneuclideanspace.github.io/Exp1/
+
+- https://noneuclideanspace.github.io/Exp1/data/index.json — 实验数据总索引、样本总数与机器可读表。
+- https://noneuclideanspace.github.io/Exp1/data/findings.json — 已测得的模块条件和逐块结论。
+- https://noneuclideanspace.github.io/Exp1/data/prior-samples.json — 70 条基线样本、英文输入、中文说明、原图、行为判读。
+- https://noneuclideanspace.github.io/Exp1/data/blocks/5.md — H22 的词路由对照和成图干预。
+- https://noneuclideanspace.github.io/Exp1/data/blocks/25.md — 七块联合移植与平移对照。
+- https://noneuclideanspace.github.io/Exp1/research/ — 新的简单场景、LongBench 和真正多轮编辑。
+- https://noneuclideanspace.github.io/Exp1/articles/flux/block-5.html — 不运行 JavaScript 也可阅读的实验页。
