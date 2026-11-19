@@ -30,3 +30,5 @@
 [Machine progress snapshot](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/machine-live.json)
 
 [Prospective diagnostic cases and falsification criteria](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/diagnostic-design.md)
+
+[Ten predictions, controls, and criteria](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/ten-predictions.md)

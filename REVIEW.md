@@ -20,3 +20,5 @@
 [动作归属的分步干预与逐块移除](review/bowl-timing.md)
 
 [待执行 · 针对特征复制与动作串位的诊断例](review/diagnostic-design.md)
+
+[十条猜想的配对比较与干预口径](review/ten-predictions.md)

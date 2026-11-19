@@ -13,6 +13,7 @@ AutoDL 数据盘总目录为 `/root/autodl-tmp/flux-experiments/2026-11-19/`。�
 | `04-cross-scene-150/` | 10 个场景家族 × 3 个条件 × 5 个种子，含原图、词空间分布、逐头读数和残差 |
 | `05-multiturn-360/` | 同一家族在简单和复杂条件下的编辑链。各编辑目录含输入来源、原图和内部追踪 |
 | `06-similarity-distance/` | Claude 提出的相似度 × 距离实验，原方案为 `protocol.md`，图在 `images/`，逐图读数在 `judgments/`，分层内部追踪在 `passive/` |
+| `07-hypothesis-tests/` | 十条猜想的补充试验，包括高噪声跨区响应、定向图像 V 干预、草图身份和连续编辑对照 |
 | `source/` | 碗底干预和测量用的源代码 |
 | `live.json` | 机器实时进度、最近更新时刻以及各类记录数量 |
 | `CLAUDE.md` | 读取顺序、干预条件、原始字段和判读口径 |
