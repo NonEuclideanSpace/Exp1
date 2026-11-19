@@ -1,5 +1,155 @@
 [
   {
+    "id": "joint/high-far-blue-red-s0",
+    "seed": 0,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-blue-red-s0.png",
+    "elapsed_seconds": 2.281,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-blue-red-s1",
+    "seed": 1,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-blue-red-s1.png",
+    "elapsed_seconds": 2.183,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-blue-red-s2",
+    "seed": 2,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-blue-red-s2.png",
+    "elapsed_seconds": 2.194,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-blue-red-s3",
+    "seed": 3,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-blue-red-s3.png",
+    "elapsed_seconds": 2.236,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-blue-red-s4",
+    "seed": 4,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-blue-red-s4.png",
+    "elapsed_seconds": 2.212,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-blue-red-s5",
+    "seed": 5,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-blue-red-s5.png",
+    "elapsed_seconds": 2.213,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-blue-red-s6",
+    "seed": 6,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-blue-red-s6.png",
+    "elapsed_seconds": 2.228,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-blue-red-s7",
+    "seed": 7,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-blue-red-s7.png",
+    "elapsed_seconds": 2.165,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-green-yellow-s0",
+    "seed": 0,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-green-yellow-s0.png",
+    "elapsed_seconds": 2.287,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-green-yellow-s1",
+    "seed": 1,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-green-yellow-s1.png",
+    "elapsed_seconds": 2.207,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-green-yellow-s2",
+    "seed": 2,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-green-yellow-s2.png",
+    "elapsed_seconds": 2.21,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-green-yellow-s3",
+    "seed": 3,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-green-yellow-s3.png",
+    "elapsed_seconds": 2.238,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-green-yellow-s4",
+    "seed": 4,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-green-yellow-s4.png",
+    "elapsed_seconds": 2.221,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-green-yellow-s5",
+    "seed": 5,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-green-yellow-s5.png",
+    "elapsed_seconds": 2.236,
+    "classification": null
+  },
+  {
+    "id": "joint/high-far-green-yellow-s6",
+    "seed": 6,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two are far apart, at opposite edges of the frame.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-far-green-yellow-s6.png",
+    "elapsed_seconds": 2.247,
+    "classification": null
+  },
+  {
     "id": "joint/high-far-red-blue-s0",
     "seed": 0,
     "mode": "joint",
@@ -824,6 +974,86 @@
     }
   },
   {
+    "id": "seq_final/high-far-blue-red-s0",
+    "seed": 0,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-blue-red-s0.png",
+    "elapsed_seconds": 3.038,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-blue-red-s1",
+    "seed": 1,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-blue-red-s1.png",
+    "elapsed_seconds": 2.971,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-blue-red-s2",
+    "seed": 2,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-blue-red-s2.png",
+    "elapsed_seconds": 2.942,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-blue-red-s3",
+    "seed": 3,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-blue-red-s3.png",
+    "elapsed_seconds": 2.857,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-blue-red-s4",
+    "seed": 4,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-blue-red-s4.png",
+    "elapsed_seconds": 2.926,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-blue-red-s5",
+    "seed": 5,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-blue-red-s5.png",
+    "elapsed_seconds": 2.968,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-blue-red-s6",
+    "seed": 6,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-blue-red-s6.png",
+    "elapsed_seconds": 2.997,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-blue-red-s7",
+    "seed": 7,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-blue-red-s7.png",
+    "elapsed_seconds": 2.889,
+    "classification": null
+  },
+  {
     "id": "seq_final/high-far-red-blue-s0",
     "seed": 0,
     "mode": "seq_final",
@@ -841,6 +1071,66 @@
     "image": null,
     "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-red-blue-s1.png",
     "elapsed_seconds": 2.947,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-red-blue-s2",
+    "seed": 2,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-red-blue-s2.png",
+    "elapsed_seconds": 2.918,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-red-blue-s3",
+    "seed": 3,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-red-blue-s3.png",
+    "elapsed_seconds": 2.848,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-red-blue-s4",
+    "seed": 4,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-red-blue-s4.png",
+    "elapsed_seconds": 2.933,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-red-blue-s5",
+    "seed": 5,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-red-blue-s5.png",
+    "elapsed_seconds": 2.961,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-red-blue-s6",
+    "seed": 6,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-red-blue-s6.png",
+    "elapsed_seconds": 3.004,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-far-red-blue-s7",
+    "seed": 7,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans on the right, standing and facing the camera. The two are far apart, at opposite edges of the frame. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-far-red-blue-s7.png",
+    "elapsed_seconds": 2.873,
     "classification": null
   },
   {
