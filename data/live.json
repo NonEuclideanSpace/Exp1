@@ -1,10 +1,10 @@
 {
-  "snapshot_hong_kong": "2026-11-19 21:02:45 +0800",
+  "snapshot_hong_kong": "2026-11-19 21:03:54 +0800",
   "published_cohorts": {
     "prior": 70,
     "bowl_intervention_outputs": 320,
     "cross_single_turn": 150,
-    "multiturn_edits": 299,
+    "multiturn_edits": 323,
     "reference_path_intervention": 0
   },
   "sim_distance_generated": 0,
