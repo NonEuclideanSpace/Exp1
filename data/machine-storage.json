@@ -1,0 +1,12 @@
+{
+  "fully_copied": [
+    "01-initial-40",
+    "02-simple-30",
+    "03-bowl-interventions",
+    "04-cross-scene-150"
+  ],
+  "live_on_data_disk": [
+    "05-multiturn-360",
+    "06-similarity-distance"
+  ]
+}

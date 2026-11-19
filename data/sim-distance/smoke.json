@@ -1,0 +1,15 @@
+{
+  "n": 24,
+  "finals": 16,
+  "counts": {
+    "joint": {
+      "correct": 8
+    },
+    "seq_final": {
+      "correct": 7,
+      "count_error": 1
+    }
+  },
+  "n_color_answers": 15,
+  "minimum_two_full_height": "Review smoke.jpg alongside actual detection records; count errors are outcomes to retain."
+}
