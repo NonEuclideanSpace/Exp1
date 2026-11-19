@@ -1,0 +1,354 @@
+[
+  {
+    "key": "gm-leftHigh-GM-s0",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-leftHigh-GM-s1",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-leftHigh-GM-s2",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-leftHigh-GM-s3",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-leftHigh-MG-s0",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-leftHigh-MG-s1",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-leftHigh-MG-s2",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-leftHigh-MG-s3",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-rightHigh-GM-s0",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-rightHigh-GM-s1",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-rightHigh-GM-s2",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-rightHigh-GM-s3",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-rightHigh-MG-s0",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-rightHigh-MG-s1",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-rightHigh-MG-s2",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-rightHigh-MG-s3",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-leftHigh-GM-s0",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-leftHigh-GM-s1",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-leftHigh-GM-s2",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-leftHigh-GM-s3",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-leftHigh-MG-s0",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-leftHigh-MG-s1",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-leftHigh-MG-s2",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-leftHigh-MG-s3",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-rightHigh-GM-s0",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-rightHigh-GM-s1",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-rightHigh-GM-s2",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-rightHigh-GM-s3",
+    "labels": [
+      "GLASS",
+      "MUG",
+      "LEVEL"
+    ],
+    "raw": "GLASS,MUG,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-rightHigh-MG-s0",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-rightHigh-MG-s1",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-rightHigh-MG-s2",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-rightHigh-MG-s3",
+    "labels": [
+      "MUG",
+      "GLASS",
+      "LEVEL"
+    ],
+    "raw": "MUG,GLASS,LEVEL",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order. Add a third label LEFT if the bottom edge of the left vessel is distinctly higher in the image, RIGHT if the bottom edge of the right vessel is higher, or LEVEL if aligned.",
+    "source": "blind Qwen3-VL"
+  }
+]

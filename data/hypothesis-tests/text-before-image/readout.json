@@ -1,0 +1,903 @@
+{
+  "readout": "Within each species pair, nearest centroid on the same bottom token from Qwen layers 9/18/27. Train on different wording and opposite sentence order. Intro mention order balanced. Tests text-side contextual encoding; it does not measure visual grounding.",
+  "records": [
+    {
+      "pair": "rabbit-cat",
+      "template": 0,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A rabbit and a cat stand beside a bowl. The rabbit rests a paw on the rim. The cat rests a paw on the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 10.614677749305804,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 0,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A rabbit and a cat stand beside a bowl. The cat rests a paw on the bottom. The rabbit rests a paw on the rim.",
+      "bottom_token_indices": [
+        20
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 9.118285843369659,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 0,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A rabbit and a cat stand beside a bowl. The cat rests a paw on the rim. The rabbit rests a paw on the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -8.018643980497426,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 0,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A rabbit and a cat stand beside a bowl. The rabbit rests a paw on the bottom. The cat rests a paw on the rim.",
+      "bottom_token_indices": [
+        20
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 3.946973738374151,
+      "correct": false
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 0,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A cat and a rabbit stand beside a bowl. The rabbit rests a paw on the rim. The cat rests a paw on the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 13.41185321950036,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 0,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A cat and a rabbit stand beside a bowl. The cat rests a paw on the bottom. The rabbit rests a paw on the rim.",
+      "bottom_token_indices": [
+        20
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 11.983089907280004,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 0,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A cat and a rabbit stand beside a bowl. The cat rests a paw on the rim. The rabbit rests a paw on the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -6.035921733667814,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 0,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A cat and a rabbit stand beside a bowl. The rabbit rests a paw on the bottom. The cat rests a paw on the rim.",
+      "bottom_token_indices": [
+        20
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 2.405081877963137,
+      "correct": false
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 1,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A rabbit and a cat stand beside a bowl. The rabbit reaches towards the rim. The cat reaches towards the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 16.557729152270703,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 1,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A rabbit and a cat stand beside a bowl. The cat reaches towards the bottom. The rabbit reaches towards the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 6.9118403476241035,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 1,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A rabbit and a cat stand beside a bowl. The cat reaches towards the rim. The rabbit reaches towards the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 2.033455506389445,
+      "correct": false
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 1,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A rabbit and a cat stand beside a bowl. The rabbit reaches towards the bottom. The cat reaches towards the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -4.598084807545208,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 1,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A cat and a rabbit stand beside a bowl. The rabbit reaches towards the rim. The cat reaches towards the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 23.00060585313504,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 1,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A cat and a rabbit stand beside a bowl. The cat reaches towards the bottom. The rabbit reaches towards the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 6.6376163146504625,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 1,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A cat and a rabbit stand beside a bowl. The cat reaches towards the rim. The rabbit reaches towards the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 3.8904902285292877,
+      "correct": false
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 1,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A cat and a rabbit stand beside a bowl. The rabbit reaches towards the bottom. The cat reaches towards the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -6.966052115978794,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 2,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A rabbit and a cat stand beside a bowl. The rabbit is touching the rim. The cat is touching the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 14.44690339423141,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 2,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A rabbit and a cat stand beside a bowl. The cat is touching the bottom. The rabbit is touching the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 9.187849165878538,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 2,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A rabbit and a cat stand beside a bowl. The cat is touching the rim. The rabbit is touching the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -7.754668962241181,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 2,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A rabbit and a cat stand beside a bowl. The rabbit is touching the bottom. The cat is touching the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -2.64337539928821,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 2,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A cat and a rabbit stand beside a bowl. The rabbit is touching the rim. The cat is touching the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 20.919448945057386,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 2,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A cat and a rabbit stand beside a bowl. The cat is touching the bottom. The rabbit is touching the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 10.039060144738954,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 2,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A cat and a rabbit stand beside a bowl. The cat is touching the rim. The rabbit is touching the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 1.2337693493699462,
+      "correct": false
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 2,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A cat and a rabbit stand beside a bowl. The rabbit is touching the bottom. The cat is touching the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -3.8831188215364008,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 3,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A rabbit and a cat stand beside a bowl. The rabbit remains beside the rim. The cat remains beside the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 7.600469618862419,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 3,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A rabbit and a cat stand beside a bowl. The cat remains beside the bottom. The rabbit remains beside the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 4.49510507235366,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 3,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A rabbit and a cat stand beside a bowl. The cat remains beside the rim. The rabbit remains beside the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -11.074665149308485,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 3,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A rabbit and a cat stand beside a bowl. The rabbit remains beside the bottom. The cat remains beside the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -9.058668581503138,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 3,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A cat and a rabbit stand beside a bowl. The rabbit remains beside the rim. The cat remains beside the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 8.913246007155577,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 3,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A cat and a rabbit stand beside a bowl. The cat remains beside the bottom. The rabbit remains beside the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 8.79822790341633,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 3,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A cat and a rabbit stand beside a bowl. The cat remains beside the rim. The rabbit remains beside the bottom.",
+      "bottom_token_indices": [
+        25
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -4.9536846679278685,
+      "correct": true
+    },
+    {
+      "pair": "rabbit-cat",
+      "template": 3,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A cat and a rabbit stand beside a bowl. The rabbit remains beside the bottom. The cat remains beside the rim.",
+      "bottom_token_indices": [
+        18
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -14.254553018368723,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 0,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A heron and a swan stand beside a bowl. The heron rests a paw on the rim. The swan rests a paw on the bottom.",
+      "bottom_token_indices": [
+        33
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 2.9682772708046388,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 0,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A heron and a swan stand beside a bowl. The swan rests a paw on the bottom. The heron rests a paw on the rim.",
+      "bottom_token_indices": [
+        23
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -4.759856117131927,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 0,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A heron and a swan stand beside a bowl. The swan rests a paw on the rim. The heron rests a paw on the bottom.",
+      "bottom_token_indices": [
+        33
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -0.0761428368039102,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 0,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A heron and a swan stand beside a bowl. The heron rests a paw on the bottom. The swan rests a paw on the rim.",
+      "bottom_token_indices": [
+        23
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -10.215458298958321,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 0,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A swan and a heron stand beside a bowl. The heron rests a paw on the rim. The swan rests a paw on the bottom.",
+      "bottom_token_indices": [
+        33
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 3.620345249510972,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 0,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A swan and a heron stand beside a bowl. The swan rests a paw on the bottom. The heron rests a paw on the rim.",
+      "bottom_token_indices": [
+        23
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -6.06574232898814,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 0,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A swan and a heron stand beside a bowl. The swan rests a paw on the rim. The heron rests a paw on the bottom.",
+      "bottom_token_indices": [
+        33
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -0.9298169345302383,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 0,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A swan and a heron stand beside a bowl. The heron rests a paw on the bottom. The swan rests a paw on the rim.",
+      "bottom_token_indices": [
+        23
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -12.599498188540782,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 1,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A heron and a swan stand beside a bowl. The heron reaches towards the rim. The swan reaches towards the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 12.709712718678905,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 1,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A heron and a swan stand beside a bowl. The swan reaches towards the bottom. The heron reaches towards the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -3.289933683478748,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 1,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A heron and a swan stand beside a bowl. The swan reaches towards the rim. The heron reaches towards the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 11.119335512067313,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 1,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A heron and a swan stand beside a bowl. The heron reaches towards the bottom. The swan reaches towards the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -11.07792005240077,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 1,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A swan and a heron stand beside a bowl. The heron reaches towards the rim. The swan reaches towards the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 12.372397274245825,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 1,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A swan and a heron stand beside a bowl. The swan reaches towards the bottom. The heron reaches towards the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -5.280903725089382,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 1,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A swan and a heron stand beside a bowl. The swan reaches towards the rim. The heron reaches towards the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 10.602321648554717,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 1,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A swan and a heron stand beside a bowl. The heron reaches towards the bottom. The swan reaches towards the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -10.584278146904415,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 2,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A heron and a swan stand beside a bowl. The heron is touching the rim. The swan is touching the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 17.154574801792702,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 2,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A heron and a swan stand beside a bowl. The swan is touching the bottom. The heron is touching the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -4.92237533104189,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 2,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A heron and a swan stand beside a bowl. The swan is touching the rim. The heron is touching the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 8.173607098009057,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 2,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A heron and a swan stand beside a bowl. The heron is touching the bottom. The swan is touching the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -11.116690482575658,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 2,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A swan and a heron stand beside a bowl. The heron is touching the rim. The swan is touching the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 16.514249295690227,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 2,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A swan and a heron stand beside a bowl. The swan is touching the bottom. The heron is touching the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -5.926351818086026,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 2,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A swan and a heron stand beside a bowl. The swan is touching the rim. The heron is touching the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 9.88214663746285,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 2,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A swan and a heron stand beside a bowl. The heron is touching the bottom. The swan is touching the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -10.211882195946473,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 3,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A heron and a swan stand beside a bowl. The heron remains beside the rim. The swan remains beside the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 6.376138724016731,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 3,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A heron and a swan stand beside a bowl. The swan remains beside the bottom. The heron remains beside the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -15.286044543353078,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 3,
+      "intro_reversed": false,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A heron and a swan stand beside a bowl. The swan remains beside the rim. The heron remains beside the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -3.920732748514561,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 3,
+      "intro_reversed": false,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A heron and a swan stand beside a bowl. The heron remains beside the bottom. The swan remains beside the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -19.33480397413161,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 3,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 1,
+      "prompt": "A swan and a heron stand beside a bowl. The heron remains beside the rim. The swan remains beside the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 1,
+      "signed_margin": 2.248895707726772,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 3,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 1,
+      "prompt": "A swan and a heron stand beside a bowl. The swan remains beside the bottom. The heron remains beside the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -13.93402632869946,
+      "correct": false
+    },
+    {
+      "pair": "heron-swan",
+      "template": 3,
+      "intro_reversed": true,
+      "clause_order": "rim_first",
+      "actor": 0,
+      "prompt": "A swan and a heron stand beside a bowl. The swan remains beside the rim. The heron remains beside the bottom.",
+      "bottom_token_indices": [
+        29
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -0.8195074000925658,
+      "correct": true
+    },
+    {
+      "pair": "heron-swan",
+      "template": 3,
+      "intro_reversed": true,
+      "clause_order": "base_first",
+      "actor": 0,
+      "prompt": "A swan and a heron stand beside a bowl. The heron remains beside the bottom. The swan remains beside the rim.",
+      "bottom_token_indices": [
+        21
+      ],
+      "predicted_actor": 0,
+      "signed_margin": -18.29806292512782,
+      "correct": true
+    }
+  ],
+  "correct": 47,
+  "n": 64
+}

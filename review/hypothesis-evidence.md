@@ -36,3 +36,16 @@
 ![种子 11](../media/hypothesis-tests/scarf-same-near-s11.png)
 
 [四个固定种子的视觉标签与退出规则](../data/hypothesis-tests/scarf-screen.json)
+
+## 轮廓身份、空间高度与名词顺序交叉控制
+
+行固定草图与种子 0；两列分别先提马克杯、先提高脚杯。完整自动读数覆盖四个种子和四种草图。
+
+|草图|马克杯先被提到|高脚杯先被提到|
+|---|---|---|
+|![](../media/hypothesis-tests/control-ref-mg-leftHigh.png)|![](../media/hypothesis-tests/control-mg-leftHigh-MG-s0.png)|![](../media/hypothesis-tests/control-mg-leftHigh-GM-s0.png)|
+|![](../media/hypothesis-tests/control-ref-mg-rightHigh.png)|![](../media/hypothesis-tests/control-mg-rightHigh-MG-s0.png)|![](../media/hypothesis-tests/control-mg-rightHigh-GM-s0.png)|
+|![](../media/hypothesis-tests/control-ref-gm-leftHigh.png)|![](../media/hypothesis-tests/control-gm-leftHigh-MG-s0.png)|![](../media/hypothesis-tests/control-gm-leftHigh-GM-s0.png)|
+|![](../media/hypothesis-tests/control-ref-gm-rightHigh.png)|![](../media/hypothesis-tests/control-gm-rightHigh-MG-s0.png)|![](../media/hypothesis-tests/control-gm-rightHigh-GM-s0.png)|
+
+[四个种子全部 32 张盲评分记录](../data/hypothesis-tests/sketch-control/graded.json)
