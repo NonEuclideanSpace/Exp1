@@ -710,6 +710,96 @@
     "classification": null
   },
   {
+    "id": "joint/high-overlap-blue-red-s7",
+    "seed": 7,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-overlap-blue-red-s7.png",
+    "elapsed_seconds": 4.031,
+    "classification": null
+  },
+  {
+    "id": "joint/high-overlap-green-yellow-s0",
+    "seed": 0,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-overlap-green-yellow-s0.png",
+    "elapsed_seconds": 2.32,
+    "classification": null
+  },
+  {
+    "id": "joint/high-overlap-green-yellow-s1",
+    "seed": 1,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-overlap-green-yellow-s1.png",
+    "elapsed_seconds": 2.299,
+    "classification": null
+  },
+  {
+    "id": "joint/high-overlap-green-yellow-s2",
+    "seed": 2,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-overlap-green-yellow-s2.png",
+    "elapsed_seconds": 2.277,
+    "classification": null
+  },
+  {
+    "id": "joint/high-overlap-green-yellow-s3",
+    "seed": 3,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-overlap-green-yellow-s3.png",
+    "elapsed_seconds": 2.499,
+    "classification": null
+  },
+  {
+    "id": "joint/high-overlap-green-yellow-s4",
+    "seed": 4,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-overlap-green-yellow-s4.png",
+    "elapsed_seconds": 3.951,
+    "classification": null
+  },
+  {
+    "id": "joint/high-overlap-green-yellow-s5",
+    "seed": 5,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-overlap-green-yellow-s5.png",
+    "elapsed_seconds": 3.496,
+    "classification": null
+  },
+  {
+    "id": "joint/high-overlap-green-yellow-s6",
+    "seed": 6,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-overlap-green-yellow-s6.png",
+    "elapsed_seconds": 2.265,
+    "classification": null
+  },
+  {
+    "id": "joint/high-overlap-green-yellow-s7",
+    "seed": 7,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-overlap-green-yellow-s7.png",
+    "elapsed_seconds": 2.22,
+    "classification": null
+  },
+  {
     "id": "joint/high-overlap-red-blue-s0",
     "seed": 0,
     "mode": "joint",
@@ -2411,6 +2501,146 @@
     "image": null,
     "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-near-yellow-green-s7.png",
     "elapsed_seconds": 5.353,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-blue-red-s0",
+    "seed": 0,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-blue-red-s0.png",
+    "elapsed_seconds": 5.615,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-blue-red-s1",
+    "seed": 1,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-blue-red-s1.png",
+    "elapsed_seconds": 2.981,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-blue-red-s2",
+    "seed": 2,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-blue-red-s2.png",
+    "elapsed_seconds": 2.964,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-blue-red-s3",
+    "seed": 3,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-blue-red-s3.png",
+    "elapsed_seconds": 3.118,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-blue-red-s4",
+    "seed": 4,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-blue-red-s4.png",
+    "elapsed_seconds": 4.293,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-blue-red-s5",
+    "seed": 5,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-blue-red-s5.png",
+    "elapsed_seconds": 4.789,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-blue-red-s6",
+    "seed": 6,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-blue-red-s6.png",
+    "elapsed_seconds": 4.707,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-blue-red-s7",
+    "seed": 7,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-blue-red-s7.png",
+    "elapsed_seconds": 3.808,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-green-yellow-s0",
+    "seed": 0,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-green-yellow-s0.png",
+    "elapsed_seconds": 2.995,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-green-yellow-s1",
+    "seed": 1,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-green-yellow-s1.png",
+    "elapsed_seconds": 2.978,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-green-yellow-s2",
+    "seed": 2,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-green-yellow-s2.png",
+    "elapsed_seconds": 2.948,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-green-yellow-s3",
+    "seed": 3,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-green-yellow-s3.png",
+    "elapsed_seconds": 2.91,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-green-yellow-s4",
+    "seed": 4,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-green-yellow-s4.png",
+    "elapsed_seconds": 2.943,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-overlap-green-yellow-s5",
+    "seed": 5,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans on the right, standing and facing the camera. The one on the right stands slightly behind the one on the left and is partly hidden by her. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-overlap-green-yellow-s5.png",
+    "elapsed_seconds": 3.003,
     "classification": null
   },
   {
