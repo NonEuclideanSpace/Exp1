@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "id": "joint/high-touch-red-blue-s0",
+    "seed": 0,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": "media/sim-distance/images/joint/high-touch-red-blue-s0.png",
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-touch-red-blue-s0.png",
+    "elapsed_seconds": 2.291,
+    "classification": null
+  },
+  {
+    "id": "seq_step1/red-s0",
+    "seed": 0,
+    "mode": "seq_step1",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The right half of the frame shows only the empty sidewalk.",
+    "image": "media/sim-distance/images/seq_step1/red-s0.png",
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_step1/red-s0.png",
+    "elapsed_seconds": 2.728,
+    "classification": null
+  },
+  {
+    "id": "seq_step1/red-s1",
+    "seed": 1,
+    "mode": "seq_step1",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The right half of the frame shows only the empty sidewalk.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_step1/red-s1.png",
+    "elapsed_seconds": 2.223,
+    "classification": null
+  },
+  {
+    "id": "seq_step1/red-s2",
+    "seed": 2,
+    "mode": "seq_step1",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The right half of the frame shows only the empty sidewalk.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_step1/red-s2.png",
+    "elapsed_seconds": 2.199,
+    "classification": null
+  },
+  {
+    "id": "seq_step1/red-s3",
+    "seed": 3,
+    "mode": "seq_step1",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The right half of the frame shows only the empty sidewalk.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_step1/red-s3.png",
+    "elapsed_seconds": 2.065,
+    "classification": null
+  },
+  {
+    "id": "seq_step1/red-s4",
+    "seed": 4,
+    "mode": "seq_step1",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The right half of the frame shows only the empty sidewalk.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_step1/red-s4.png",
+    "elapsed_seconds": 2.109,
+    "classification": null
+  },
+  {
+    "id": "seq_step1/red-s5",
+    "seed": 5,
+    "mode": "seq_step1",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The right half of the frame shows only the empty sidewalk.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_step1/red-s5.png",
+    "elapsed_seconds": 2.232,
+    "classification": null
+  },
+  {
+    "id": "seq_step1/red-s6",
+    "seed": 6,
+    "mode": "seq_step1",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The right half of the frame shows only the empty sidewalk.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_step1/red-s6.png",
+    "elapsed_seconds": 2.244,
+    "classification": null
+  },
+  {
+    "id": "seq_step1/red-s7",
+    "seed": 7,
+    "mode": "seq_step1",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The right half of the frame shows only the empty sidewalk.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_step1/red-s7.png",
+    "elapsed_seconds": 2.099,
+    "classification": null
+  }
+]

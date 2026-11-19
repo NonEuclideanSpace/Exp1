@@ -1,0 +1,16 @@
+{
+  "experiment": "N04",
+  "checkpoint": "FLUX.2-klein-9b-kv",
+  "donor_prompt_key": "g1",
+  "recipient_prompt_key": "N04",
+  "global_blocks_one_based": [25,26,27,29,30,31,32],
+  "diffusion_steps_one_based": [1,2],
+  "seed_order": [0,1,2],
+  "selection_seed": 2,
+  "endpoint": "A visibly continuous pink front leg from the rabbit reaches deep into the bowl while the green cat's paws remain at the rim.",
+  "scorer": "Assistant visual reading of final model images; no independent human audit",
+  "source_pattern": "03-bowl-interventions/routing-values-fp32/step12_{condition}__s{seed}.png",
+  "outcomes": {"base":[false,false,false],"R":[false,false,false],"V":[true,true,true],"T":[true,false,false],"RT":[true,false,true],"whole":[true,true,true]},
+  "component_definitions": {"R":"joint-softmax image-query to spatially aligned image-key weights","V":"aligned image-token value vectors","T":"total image-query output minus contribution from image keys and values","whole":"donor's full image-query attention output"},
+  "scope": "Forward activation replacement. This tests sufficiency of the transplanted factor on these prompts/seeds. Other sufficient combinations are visible in the same grid."
+}

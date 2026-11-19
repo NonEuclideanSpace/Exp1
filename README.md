@@ -28,3 +28,5 @@
 [原图逐块注意力着色](articles/flux/single-stream.svg)　[32 块的纯文本与实测读数](data/blocks)　[实验记录下载](https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119)
 
 [最新实验进度和相似度×距离结果](review/live.md)
+
+[2026-11-19 当日实验专区、Claude 读取说明](DATA_LOCATION.md)
