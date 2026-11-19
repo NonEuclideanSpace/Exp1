@@ -1,5 +1,5 @@
 {
-  "snapshot_hong_kong": "2026-11-19 21:25:39 +0800",
+  "snapshot_hong_kong": "2026-11-19 21:26:50 +0800",
   "published_cohorts": {
     "prior": 70,
     "bowl_intervention_outputs": 320,
@@ -7,7 +7,7 @@
     "multiturn_edits": 360,
     "reference_path_intervention": 12
   },
-  "sim_distance_generated": 378,
+  "sim_distance_generated": 405,
   "sim_distance_generation_target": 800,
   "sim_distance_scored": 24,
   "sim_distance_passive_completed": 0,
