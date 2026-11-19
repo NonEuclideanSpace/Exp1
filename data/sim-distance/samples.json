@@ -710,6 +710,96 @@
     "classification": null
   },
   {
+    "id": "joint/high-touch-blue-red-s7",
+    "seed": 7,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a blue jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-touch-blue-red-s7.png",
+    "elapsed_seconds": 3.454,
+    "classification": null
+  },
+  {
+    "id": "joint/high-touch-green-yellow-s0",
+    "seed": 0,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-touch-green-yellow-s0.png",
+    "elapsed_seconds": 4.134,
+    "classification": null
+  },
+  {
+    "id": "joint/high-touch-green-yellow-s1",
+    "seed": 1,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-touch-green-yellow-s1.png",
+    "elapsed_seconds": 4.043,
+    "classification": null
+  },
+  {
+    "id": "joint/high-touch-green-yellow-s2",
+    "seed": 2,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-touch-green-yellow-s2.png",
+    "elapsed_seconds": 4.074,
+    "classification": null
+  },
+  {
+    "id": "joint/high-touch-green-yellow-s3",
+    "seed": 3,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-touch-green-yellow-s3.png",
+    "elapsed_seconds": 4.117,
+    "classification": null
+  },
+  {
+    "id": "joint/high-touch-green-yellow-s4",
+    "seed": 4,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-touch-green-yellow-s4.png",
+    "elapsed_seconds": 3.992,
+    "classification": null
+  },
+  {
+    "id": "joint/high-touch-green-yellow-s5",
+    "seed": 5,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-touch-green-yellow-s5.png",
+    "elapsed_seconds": 2.64,
+    "classification": null
+  },
+  {
+    "id": "joint/high-touch-green-yellow-s6",
+    "seed": 6,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-touch-green-yellow-s6.png",
+    "elapsed_seconds": 2.251,
+    "classification": null
+  },
+  {
+    "id": "joint/high-touch-green-yellow-s7",
+    "seed": 7,
+    "mode": "joint",
+    "prompt": "A full-body photograph taken on a quiet city sidewalk in daylight. On the left, a woman in her thirties with shoulder-length black hair, wearing a green jacket and dark jeans, standing and facing the camera. On the right, a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans, standing and facing the camera. The two stand side by side, touching each other.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/joint/high-touch-green-yellow-s7.png",
+    "elapsed_seconds": 2.221,
+    "classification": null
+  },
+  {
     "id": "joint/high-touch-red-blue-s0",
     "seed": 0,
     "mode": "joint",
@@ -2091,6 +2181,106 @@
     "image": null,
     "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-near-yellow-green-s7.png",
     "elapsed_seconds": 5.353,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-touch-blue-red-s0",
+    "seed": 0,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-touch-blue-red-s0.png",
+    "elapsed_seconds": 3.16,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-touch-blue-red-s1",
+    "seed": 1,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-touch-blue-red-s1.png",
+    "elapsed_seconds": 2.978,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-touch-blue-red-s2",
+    "seed": 2,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-touch-blue-red-s2.png",
+    "elapsed_seconds": 2.956,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-touch-blue-red-s3",
+    "seed": 3,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-touch-blue-red-s3.png",
+    "elapsed_seconds": 3.076,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-touch-blue-red-s4",
+    "seed": 4,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-touch-blue-red-s4.png",
+    "elapsed_seconds": 2.985,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-touch-blue-red-s5",
+    "seed": 5,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-touch-blue-red-s5.png",
+    "elapsed_seconds": 5.135,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-touch-blue-red-s6",
+    "seed": 6,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-touch-blue-red-s6.png",
+    "elapsed_seconds": 5.601,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-touch-blue-red-s7",
+    "seed": 7,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a red jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-touch-blue-red-s7.png",
+    "elapsed_seconds": 5.542,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-touch-green-yellow-s0",
+    "seed": 0,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-touch-green-yellow-s0.png",
+    "elapsed_seconds": 3.053,
+    "classification": null
+  },
+  {
+    "id": "seq_final/high-touch-green-yellow-s1",
+    "seed": 1,
+    "mode": "seq_final",
+    "prompt": "Add a woman in her thirties with shoulder-length black hair, wearing a yellow jacket and dark jeans on the right, standing and facing the camera. The two stand side by side, touching each other. Keep the woman on the left and the background unchanged.",
+    "image": null,
+    "machine_image": "/root/autodl-tmp/flux-experiments/2026-11-19/06-similarity-distance/images/seq_final/high-touch-green-yellow-s1.png",
+    "elapsed_seconds": 4.483,
     "classification": null
   },
   {

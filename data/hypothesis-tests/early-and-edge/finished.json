@@ -1,0 +1,23 @@
+{
+  "early_records": 216,
+  "outputs": 21,
+  "seeds": [
+    2,
+    0,
+    1
+  ],
+  "blocks": [
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    32
+  ],
+  "denoising_steps": [
+    1,
+    2
+  ],
+  "regions": "Retrospective failed-image color masks at 32x32. Source cat torso tokens and receiver rabbit/bowl grid. Controls include own-source and background matched approximately by count and average attention; realized masses recorded."
+}

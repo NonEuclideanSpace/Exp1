@@ -1,0 +1,5042 @@
+[
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03449961170554161,
+    "mean_foreground_mass": 0.03449961170554161,
+    "rms_update": 0.0224122516810894
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03086206316947937,
+    "mean_foreground_mass": 0.03086206316947937,
+    "rms_update": 0.053512394428253174
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.009940097108483315,
+    "mean_foreground_mass": 0.009940097108483315,
+    "rms_update": 0.04179764539003372
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.021733112633228302,
+    "mean_foreground_mass": 0.021733112633228302,
+    "rms_update": 0.04023599624633789
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03502827510237694,
+    "mean_foreground_mass": 0.03502827510237694,
+    "rms_update": 0.05729499086737633
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.014665696769952774,
+    "mean_foreground_mass": 0.014665696769952774,
+    "rms_update": 0.012632782571017742
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03471439331769943,
+    "mean_foreground_mass": 0.03471439331769943,
+    "rms_update": 0.04302971065044403
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03447156772017479,
+    "mean_foreground_mass": 0.03447156772017479,
+    "rms_update": 0.07873979210853577
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03293875232338905,
+    "mean_foreground_mass": 0.03293875232338905,
+    "rms_update": 0.023657863959670067
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.020940804854035378,
+    "mean_foreground_mass": 0.020940804854035378,
+    "rms_update": 0.024281851947307587
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.031599607318639755,
+    "mean_foreground_mass": 0.031599607318639755,
+    "rms_update": 0.08552106469869614
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02084316872060299,
+    "mean_foreground_mass": 0.02084316872060299,
+    "rms_update": 0.06609645485877991
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02045454829931259,
+    "mean_foreground_mass": 0.02045454829931259,
+    "rms_update": 0.015814200043678284
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03205528482794762,
+    "mean_foreground_mass": 0.03205528482794762,
+    "rms_update": 0.026930538937449455
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.027186525985598564,
+    "mean_foreground_mass": 0.027186525985598564,
+    "rms_update": 0.05109545215964317
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.05858336761593819,
+    "mean_foreground_mass": 0.05858336761593819,
+    "rms_update": 0.02491312474012375
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.06546123325824738,
+    "mean_foreground_mass": 0.06546123325824738,
+    "rms_update": 0.05410970747470856
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02971748076379299,
+    "mean_foreground_mass": 0.02971748076379299,
+    "rms_update": 0.036082569509744644
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.022891080006957054,
+    "mean_foreground_mass": 0.022891080006957054,
+    "rms_update": 0.022477634251117706
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02981160394847393,
+    "mean_foreground_mass": 0.02981160394847393,
+    "rms_update": 0.01808294653892517
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.014996928162872791,
+    "mean_foreground_mass": 0.014996928162872791,
+    "rms_update": 0.047407981008291245
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.042618051171302795,
+    "mean_foreground_mass": 0.042618051171302795,
+    "rms_update": 0.09474503248929977
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.013809817843139172,
+    "mean_foreground_mass": 0.013809817843139172,
+    "rms_update": 0.05608554556965828
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.05316644906997681,
+    "mean_foreground_mass": 0.05316644906997681,
+    "rms_update": 0.05983169004321098
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0421081967651844,
+    "mean_foreground_mass": 0.0421081967651844,
+    "rms_update": 0.09862376749515533
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.012999210506677628,
+    "mean_foreground_mass": 0.012999210506677628,
+    "rms_update": 0.05670991912484169
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04171526059508324,
+    "mean_foreground_mass": 0.04171526059508324,
+    "rms_update": 0.0989902913570404
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0632871687412262,
+    "mean_foreground_mass": 0.0632871687412262,
+    "rms_update": 0.07473649084568024
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.08353157341480255,
+    "mean_foreground_mass": 0.08353157341480255,
+    "rms_update": 0.06863519549369812
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02505986951291561,
+    "mean_foreground_mass": 0.02505986951291561,
+    "rms_update": 0.04184984043240547
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02896428108215332,
+    "mean_foreground_mass": 0.02896428108215332,
+    "rms_update": 0.05493757501244545
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03655529394745827,
+    "mean_foreground_mass": 0.03655529394745827,
+    "rms_update": 0.0983419269323349
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02699807658791542,
+    "mean_foreground_mass": 0.02699807658791542,
+    "rms_update": 0.03536270931363106
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.037117235362529755,
+    "mean_foreground_mass": 0.037117235362529755,
+    "rms_update": 0.04395533353090286
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.026732219383120537,
+    "mean_foreground_mass": 0.026732219383120537,
+    "rms_update": 0.09501028805971146
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.020965415984392166,
+    "mean_foreground_mass": 0.020965415984392166,
+    "rms_update": 0.030926594510674477
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0226282961666584,
+    "mean_foreground_mass": 0.0226282961666584,
+    "rms_update": 0.10416384786367416
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04737545922398567,
+    "mean_foreground_mass": 0.04737545922398567,
+    "rms_update": 0.10704347491264343
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.032634638249874115,
+    "mean_foreground_mass": 0.032634638249874115,
+    "rms_update": 0.05098295211791992
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03174838051199913,
+    "mean_foreground_mass": 0.03174838051199913,
+    "rms_update": 0.03337737172842026
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.023965105414390564,
+    "mean_foreground_mass": 0.023965105414390564,
+    "rms_update": 0.02618262730538845
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02066943421959877,
+    "mean_foreground_mass": 0.02066943421959877,
+    "rms_update": 0.03333142399787903
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03763322904706001,
+    "mean_foreground_mass": 0.03763322904706001,
+    "rms_update": 0.03247978538274765
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.011587764136493206,
+    "mean_foreground_mass": 0.011587764136493206,
+    "rms_update": 0.04587642103433609
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02813100442290306,
+    "mean_foreground_mass": 0.02813100442290306,
+    "rms_update": 0.028755204752087593
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.06558491289615631,
+    "mean_foreground_mass": 0.06558491289615631,
+    "rms_update": 0.11723514646291733
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.012802157551050186,
+    "mean_foreground_mass": 0.012802157551050186,
+    "rms_update": 0.031734637916088104
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0561700239777565,
+    "mean_foreground_mass": 0.0561700239777565,
+    "rms_update": 0.11980298906564713
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.05012355372309685,
+    "mean_foreground_mass": 0.05012355372309685,
+    "rms_update": 0.059127554297447205
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04357900470495224,
+    "mean_foreground_mass": 0.04357900470495224,
+    "rms_update": 0.11796008795499802
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.026118479669094086,
+    "mean_foreground_mass": 0.026118479669094086,
+    "rms_update": 0.04244730621576309
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04180537909269333,
+    "mean_foreground_mass": 0.04180537909269333,
+    "rms_update": 0.09939440339803696
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.038154236972332,
+    "mean_foreground_mass": 0.038154236972332,
+    "rms_update": 0.03504461050033569
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04567202925682068,
+    "mean_foreground_mass": 0.04567202925682068,
+    "rms_update": 0.061913665384054184
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.011867248453199863,
+    "mean_foreground_mass": 0.011867248453199863,
+    "rms_update": 0.11481580138206482
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02407190389931202,
+    "mean_foreground_mass": 0.02407190389931202,
+    "rms_update": 0.10200976580381393
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.029186153784394264,
+    "mean_foreground_mass": 0.029186153784394264,
+    "rms_update": 0.009166418574750423
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.023787355050444603,
+    "mean_foreground_mass": 0.023787355050444603,
+    "rms_update": 0.03312227129936218
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.006356448866426945,
+    "mean_foreground_mass": 0.006356448866426945,
+    "rms_update": 0.015290939249098301
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.019103672355413437,
+    "mean_foreground_mass": 0.019103672355413437,
+    "rms_update": 0.04217932000756264
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.028899546712636948,
+    "mean_foreground_mass": 0.028899546712636948,
+    "rms_update": 0.02588457241654396
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.015742285177111626,
+    "mean_foreground_mass": 0.015742285177111626,
+    "rms_update": 0.008755047805607319
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.028324462473392487,
+    "mean_foreground_mass": 0.028324462473392487,
+    "rms_update": 0.022504815831780434
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.037176478654146194,
+    "mean_foreground_mass": 0.037176478654146194,
+    "rms_update": 0.07237023115158081
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.024867437779903412,
+    "mean_foreground_mass": 0.024867437779903412,
+    "rms_update": 0.010925919748842716
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02018039859831333,
+    "mean_foreground_mass": 0.02018039859831333,
+    "rms_update": 0.017403563484549522
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.026877764612436295,
+    "mean_foreground_mass": 0.026877764612436295,
+    "rms_update": 0.07829876989126205
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01894766464829445,
+    "mean_foreground_mass": 0.01894766464829445,
+    "rms_update": 0.047085534781217575
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01512240618467331,
+    "mean_foreground_mass": 0.01512240618467331,
+    "rms_update": 0.0077448636293411255
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.030645102262496948,
+    "mean_foreground_mass": 0.030645102262496948,
+    "rms_update": 0.01630956307053566
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.019056357443332672,
+    "mean_foreground_mass": 0.019056357443332672,
+    "rms_update": 0.042547717690467834
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.06237800419330597,
+    "mean_foreground_mass": 0.06237800419330597,
+    "rms_update": 0.021529516205191612
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0574483685195446,
+    "mean_foreground_mass": 0.0574483685195446,
+    "rms_update": 0.03896119073033333
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.031074663624167442,
+    "mean_foreground_mass": 0.031074663624167442,
+    "rms_update": 0.028745517134666443
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02220839448273182,
+    "mean_foreground_mass": 0.02220839448273182,
+    "rms_update": 0.01703757792711258
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02953028306365013,
+    "mean_foreground_mass": 0.02953028306365013,
+    "rms_update": 0.016720719635486603
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01170794665813446,
+    "mean_foreground_mass": 0.01170794665813446,
+    "rms_update": 0.040426164865493774
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03282371908426285,
+    "mean_foreground_mass": 0.03282371908426285,
+    "rms_update": 0.10197155177593231
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.010613606311380863,
+    "mean_foreground_mass": 0.010613606311380863,
+    "rms_update": 0.020416144281625748
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04438207671046257,
+    "mean_foreground_mass": 0.04438207671046257,
+    "rms_update": 0.039441000670194626
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04646141082048416,
+    "mean_foreground_mass": 0.04646141082048416,
+    "rms_update": 0.08575592935085297
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01036895252764225,
+    "mean_foreground_mass": 0.01036895252764225,
+    "rms_update": 0.06678838282823563
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.032399825751781464,
+    "mean_foreground_mass": 0.032399825751781464,
+    "rms_update": 0.1261056512594223
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04989396408200264,
+    "mean_foreground_mass": 0.04989396408200264,
+    "rms_update": 0.08246617019176483
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.064457006752491,
+    "mean_foreground_mass": 0.064457006752491,
+    "rms_update": 0.07998190820217133
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.019283005967736244,
+    "mean_foreground_mass": 0.019283005967736244,
+    "rms_update": 0.046383216977119446
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.023697057738900185,
+    "mean_foreground_mass": 0.023697057738900185,
+    "rms_update": 0.05177788436412811
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02320016361773014,
+    "mean_foreground_mass": 0.02320016361773014,
+    "rms_update": 0.09210433810949326
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0208412017673254,
+    "mean_foreground_mass": 0.0208412017673254,
+    "rms_update": 0.06029351428151131
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.036387354135513306,
+    "mean_foreground_mass": 0.036387354135513306,
+    "rms_update": 0.028085988014936447
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.029338860884308815,
+    "mean_foreground_mass": 0.029338860884308815,
+    "rms_update": 0.10691564530134201
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.017628684639930725,
+    "mean_foreground_mass": 0.017628684639930725,
+    "rms_update": 0.032073017209768295
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.020132435485720634,
+    "mean_foreground_mass": 0.020132435485720634,
+    "rms_update": 0.09939704835414886
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03474355489015579,
+    "mean_foreground_mass": 0.03474355489015579,
+    "rms_update": 0.1025729849934578
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02654908411204815,
+    "mean_foreground_mass": 0.02654908411204815,
+    "rms_update": 0.01793220266699791
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.027303040027618408,
+    "mean_foreground_mass": 0.027303040027618408,
+    "rms_update": 0.010799919255077839
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.024302301928400993,
+    "mean_foreground_mass": 0.024302301928400993,
+    "rms_update": 0.01228430587798357
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.015383820049464703,
+    "mean_foreground_mass": 0.015383820049464703,
+    "rms_update": 0.016102829948067665
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04153916984796524,
+    "mean_foreground_mass": 0.04153916984796524,
+    "rms_update": 0.02547997049987316
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0077240862883627415,
+    "mean_foreground_mass": 0.0077240862883627415,
+    "rms_update": 0.029431723058223724
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.030635735020041466,
+    "mean_foreground_mass": 0.030635735020041466,
+    "rms_update": 0.017718249931931496
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0655757337808609,
+    "mean_foreground_mass": 0.0655757337808609,
+    "rms_update": 0.09745323657989502
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01294038724154234,
+    "mean_foreground_mass": 0.01294038724154234,
+    "rms_update": 0.013360118493437767
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.05622942000627518,
+    "mean_foreground_mass": 0.05622942000627518,
+    "rms_update": 0.13161571323871613
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.058482974767684937,
+    "mean_foreground_mass": 0.058482974767684937,
+    "rms_update": 0.027044018730521202
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.049755267798900604,
+    "mean_foreground_mass": 0.049755267798900604,
+    "rms_update": 0.09892390668392181
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.014428628608584404,
+    "mean_foreground_mass": 0.014428628608584404,
+    "rms_update": 0.016359476372599602
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03294956684112549,
+    "mean_foreground_mass": 0.03294956684112549,
+    "rms_update": 0.08613961189985275
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04592429846525192,
+    "mean_foreground_mass": 0.04592429846525192,
+    "rms_update": 0.01757023297250271
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.035245127975940704,
+    "mean_foreground_mass": 0.035245127975940704,
+    "rms_update": 0.05358286574482918
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01147583220154047,
+    "mean_foreground_mass": 0.01147583220154047,
+    "rms_update": 0.16008804738521576
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "cat",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.022927287966012955,
+    "mean_foreground_mass": 0.022927287966012955,
+    "rms_update": 0.08874837309122086
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03267882019281387,
+    "mean_foreground_mass": 0.03449961170554161,
+    "rms_update": 0.010527214966714382
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02579730749130249,
+    "mean_foreground_mass": 0.03086206316947937,
+    "rms_update": 0.02262083999812603
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.009452451020479202,
+    "mean_foreground_mass": 0.009940097108483315,
+    "rms_update": 0.00774775817990303
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.021551862359046936,
+    "mean_foreground_mass": 0.021733112633228302,
+    "rms_update": 0.0063078878447413445
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03028218448162079,
+    "mean_foreground_mass": 0.03502827510237694,
+    "rms_update": 0.025630250573158264
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.014410466887056828,
+    "mean_foreground_mass": 0.014665696769952774,
+    "rms_update": 0.0037942868657410145
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.030208149924874306,
+    "mean_foreground_mass": 0.03471439331769943,
+    "rms_update": 0.021160177886486053
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02349574863910675,
+    "mean_foreground_mass": 0.03447156772017479,
+    "rms_update": 0.031561534851789474
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03088078461587429,
+    "mean_foreground_mass": 0.032828666269779205,
+    "rms_update": 0.01713486760854721
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01973344385623932,
+    "mean_foreground_mass": 0.021330665796995163,
+    "rms_update": 0.011180901899933815
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.030344631522893906,
+    "mean_foreground_mass": 0.032164234668016434,
+    "rms_update": 0.012148241512477398
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01909584552049637,
+    "mean_foreground_mass": 0.02075369283556938,
+    "rms_update": 0.014794585295021534
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.016638170927762985,
+    "mean_foreground_mass": 0.020256729796528816,
+    "rms_update": 0.008494475856423378
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.030701342970132828,
+    "mean_foreground_mass": 0.03194718435406685,
+    "rms_update": 0.013715029694139957
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.023358216509222984,
+    "mean_foreground_mass": 0.026916181668639183,
+    "rms_update": 0.018949903547763824
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.05598947033286095,
+    "mean_foreground_mass": 0.058663882315158844,
+    "rms_update": 0.017973193898797035
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.05166178196668625,
+    "mean_foreground_mass": 0.06545861810445786,
+    "rms_update": 0.04719271510839462
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.030309928581118584,
+    "mean_foreground_mass": 0.031251080334186554,
+    "rms_update": 0.014863493852317333
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02315543405711651,
+    "mean_foreground_mass": 0.023541653528809547,
+    "rms_update": 0.007808455266058445
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.027936870232224464,
+    "mean_foreground_mass": 0.03031730093061924,
+    "rms_update": 0.011532900854945183
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01484275795519352,
+    "mean_foreground_mass": 0.015176852233707905,
+    "rms_update": 0.011065317317843437
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.032516032457351685,
+    "mean_foreground_mass": 0.042857080698013306,
+    "rms_update": 0.04069964960217476
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01188640296459198,
+    "mean_foreground_mass": 0.014878637157380581,
+    "rms_update": 0.015865257009863853
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.046780966222286224,
+    "mean_foreground_mass": 0.05397118628025055,
+    "rms_update": 0.03229275345802307
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.031424619257450104,
+    "mean_foreground_mass": 0.0417439229786396,
+    "rms_update": 0.04605848714709282
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.00911794975399971,
+    "mean_foreground_mass": 0.012640822678804398,
+    "rms_update": 0.014226637780666351
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.029664410278201103,
+    "mean_foreground_mass": 0.04144520312547684,
+    "rms_update": 0.03975115716457367
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03987867757678032,
+    "mean_foreground_mass": 0.06359829753637314,
+    "rms_update": 0.024704985320568085
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.06181252375245094,
+    "mean_foreground_mass": 0.0850648358464241,
+    "rms_update": 0.06150383874773979
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01920303888618946,
+    "mean_foreground_mass": 0.02641240321099758,
+    "rms_update": 0.032466400414705276
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.022963201627135277,
+    "mean_foreground_mass": 0.029530206695199013,
+    "rms_update": 0.025856833904981613
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.031127097085118294,
+    "mean_foreground_mass": 0.03611628711223602,
+    "rms_update": 0.017399486154317856
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02427191287279129,
+    "mean_foreground_mass": 0.027782771736383438,
+    "rms_update": 0.011284592561423779
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.029641028493642807,
+    "mean_foreground_mass": 0.03794105723500252,
+    "rms_update": 0.023940399289131165
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.017237195745110512,
+    "mean_foreground_mass": 0.0281474981456995,
+    "rms_update": 0.023431219160556793
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01757749542593956,
+    "mean_foreground_mass": 0.021328750997781754,
+    "rms_update": 0.015372403897345066
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.014464907348155975,
+    "mean_foreground_mass": 0.024262748658657074,
+    "rms_update": 0.03278522193431854
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.033626142889261246,
+    "mean_foreground_mass": 0.049561694264411926,
+    "rms_update": 0.0368419885635376
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.027296878397464752,
+    "mean_foreground_mass": 0.03486226871609688,
+    "rms_update": 0.026886580511927605
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.031959302723407745,
+    "mean_foreground_mass": 0.03242111578583717,
+    "rms_update": 0.010695653967559338
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.023076888173818588,
+    "mean_foreground_mass": 0.02580878511071205,
+    "rms_update": 0.017344282940030098
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.017040874809026718,
+    "mean_foreground_mass": 0.022157277911901474,
+    "rms_update": 0.017537029460072517
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03331885114312172,
+    "mean_foreground_mass": 0.03859155625104904,
+    "rms_update": 0.02746475674211979
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.008291802369058132,
+    "mean_foreground_mass": 0.012778800912201405,
+    "rms_update": 0.0180955920368433
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.024729765951633453,
+    "mean_foreground_mass": 0.028872424736618996,
+    "rms_update": 0.018515804782509804
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.06126038357615471,
+    "mean_foreground_mass": 0.06517954915761948,
+    "rms_update": 0.035758182406425476
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.011790979653596878,
+    "mean_foreground_mass": 0.014264826662838459,
+    "rms_update": 0.017531201243400574
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0424102321267128,
+    "mean_foreground_mass": 0.0573149211704731,
+    "rms_update": 0.05697399377822876
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03412887454032898,
+    "mean_foreground_mass": 0.05306060239672661,
+    "rms_update": 0.034599192440509796
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.030596544966101646,
+    "mean_foreground_mass": 0.04435568302869797,
+    "rms_update": 0.02371367998421192
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.020863153040409088,
+    "mean_foreground_mass": 0.02466810680925846,
+    "rms_update": 0.012915999628603458
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03234722837805748,
+    "mean_foreground_mass": 0.04144591465592384,
+    "rms_update": 0.019060807302594185
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03905100375413895,
+    "mean_foreground_mass": 0.039289116859436035,
+    "rms_update": 0.015187359414994717
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.044259876012802124,
+    "mean_foreground_mass": 0.04567890614271164,
+    "rms_update": 0.025924650952219963
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0036147492937743664,
+    "mean_foreground_mass": 0.013418407179415226,
+    "rms_update": 0.011573770083487034
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.019511960446834564,
+    "mean_foreground_mass": 0.026645101606845856,
+    "rms_update": 0.023312658071517944
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0275774747133255,
+    "mean_foreground_mass": 0.0291537344455719,
+    "rms_update": 0.009607451967895031
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.018906641751527786,
+    "mean_foreground_mass": 0.023997563868761063,
+    "rms_update": 0.01127751637250185
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.006335236597806215,
+    "mean_foreground_mass": 0.006318538449704647,
+    "rms_update": 0.003339943941682577
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01890265941619873,
+    "mean_foreground_mass": 0.019121387973427773,
+    "rms_update": 0.005374140106141567
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.025040630251169205,
+    "mean_foreground_mass": 0.029039189219474792,
+    "rms_update": 0.012504881247878075
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.015749920159578323,
+    "mean_foreground_mass": 0.01585056073963642,
+    "rms_update": 0.004910076502710581
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02530795708298683,
+    "mean_foreground_mass": 0.02817779779434204,
+    "rms_update": 0.016687676310539246
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.025059938430786133,
+    "mean_foreground_mass": 0.037665966898202896,
+    "rms_update": 0.022176848724484444
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02276705764234066,
+    "mean_foreground_mass": 0.025067010894417763,
+    "rms_update": 0.008907525800168514
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.018898261711001396,
+    "mean_foreground_mass": 0.02011975459754467,
+    "rms_update": 0.008914227597415447
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.025357581675052643,
+    "mean_foreground_mass": 0.027074679732322693,
+    "rms_update": 0.010155344381928444
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.018058182671666145,
+    "mean_foreground_mass": 0.018988605588674545,
+    "rms_update": 0.014394291676580906
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.011531569063663483,
+    "mean_foreground_mass": 0.015489435754716396,
+    "rms_update": 0.007858235388994217
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02921713888645172,
+    "mean_foreground_mass": 0.030738599598407745,
+    "rms_update": 0.012424662709236145
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01639593578875065,
+    "mean_foreground_mass": 0.019135532900691032,
+    "rms_update": 0.01311638206243515
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.05921528860926628,
+    "mean_foreground_mass": 0.06256115436553955,
+    "rms_update": 0.01976708136498928
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.041874028742313385,
+    "mean_foreground_mass": 0.058299046009778976,
+    "rms_update": 0.035851337015628815
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02975909411907196,
+    "mean_foreground_mass": 0.030928434804081917,
+    "rms_update": 0.012953833676874638
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02174483798444271,
+    "mean_foreground_mass": 0.022315656766295433,
+    "rms_update": 0.006176604889333248
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.027922872453927994,
+    "mean_foreground_mass": 0.031020596623420715,
+    "rms_update": 0.016184307634830475
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.011800876818597317,
+    "mean_foreground_mass": 0.012184779159724712,
+    "rms_update": 0.0062707350589334965
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.024868810549378395,
+    "mean_foreground_mass": 0.03309681639075279,
+    "rms_update": 0.017136218026280403
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.00870357546955347,
+    "mean_foreground_mass": 0.010799507610499859,
+    "rms_update": 0.006441951729357243
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04196657985448837,
+    "mean_foreground_mass": 0.04457288235425949,
+    "rms_update": 0.021164648234844208
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.032875631004571915,
+    "mean_foreground_mass": 0.04712703824043274,
+    "rms_update": 0.05056249350309372
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.007727614138275385,
+    "mean_foreground_mass": 0.010063188150525093,
+    "rms_update": 0.007524962071329355
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.022867150604724884,
+    "mean_foreground_mass": 0.03258182480931282,
+    "rms_update": 0.03232477977871895
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03703505918383598,
+    "mean_foreground_mass": 0.051417745649814606,
+    "rms_update": 0.023860450834035873
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04706988483667374,
+    "mean_foreground_mass": 0.06601332128047943,
+    "rms_update": 0.03393930941820145
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01284059975296259,
+    "mean_foreground_mass": 0.020198853686451912,
+    "rms_update": 0.0218820758163929
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01912049390375614,
+    "mean_foreground_mass": 0.024350032210350037,
+    "rms_update": 0.017189456149935722
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.021296046674251556,
+    "mean_foreground_mass": 0.023211969062685966,
+    "rms_update": 0.010449054650962353
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.019634028896689415,
+    "mean_foreground_mass": 0.020039573311805725,
+    "rms_update": 0.006673628464341164
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.030349940061569214,
+    "mean_foreground_mass": 0.03680223599076271,
+    "rms_update": 0.02188282087445259
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.014089331030845642,
+    "mean_foreground_mass": 0.03116164542734623,
+    "rms_update": 0.02103433385491371
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.013935921713709831,
+    "mean_foreground_mass": 0.01807229593396187,
+    "rms_update": 0.014101824723184109
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.008219541050493717,
+    "mean_foreground_mass": 0.021912910044193268,
+    "rms_update": 0.013580270111560822
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.02513323910534382,
+    "mean_foreground_mass": 0.033503707498311996,
+    "rms_update": 0.022535046562552452
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.022055473178625107,
+    "mean_foreground_mass": 0.02740105427801609,
+    "rms_update": 0.012278527021408081
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.027762098237872124,
+    "mean_foreground_mass": 0.027857434004545212,
+    "rms_update": 0.0076807294972240925
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.021564384922385216,
+    "mean_foreground_mass": 0.024664385244250298,
+    "rms_update": 0.012423587962985039
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.014378086663782597,
+    "mean_foreground_mass": 0.016398517414927483,
+    "rms_update": 0.013142983429133892
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03333047777414322,
+    "mean_foreground_mass": 0.043536875396966934,
+    "rms_update": 0.027947628870606422
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.005273523740470409,
+    "mean_foreground_mass": 0.008478539064526558,
+    "rms_update": 0.008322726003825665
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.024217989295721054,
+    "mean_foreground_mass": 0.03139888867735863,
+    "rms_update": 0.014410708099603653
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.05969781056046486,
+    "mean_foreground_mass": 0.06556135416030884,
+    "rms_update": 0.025887370109558105
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.010452846996486187,
+    "mean_foreground_mass": 0.01284867711365223,
+    "rms_update": 0.013671406544744968
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03502969071269035,
+    "mean_foreground_mass": 0.056720152497291565,
+    "rms_update": 0.024846509099006653
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.03776192665100098,
+    "mean_foreground_mass": 0.058196112513542175,
+    "rms_update": 0.02402796968817711
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.036193836480379105,
+    "mean_foreground_mass": 0.05279335752129555,
+    "rms_update": 0.04288449138402939
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.01140428613871336,
+    "mean_foreground_mass": 0.013650117442011833,
+    "rms_update": 0.007721241097897291
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.024282053112983704,
+    "mean_foreground_mass": 0.03195010870695114,
+    "rms_update": 0.012943372130393982
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.04511653259396553,
+    "mean_foreground_mass": 0.046817462891340256,
+    "rms_update": 0.013037143275141716
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.032486915588378906,
+    "mean_foreground_mass": 0.033347222954034805,
+    "rms_update": 0.011360196396708488
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0022046423982828856,
+    "mean_foreground_mass": 0.01294614840298891,
+    "rms_update": 0.005310302600264549
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "bg",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.019969545304775238,
+    "mean_foreground_mass": 0.024160046130418777,
+    "rms_update": 0.01187205035239458
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.10439036786556244,
+    "mean_foreground_mass": 0.03449961170554161,
+    "rms_update": 0.05089767277240753
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.17063286900520325,
+    "mean_foreground_mass": 0.03086206316947937,
+    "rms_update": 0.22599728405475616
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.05890938267111778,
+    "mean_foreground_mass": 0.009940097108483315,
+    "rms_update": 0.07493619620800018
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1121821403503418,
+    "mean_foreground_mass": 0.021733112633228302,
+    "rms_update": 0.15208926796913147
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.05959829315543175,
+    "mean_foreground_mass": 0.03502827510237694,
+    "rms_update": 0.05802013352513313
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16283529996871948,
+    "mean_foreground_mass": 0.014665696769952774,
+    "rms_update": 0.20070788264274597
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1589745432138443,
+    "mean_foreground_mass": 0.03471439331769943,
+    "rms_update": 0.13291244208812714
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1583692729473114,
+    "mean_foreground_mass": 0.03447156772017479,
+    "rms_update": 0.19192209839820862
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0773734524846077,
+    "mean_foreground_mass": 0.03356705978512764,
+    "rms_update": 0.07692607492208481
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16018663346767426,
+    "mean_foreground_mass": 0.020920203998684883,
+    "rms_update": 0.1153775006532669
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16365231573581696,
+    "mean_foreground_mass": 0.032172005623579025,
+    "rms_update": 0.21508564054965973
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.14697444438934326,
+    "mean_foreground_mass": 0.020609447732567787,
+    "rms_update": 0.17605778574943542
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.07564148306846619,
+    "mean_foreground_mass": 0.020037969574332237,
+    "rms_update": 0.06912644952535629
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.15446065366268158,
+    "mean_foreground_mass": 0.03165914863348007,
+    "rms_update": 0.16968102753162384
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.10122696310281754,
+    "mean_foreground_mass": 0.02664206176996231,
+    "rms_update": 0.10093019157648087
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.07865098863840103,
+    "mean_foreground_mass": 0.05898785591125488,
+    "rms_update": 0.06778404116630554
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.20631030201911926,
+    "mean_foreground_mass": 0.06422492116689682,
+    "rms_update": 0.18810111284255981
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16345742344856262,
+    "mean_foreground_mass": 0.030975742265582085,
+    "rms_update": 0.13099421560764313
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.14124809205532074,
+    "mean_foreground_mass": 0.02357093244791031,
+    "rms_update": 0.10935434699058533
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.10704734921455383,
+    "mean_foreground_mass": 0.030047466978430748,
+    "rms_update": 0.06546650826931
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.18527211248874664,
+    "mean_foreground_mass": 0.015624145045876503,
+    "rms_update": 0.24860848486423492
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.21524909138679504,
+    "mean_foreground_mass": 0.04257902875542641,
+    "rms_update": 0.2824712097644806
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.11611269414424896,
+    "mean_foreground_mass": 0.014893666841089725,
+    "rms_update": 0.1580381989479065
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16147595643997192,
+    "mean_foreground_mass": 0.05378434434533119,
+    "rms_update": 0.1630239635705948
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2063465118408203,
+    "mean_foreground_mass": 0.04118707776069641,
+    "rms_update": 0.25412237644195557
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.15455809235572815,
+    "mean_foreground_mass": 0.01262194849550724,
+    "rms_update": 0.23415985703468323
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1918446272611618,
+    "mean_foreground_mass": 0.04017573967576027,
+    "rms_update": 0.294613778591156
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.14927253127098083,
+    "mean_foreground_mass": 0.06388683617115021,
+    "rms_update": 0.1466759443283081
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.14849069714546204,
+    "mean_foreground_mass": 0.08498217165470123,
+    "rms_update": 0.1545022428035736
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.17622308433055878,
+    "mean_foreground_mass": 0.026145096868276596,
+    "rms_update": 0.1546221375465393
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2118658572435379,
+    "mean_foreground_mass": 0.029627513140439987,
+    "rms_update": 0.3084641396999359
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.21137067675590515,
+    "mean_foreground_mass": 0.036572493612766266,
+    "rms_update": 0.2845241129398346
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16657593846321106,
+    "mean_foreground_mass": 0.028014518320560455,
+    "rms_update": 0.25543245673179626
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2432873696088791,
+    "mean_foreground_mass": 0.037500251084566116,
+    "rms_update": 0.34381017088890076
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2693246304988861,
+    "mean_foreground_mass": 0.028364678844809532,
+    "rms_update": 0.33370241522789
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.250358521938324,
+    "mean_foreground_mass": 0.02267047017812729,
+    "rms_update": 0.3131275773048401
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.28294670581817627,
+    "mean_foreground_mass": 0.024030398577451706,
+    "rms_update": 0.43293288350105286
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.19395063817501068,
+    "mean_foreground_mass": 0.04921843856573105,
+    "rms_update": 0.28123658895492554
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.13891129195690155,
+    "mean_foreground_mass": 0.03507030010223389,
+    "rms_update": 0.14074595272541046
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.06261859834194183,
+    "mean_foreground_mass": 0.03206142410635948,
+    "rms_update": 0.08030445873737335
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.13463354110717773,
+    "mean_foreground_mass": 0.025741994380950928,
+    "rms_update": 0.10890627652406693
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.20064182579517365,
+    "mean_foreground_mass": 0.022132406011223793,
+    "rms_update": 0.4114510416984558
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.11692763864994049,
+    "mean_foreground_mass": 0.036386895924806595,
+    "rms_update": 0.08606325089931488
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2111329734325409,
+    "mean_foreground_mass": 0.013059228658676147,
+    "rms_update": 0.3195006251335144
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.15353581309318542,
+    "mean_foreground_mass": 0.029332200065255165,
+    "rms_update": 0.28282487392425537
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2011656016111374,
+    "mean_foreground_mass": 0.06519525498151779,
+    "rms_update": 0.38129502534866333
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.14659951627254486,
+    "mean_foreground_mass": 0.015203491784632206,
+    "rms_update": 0.28408128023147583
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.19831888377666473,
+    "mean_foreground_mass": 0.05937208980321884,
+    "rms_update": 0.32217755913734436
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16453760862350464,
+    "mean_foreground_mass": 0.05258619412779808,
+    "rms_update": 0.18087276816368103
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.24582192301750183,
+    "mean_foreground_mass": 0.043622661381959915,
+    "rms_update": 0.2032565325498581
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2638823091983795,
+    "mean_foreground_mass": 0.026569509878754616,
+    "rms_update": 0.3517765402793884
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1857219636440277,
+    "mean_foreground_mass": 0.041294001042842865,
+    "rms_update": 0.2400672882795334
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.18990762531757355,
+    "mean_foreground_mass": 0.040996309369802475,
+    "rms_update": 0.23099398612976074
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.11337783932685852,
+    "mean_foreground_mass": 0.04537389799952507,
+    "rms_update": 0.11363475769758224
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.3287001848220825,
+    "mean_foreground_mass": 0.014483575709164143,
+    "rms_update": 0.4722766876220703
+  },
+  {
+    "seed": 1,
+    "step": 1,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.20137420296669006,
+    "mean_foreground_mass": 0.027167828753590584,
+    "rms_update": 0.34525683522224426
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.13759547472000122,
+    "mean_foreground_mass": 0.028626205399632454,
+    "rms_update": 0.07547969371080399
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1558801531791687,
+    "mean_foreground_mass": 0.024588415399193764,
+    "rms_update": 0.19500231742858887
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.0762133002281189,
+    "mean_foreground_mass": 0.006054306402802467,
+    "rms_update": 0.10365257412195206
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.12890611588954926,
+    "mean_foreground_mass": 0.018880590796470642,
+    "rms_update": 0.1788732409477234
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.052011583000421524,
+    "mean_foreground_mass": 0.029142428189516068,
+    "rms_update": 0.03530802205204964
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1525098979473114,
+    "mean_foreground_mass": 0.015512351877987385,
+    "rms_update": 0.21265025436878204
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16828031837940216,
+    "mean_foreground_mass": 0.02755793370306492,
+    "rms_update": 0.15077443420886993
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 25,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.15206071734428406,
+    "mean_foreground_mass": 0.03725002333521843,
+    "rms_update": 0.1655537188053131
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.10460060834884644,
+    "mean_foreground_mass": 0.024714425206184387,
+    "rms_update": 0.08129078149795532
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1719294637441635,
+    "mean_foreground_mass": 0.019779611378908157,
+    "rms_update": 0.101443350315094
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1997978836297989,
+    "mean_foreground_mass": 0.026586532592773438,
+    "rms_update": 0.2181965559720993
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1691598743200302,
+    "mean_foreground_mass": 0.01855236291885376,
+    "rms_update": 0.16681380569934845
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.06529343873262405,
+    "mean_foreground_mass": 0.01448746770620346,
+    "rms_update": 0.04978121072053909
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16320307552814484,
+    "mean_foreground_mass": 0.03046037070453167,
+    "rms_update": 0.18795578181743622
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.12035518884658813,
+    "mean_foreground_mass": 0.019009195268154144,
+    "rms_update": 0.11091702431440353
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 26,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1037779226899147,
+    "mean_foreground_mass": 0.06252884119749069,
+    "rms_update": 0.07020477950572968
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.22496861219406128,
+    "mean_foreground_mass": 0.057506561279296875,
+    "rms_update": 0.18664290010929108
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1624656319618225,
+    "mean_foreground_mass": 0.02973996475338936,
+    "rms_update": 0.10108213871717453
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.13209879398345947,
+    "mean_foreground_mass": 0.022009408101439476,
+    "rms_update": 0.07937872409820557
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.10575983673334122,
+    "mean_foreground_mass": 0.029963750392198563,
+    "rms_update": 0.05963579937815666
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.20316925644874573,
+    "mean_foreground_mass": 0.012470409274101257,
+    "rms_update": 0.25478461384773254
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2141459733247757,
+    "mean_foreground_mass": 0.033798787742853165,
+    "rms_update": 0.2574145495891571
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.11125483363866806,
+    "mean_foreground_mass": 0.01074267365038395,
+    "rms_update": 0.11468859761953354
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 27,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.15696871280670166,
+    "mean_foreground_mass": 0.04452240839600563,
+    "rms_update": 0.12160433083772659
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.24987535178661346,
+    "mean_foreground_mass": 0.04664037004113197,
+    "rms_update": 0.24925971031188965
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.189030259847641,
+    "mean_foreground_mass": 0.009738658554852009,
+    "rms_update": 0.309543251991272
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.20836417376995087,
+    "mean_foreground_mass": 0.031091323122382164,
+    "rms_update": 0.31805890798568726
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16757583618164062,
+    "mean_foreground_mass": 0.050640005618333817,
+    "rms_update": 0.19806072115898132
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.17655400931835175,
+    "mean_foreground_mass": 0.06605346500873566,
+    "rms_update": 0.20297947525978088
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.20086631178855896,
+    "mean_foreground_mass": 0.019674666225910187,
+    "rms_update": 0.17493775486946106
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2264467477798462,
+    "mean_foreground_mass": 0.02478593774139881,
+    "rms_update": 0.33704155683517456
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 29,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.19401437044143677,
+    "mean_foreground_mass": 0.023216713219881058,
+    "rms_update": 0.26660847663879395
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1703193485736847,
+    "mean_foreground_mass": 0.020131340250372887,
+    "rms_update": 0.3211107850074768
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.24513113498687744,
+    "mean_foreground_mass": 0.03688805177807808,
+    "rms_update": 0.3282008171081543
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.27758628129959106,
+    "mean_foreground_mass": 0.03064165823161602,
+    "rms_update": 0.3526865243911743
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2436898797750473,
+    "mean_foreground_mass": 0.019769329577684402,
+    "rms_update": 0.3188057839870453
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.30706754326820374,
+    "mean_foreground_mass": 0.022732270881533623,
+    "rms_update": 0.4097147285938263
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.20453082025051117,
+    "mean_foreground_mass": 0.033422067761421204,
+    "rms_update": 0.2591629922389984
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.1471376270055771,
+    "mean_foreground_mass": 0.027573850005865097,
+    "rms_update": 0.09675954282283783
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 30,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.05419546738266945,
+    "mean_foreground_mass": 0.02817954495549202,
+    "rms_update": 0.030122404918074608
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.12624262273311615,
+    "mean_foreground_mass": 0.02470310591161251,
+    "rms_update": 0.08459856361150742
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.220332533121109,
+    "mean_foreground_mass": 0.016247902065515518,
+    "rms_update": 0.43551403284072876
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.18065902590751648,
+    "mean_foreground_mass": 0.041469503194093704,
+    "rms_update": 0.09190445393323898
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.19793833792209625,
+    "mean_foreground_mass": 0.008738159202039242,
+    "rms_update": 0.20169098675251007
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16433630883693695,
+    "mean_foreground_mass": 0.03089848719537258,
+    "rms_update": 0.27317577600479126
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.20517252385616302,
+    "mean_foreground_mass": 0.065688855946064,
+    "rms_update": 0.3494854271411896
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.19382721185684204,
+    "mean_foreground_mass": 0.01354162860661745,
+    "rms_update": 0.3698178827762604
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 31,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.22182197868824005,
+    "mean_foreground_mass": 0.05748782306909561,
+    "rms_update": 0.3317323923110962
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      0,
+      3
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2225273698568344,
+    "mean_foreground_mass": 0.059642236679792404,
+    "rms_update": 0.14637824892997742
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      4,
+      7
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2619485557079315,
+    "mean_foreground_mass": 0.05202446132898331,
+    "rms_update": 0.1565575897693634
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      8,
+      11
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.2549024522304535,
+    "mean_foreground_mass": 0.014379757456481457,
+    "rms_update": 0.3487244248390198
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      12,
+      15
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.20120345056056976,
+    "mean_foreground_mass": 0.03301079571247101,
+    "rms_update": 0.2317119687795639
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      16,
+      19
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.16617189347743988,
+    "mean_foreground_mass": 0.047184769064188004,
+    "rms_update": 0.11867956072092056
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      20,
+      23
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.13599112629890442,
+    "mean_foreground_mass": 0.032992105931043625,
+    "rms_update": 0.1090066209435463
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      24,
+      27
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.3282637298107147,
+    "mean_foreground_mass": 0.013192810118198395,
+    "rms_update": 0.47734639048576355
+  },
+  {
+    "seed": 1,
+    "step": 2,
+    "block": 32,
+    "condition": "self",
+    "heads": [
+      28,
+      31
+    ],
+    "queries": 216,
+    "source_keys": 91,
+    "mean_source_mass": 0.20150135457515717,
+    "mean_foreground_mass": 0.02395067922770977,
+    "rms_update": 0.3266436457633972
+  }
+]

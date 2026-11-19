@@ -1,0 +1,43 @@
+{
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "assessor": "AI visual inspection, not human audit",
+  "endpoint": "continuous rabbit limb reaches inside bowl",
+  "outcomes": {
+    "pass": [
+      false,
+      false,
+      false
+    ],
+    "full": [
+      true,
+      true,
+      true
+    ],
+    "full_target": [
+      true,
+      true,
+      true
+    ],
+    "cat": [
+      false,
+      false,
+      false
+    ],
+    "bg": [
+      false,
+      false,
+      false
+    ],
+    "self": [
+      false,
+      false,
+      false
+    ]
+  },
+  "strict_role_note": "full_target-s2 restores rabbit reach, but the green cat paw also enters the bowl over the rim. Do not count this as a full two-role repair.",
+  "scope": "Sampled source regions (failed final image), two denoising steps and seven blocks; negative isolated-region results delimit sufficiency, not all cross-entity effects."
+}
