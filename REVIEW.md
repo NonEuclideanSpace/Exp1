@@ -26,3 +26,7 @@
 [补充干预的成组证据与原图](review/hypothesis-evidence.md)
 
 [逐图核定的 38 张错误素材](review/error-materials.md)
+
+[新种子关系归属实验](review/error-panel.md)
+
+[新的关系串位实验方案](review/redesign.md)

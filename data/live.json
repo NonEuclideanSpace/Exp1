@@ -1,5 +1,5 @@
 {
-  "snapshot_hong_kong": "2026-11-19 21:33:57 +0800",
+  "snapshot_hong_kong": "2026-11-19 21:35:39 +0800",
   "published_cohorts": {
     "prior": 70,
     "bowl_intervention_outputs": 320,
@@ -12,5 +12,17 @@
   "sim_distance_scored": 514,
   "sim_distance_passive_completed": 0,
   "multiturn_target": 360,
-  "update_policy": "Check new artifacts every 60 seconds. Publication time also includes copying and pushing images."
+  "update_policy": "Check new artifacts every 60 seconds. Publication time also includes copying and pushing images.",
+  "sim_distance_original_target": 800,
+  "sim_distance_generation_closed": {
+    "timestamp": "2026-11-19T21:33:30.932252+08:00",
+    "original_target": 800,
+    "generated": 514,
+    "finals_generated": 482,
+    "interim_scored_finals": 437,
+    "balanced_complete": false,
+    "decision": "User requested redesign after negligible jacket-color binding positives. Stop additional jacket generation and jacket-only passive and repeat replays. Score existing outputs and retain denominators, incomplete cells and blind audit. No population equivalence claim."
+  },
+  "diagnostic_panel_completed": 16,
+  "diagnostic_panel_target": 16
 }

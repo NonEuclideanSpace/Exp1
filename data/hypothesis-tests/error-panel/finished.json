@@ -1,0 +1,12 @@
+{
+  "images": 16,
+  "size": 512,
+  "steps": 4,
+  "seed_device": "cuda",
+  "text_encoder_layers": [
+    9,
+    18,
+    27
+  ],
+  "trace": "four latent updates, 32 blocks, 32 attention heads, token maps, Q/K/V and output summaries, residual grids, four image estimates; raw QKV tensors are not retained"
+}

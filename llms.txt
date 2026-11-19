@@ -36,3 +36,7 @@
 [Paired causal controls and original images](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/hypothesis-evidence.md)
 
 [Original adjudication, prompts, images and machine trace locations for 38 failures](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/error-materials.json)
+
+[New seed attribution panel, prompts and visual outcomes](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/hypothesis-tests/error-panel/visual-readout.json)
+
+[Redesigned positive-case selection, full paired grid and causal interventions](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/redesign.md)

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "N02",
+    "seed": 21,
+    "verdict": "错误",
+    "pattern": "extra_neck_loop",
+    "observation": "猫嘴衔布，猫颈前方及右侧另外可见宽红色围圈。",
+    "original": "results/N02/seed-21/final.png",
+    "track": "results/N02/seed-21/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "N02",
+    "seed": 22,
+    "verdict": "错误",
+    "pattern": "extra_neck_loop",
+    "observation": "兔颈围巾延伸到猫嘴，猫颈另有两道红色围圈。",
+    "original": "results/N02/seed-22/final.png",
+    "track": "results/N02/seed-22/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "N02",
+    "seed": 23,
+    "verdict": "错误",
+    "pattern": "extra_neck_loop",
+    "observation": "两者间有布料连接；猫嘴下有垂端，猫颈也被一圈红色布料包住。",
+    "original": "results/N02/seed-23/final.png",
+    "track": "results/N02/seed-23/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "N02",
+    "seed": 24,
+    "verdict": "错误",
+    "pattern": "extra_neck_loop",
+    "observation": "红布由兔颈连到猫嘴，猫嘴下有垂端，猫颈侧面和颈前可见红圈。",
+    "original": "results/N02/seed-24/final.png",
+    "track": "results/N02/seed-24/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "J01",
+    "seed": 21,
+    "verdict": "错误",
+    "pattern": "split_shared_object",
+    "observation": "左偶胸前有垂下的珠圈。右偶在自己双手下方握着另一段珠串；两个身体之间没有珠串相连，右颈裸露。",
+    "original": "results/J01/seed-21/final.png",
+    "track": "results/J01/seed-21/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "J01",
+    "seed": 22,
+    "verdict": "错误",
+    "pattern": "split_shared_object",
+    "observation": "左偶是闭合的项链，右偶手上另有一串珠子一直垂向台面，两段之间有明显空隙。",
+    "original": "results/J01/seed-22/final.png",
+    "track": "results/J01/seed-22/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "J01",
+    "seed": 23,
+    "verdict": "错误",
+    "pattern": "split_shared_object",
+    "observation": "左偶佩戴项链，右偶手间和腕旁有珠子，中间没有连接左偶项链与右偶手的珠串。",
+    "original": "results/J01/seed-23/final.png",
+    "track": "results/J01/seed-23/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "J01",
+    "seed": 24,
+    "verdict": "错误",
+    "pattern": "split_shared_object",
+    "observation": "左偶项链下缘闭合，右偶两手间握一段另行垂下的珠串，右颈裸露。",
+    "original": "results/J01/seed-24/final.png",
+    "track": "results/J01/seed-24/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "N04",
+    "seed": 21,
+    "verdict": "错误",
+    "pattern": "wrong_actor_inside",
+    "observation": "蓝碗内侧能沿绿色前肢追到绿猫，右侧粉兔两爪停在碗沿。",
+    "original": "results/N04/seed-21/final.png",
+    "track": "results/N04/seed-21/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "N04",
+    "seed": 22,
+    "verdict": "错误",
+    "pattern": "wrong_actor_inside",
+    "observation": "绿猫的长前肢伸到蓝色碗内底面，粉兔的一只可见前爪停在右侧边缘。",
+    "original": "results/N04/seed-22/final.png",
+    "track": "results/N04/seed-22/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "N04",
+    "seed": 23,
+    "verdict": "错误",
+    "pattern": "both_at_rim",
+    "observation": "左侧绿爪和右侧粉爪都停在碗沿，内底清楚可见，没有粉爪。",
+    "original": "results/N04/seed-23/final.png",
+    "track": "results/N04/seed-23/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "N04",
+    "seed": 24,
+    "verdict": "错误",
+    "pattern": "both_at_rim",
+    "observation": "两边的爪都靠在上沿，右侧两只粉爪离碗内底有明显间隙。",
+    "original": "results/N04/seed-24/final.png",
+    "track": "results/N04/seed-24/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "J02",
+    "seed": 21,
+    "verdict": "错误",
+    "pattern": "right_misses_mark",
+    "observation": "两只人偶的手均朝向盘子，白点的完整轮廓可见，右偶两手均与白点有明显空隙。",
+    "original": "results/J02/seed-21/final.png",
+    "track": "results/J02/seed-21/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "J02",
+    "seed": 22,
+    "verdict": "错误",
+    "pattern": "right_misses_mark",
+    "observation": "右侧两手在白点的上方与右上方，盘底白点无遮挡，没有指尖碰到。",
+    "original": "results/J02/seed-22/final.png",
+    "track": "results/J02/seed-22/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "J02",
+    "seed": 23,
+    "verdict": "错误",
+    "pattern": "right_misses_mark",
+    "observation": "右偶一只尖手朝盘内白点伸去，末端和白点之间仍有一段蓝色盘面。",
+    "original": "results/J02/seed-23/final.png",
+    "track": "results/J02/seed-23/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  },
+  {
+    "id": "J02",
+    "seed": 24,
+    "verdict": "错误",
+    "pattern": "right_misses_mark",
+    "observation": "右侧两只手都伸向盘内，前端停在白点上方，白点与指尖之间仍有可见间隙。",
+    "original": "results/J02/seed-24/final.png",
+    "track": "results/J02/seed-24/",
+    "reader": "AI visual examination of four originals side by side, images ordered by seed. Not an independent human audit."
+  }
+]
