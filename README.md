@@ -13,6 +13,8 @@
 
 ## FLUX 结构图
 
+[在线交互结构图 · 注意力偏向](https://htmlpreview.github.io/?https://github.com/NonEuclideanSpace/Exp1/blob/main/articles/flux/index.html#single-stream)　[在线交互结构图 · 干预修复](https://htmlpreview.github.io/?https://github.com/NonEuclideanSpace/Exp1/blob/main/articles/flux/intervention.html#single-stream)
+
 ![联合干预标记](articles/flux/single-stream-intervention.svg)
 
 紫色是七块共同移植时修复 2/3 的位置。下表可点开具体块。原图沿用作者的文字和配色，新增标记只用紫色。
