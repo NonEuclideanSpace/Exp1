@@ -17,3 +17,7 @@
 代码和 CSV 的 `block_index`、`head_index`、`step_index` 从 0 开始；网页显示的全局块号和去噪步从 1 开始，H22 保持从 0 起算。读分开的 R/V/T 干预时使用 `routing-values-fp32/`。此前 `routing-values/` 是低精度重构诊断，用于追踪数值误差。选七块使用种子 2，种子 0、1 用于复测。
 
 碗内粉色像素得分是颜色代理量。动作归属应看前腿是否与实体连续、是否伸至碗内以及另一实体的接触点。视觉模型自动评分、AI 直接看原图、独立人工盲审是三种不同来源。提示词优先引用存档原文，读数优先引用 CSV 或 JSON 的字段，干预结论注明种子、分母、对照和时间窗口。
+
+## 重新设计的角色和接触实验
+
+新实验位于 07-hypothesis-tests/error-panel/。先读 protocol.md 与 live.json。正式实验的原始提示词和参考图坐标在 mannequin-grid/full-contact/design.json，逐图判读在 mannequin-grid/full-contact/visual-readout.json，逐图自动盲评分在 mannequin-grid/full-contact/judgments/，四个去噪步的 32 块和 32 头紧凑记录在 mannequin-grid/full-contact/trace/样本编号/。碗的正反向新种子干预位于 causal-N04/，木人偶的参考图注意力干预位于 mannequin-grid/patch/。读数区分自动盲评分、AI 直接视觉判读和独立人工标注。

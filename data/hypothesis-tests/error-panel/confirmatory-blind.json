@@ -1,0 +1,882 @@
+[
+  {
+    "id": "high-far-left-bottom-s31-text",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-left-bottom-s31",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-left-bottom-s32-text",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-left-bottom-s32",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-left-bottom-s33",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-left-bottom-s34",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-left-bottom-s35",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-left-bottom-s36",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-left-bottom-s37",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-left-bottom-s38",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-right-bottom-s31-text",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-right-bottom-s31",
+    "raw": "NONE,RIGHT,2",
+    "parsed": [
+      "NONE",
+      "RIGHT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-right-bottom-s32-text",
+    "raw": "RIGHT,RIGHT,2",
+    "parsed": [
+      "RIGHT",
+      "RIGHT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-right-bottom-s32",
+    "raw": "NONE,NONE,2",
+    "parsed": [
+      "NONE",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-right-bottom-s33",
+    "raw": "RIGHT,RIGHT,2",
+    "parsed": [
+      "RIGHT",
+      "RIGHT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-right-bottom-s34",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-right-bottom-s35",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-right-bottom-s36",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-right-bottom-s37",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-far-right-bottom-s38",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-left-bottom-s31-text",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-left-bottom-s31",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-left-bottom-s32-text",
+    "raw": "RIGHT,RIGHT,2",
+    "parsed": [
+      "RIGHT",
+      "RIGHT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-left-bottom-s32",
+    "raw": "LEFT, NONE, 3",
+    "parsed": [
+      "LEFT",
+      "NONE",
+      "3"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-left-bottom-s33",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-left-bottom-s34",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-left-bottom-s35",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-left-bottom-s36",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-left-bottom-s37",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-left-bottom-s38",
+    "raw": "RIGHT, NONE, 3",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "3"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-right-bottom-s31-text",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-right-bottom-s31",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-right-bottom-s32-text",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-right-bottom-s32",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-right-bottom-s33",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-right-bottom-s34",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-right-bottom-s35",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-right-bottom-s36",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-right-bottom-s37",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "high-near-right-bottom-s38",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-left-bottom-s31-text",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-left-bottom-s31",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-left-bottom-s32-text",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-left-bottom-s32",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-left-bottom-s33",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-left-bottom-s34",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-left-bottom-s35",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-left-bottom-s36",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-left-bottom-s37",
+    "raw": "NONE,RIGHT,2",
+    "parsed": [
+      "NONE",
+      "RIGHT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-left-bottom-s38",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-right-bottom-s31-text",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-right-bottom-s31",
+    "raw": "NONE,NONE,2",
+    "parsed": [
+      "NONE",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-right-bottom-s32-text",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-right-bottom-s32",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-right-bottom-s33",
+    "raw": "NONE,NONE,2",
+    "parsed": [
+      "NONE",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-right-bottom-s34",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-right-bottom-s35",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-right-bottom-s36",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-right-bottom-s37",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-far-right-bottom-s38",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-left-bottom-s31-text",
+    "raw": "RIGHT,RIGHT,2",
+    "parsed": [
+      "RIGHT",
+      "RIGHT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-left-bottom-s31",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-left-bottom-s32-text",
+    "raw": "LEFT,RIGHT,2",
+    "parsed": [
+      "LEFT",
+      "RIGHT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-left-bottom-s32",
+    "raw": "RIGHT, NONE, 3",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "3"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-left-bottom-s33",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-left-bottom-s34",
+    "raw": "NONE,NONE,2",
+    "parsed": [
+      "NONE",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-left-bottom-s35",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-left-bottom-s36",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-left-bottom-s37",
+    "raw": "RIGHT,RIGHT,2",
+    "parsed": [
+      "RIGHT",
+      "RIGHT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-left-bottom-s38",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-right-bottom-s31-text",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-right-bottom-s31",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-right-bottom-s32-text",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-right-bottom-s32",
+    "raw": "NONE,NONE,2",
+    "parsed": [
+      "NONE",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-right-bottom-s33",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-right-bottom-s34",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-right-bottom-s35",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-right-bottom-s36",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-right-bottom-s37",
+    "raw": "RIGHT,LEFT,2",
+    "parsed": [
+      "RIGHT",
+      "LEFT",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  },
+  {
+    "id": "low-near-right-bottom-s38",
+    "raw": "RIGHT, NONE, 2",
+    "parsed": [
+      "RIGHT",
+      "NONE",
+      "2"
+    ],
+    "scoring_prompt": "Examine the white circular spot inside the blue dish. Trace each wooden hand back to its own shoulder. Which figure's fingertip visibly touches or covers the WHITE spot itself? A fingertip pointing at it with blue space between its tip and the white spot counts as NO contact. Answer LEFT, RIGHT, BOTH, NONE, or UNCLEAR. Then say who has a fingertip visibly on the upper rim using the same choices. Then give the number of mannequin bodies clearly visible. Return only the three comma-separated answers.",
+    "source": "Qwen3-VL greedy. Blind to expected role, seed and factor labels. Assess fingertip/white spot from original images."
+  }
+]

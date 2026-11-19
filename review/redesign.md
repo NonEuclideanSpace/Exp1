@@ -36,3 +36,5 @@ FLUX.2-klein-9b-kv，四步去噪，512 × 512。首轮固定种子 21、22、23
 实际输出、完整分母、种子、图像和逐样本追踪在机器的 07-hypothesis-tests/error-panel 中。图外记录结果。GitHub Exp1 发布原始提示词、选中证据和全部判读。
 
 [布局条件的 8 张校准结果](layout-calibration.md)
+
+[正式配对与逐图观察结果](mannequin-grid.md)

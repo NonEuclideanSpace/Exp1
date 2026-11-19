@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T21:40:24.091163+08:00",
+  "timestamp": "2026-11-19T21:41:34.113727+08:00",
   "planned": {
     "paired_grid": 64,
     "prompt_only_controls": 16,
@@ -9,7 +9,7 @@
   "completed": {
     "generated": 80,
     "blind_judgments": 80,
-    "compact_four_step_traces": 0
+    "compact_four_step_traces": 33
   },
   "sample_directory": "/root/autodl-tmp/flux-experiments/2026-11-19/07-hypothesis-tests/error-panel/mannequin-grid/full-contact",
   "record_layout": "design.json contains all expected roles; judgments store blind raw replies; trace/SAMPLE/ holds four steps, per-head summaries, token-attention maps, spatial residuals.",

@@ -1,0 +1,1321 @@
+{
+  "seed_unit": 8,
+  "scoring": "Assistant visual review of original images grouped by seed. Contact is visible fingertip meeting the intended white spot. Extra dot, actor or dish is explicit failure when observed. Blue gap is a miss, borderline projections are unclear. Meets-scored-endpoints does not certify the rim contact in depth or general image quality. Counts are image-level; shared seeds are not independent observations. Flags mark observed anomalies, not exhaustive model anatomy grading.",
+  "rows": [
+    {
+      "id": "high-near-right-bottom-s31",
+      "seed": 31,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-near-right-bottom-s31-text",
+      "seed": 31,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": false,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-near-left-bottom-s31",
+      "seed": 31,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-near-left-bottom-s31-text",
+      "seed": 31,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": false,
+      "observed_contact": "left",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": true,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-right-bottom-s31",
+      "seed": 31,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-right-bottom-s31-text",
+      "seed": 31,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": false,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-far-left-bottom-s31",
+      "seed": 31,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-left-bottom-s31-text",
+      "seed": 31,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": false,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-near-right-bottom-s31",
+      "seed": 31,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-near-right-bottom-s31-text",
+      "seed": 31,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": false,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-near-left-bottom-s31",
+      "seed": 31,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-near-left-bottom-s31-text",
+      "seed": 31,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": false,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-right-bottom-s31",
+      "seed": 31,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-right-bottom-s31-text",
+      "seed": 31,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": false,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-far-left-bottom-s31",
+      "seed": 31,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-left-bottom-s31-text",
+      "seed": 31,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": false,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-near-right-bottom-s32",
+      "seed": 32,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-near-right-bottom-s32-text",
+      "seed": 32,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": false,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-near-left-bottom-s32",
+      "seed": 32,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "left",
+      "extra_white_spot": true,
+      "extra_mannequin": true,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-near-left-bottom-s32-text",
+      "seed": 32,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": false,
+      "observed_contact": "left",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": true,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-right-bottom-s32",
+      "seed": 32,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-right-bottom-s32-text",
+      "seed": 32,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": false,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-far-left-bottom-s32",
+      "seed": 32,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "left",
+      "extra_white_spot": true,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-left-bottom-s32-text",
+      "seed": 32,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": false,
+      "observed_contact": "left",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-near-right-bottom-s32",
+      "seed": 32,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-near-right-bottom-s32-text",
+      "seed": 32,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": false,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-near-left-bottom-s32",
+      "seed": 32,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "left",
+      "extra_white_spot": true,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-near-left-bottom-s32-text",
+      "seed": 32,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": false,
+      "observed_contact": "left",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": true,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-right-bottom-s32",
+      "seed": 32,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-right-bottom-s32-text",
+      "seed": 32,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": false,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-far-left-bottom-s32",
+      "seed": 32,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "left",
+      "extra_white_spot": true,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-left-bottom-s32-text",
+      "seed": 32,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": false,
+      "observed_contact": "left",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-near-right-bottom-s33",
+      "seed": 33,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-near-left-bottom-s33",
+      "seed": 33,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-right-bottom-s33",
+      "seed": 33,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-left-bottom-s33",
+      "seed": 33,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-near-right-bottom-s33",
+      "seed": 33,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-near-left-bottom-s33",
+      "seed": 33,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-right-bottom-s33",
+      "seed": 33,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-left-bottom-s33",
+      "seed": 33,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-near-right-bottom-s34",
+      "seed": 34,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "unclear",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "unclear"
+    },
+    {
+      "id": "high-near-left-bottom-s34",
+      "seed": 34,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-right-bottom-s34",
+      "seed": 34,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-left-bottom-s34",
+      "seed": 34,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-near-right-bottom-s34",
+      "seed": 34,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "unclear",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "unclear"
+    },
+    {
+      "id": "low-near-left-bottom-s34",
+      "seed": 34,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-right-bottom-s34",
+      "seed": 34,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-left-bottom-s34",
+      "seed": 34,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "unclear",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "unclear"
+    },
+    {
+      "id": "high-near-right-bottom-s35",
+      "seed": 35,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-near-left-bottom-s35",
+      "seed": 35,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "left",
+      "extra_white_spot": true,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-right-bottom-s35",
+      "seed": 35,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-far-left-bottom-s35",
+      "seed": 35,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-near-right-bottom-s35",
+      "seed": 35,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-near-left-bottom-s35",
+      "seed": 35,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "left",
+      "extra_white_spot": true,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-right-bottom-s35",
+      "seed": 35,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-far-left-bottom-s35",
+      "seed": 35,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "left",
+      "extra_white_spot": true,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-near-right-bottom-s36",
+      "seed": 36,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-near-left-bottom-s36",
+      "seed": 36,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "unclear",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "unclear"
+    },
+    {
+      "id": "high-far-right-bottom-s36",
+      "seed": 36,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-far-left-bottom-s36",
+      "seed": 36,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-near-right-bottom-s36",
+      "seed": 36,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-near-left-bottom-s36",
+      "seed": 36,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "unclear",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "unclear"
+    },
+    {
+      "id": "low-far-right-bottom-s36",
+      "seed": 36,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-far-left-bottom-s36",
+      "seed": 36,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-near-right-bottom-s37",
+      "seed": 37,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-near-left-bottom-s37",
+      "seed": 37,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-right-bottom-s37",
+      "seed": 37,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-left-bottom-s37",
+      "seed": 37,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-near-right-bottom-s37",
+      "seed": 37,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-near-left-bottom-s37",
+      "seed": 37,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-right-bottom-s37",
+      "seed": 37,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "low-far-left-bottom-s37",
+      "seed": 37,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "none",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-near-right-bottom-s38",
+      "seed": 38,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-near-left-bottom-s38",
+      "seed": 38,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "left",
+      "extra_white_spot": false,
+      "extra_mannequin": true,
+      "extra_dish": false,
+      "readout": "fail"
+    },
+    {
+      "id": "high-far-right-bottom-s38",
+      "seed": 38,
+      "role": "right-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "unclear",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "unclear"
+    },
+    {
+      "id": "high-far-left-bottom-s38",
+      "seed": 38,
+      "role": "left-bottom",
+      "similarity": "high",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "unclear",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "unclear"
+    },
+    {
+      "id": "low-near-right-bottom-s38",
+      "seed": 38,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "right",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-near-left-bottom-s38",
+      "seed": 38,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "near",
+      "feed_layout": true,
+      "observed_contact": "left",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-far-right-bottom-s38",
+      "seed": 38,
+      "role": "right-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "unclear",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "unclear"
+    },
+    {
+      "id": "low-far-left-bottom-s38",
+      "seed": 38,
+      "role": "left-bottom",
+      "similarity": "low",
+      "distance": "far",
+      "feed_layout": true,
+      "observed_contact": "unclear",
+      "extra_white_spot": false,
+      "extra_mannequin": false,
+      "extra_dish": false,
+      "readout": "unclear"
+    }
+  ],
+  "grid": {
+    "n": 64,
+    "counts": {
+      "fail": 40,
+      "meets_scored_endpoints": 15,
+      "unclear": 9
+    },
+    "visible_no_contact": 32,
+    "extra_spot": 7,
+    "extra_body": 2,
+    "extra_dish": 0
+  },
+  "text_only": {
+    "n": 16,
+    "counts": {
+      "meets_scored_endpoints": 10,
+      "fail": 6
+    },
+    "visible_no_contact": 3,
+    "extra_spot": 0,
+    "extra_body": 0,
+    "extra_dish": 3
+  },
+  "grid_by_factor": {
+    "similarity": {
+      "high": {
+        "n": 32,
+        "counts": {
+          "fail": 21,
+          "meets_scored_endpoints": 7,
+          "unclear": 4
+        },
+        "visible_no_contact": 17,
+        "extra_spot": 3,
+        "extra_body": 2,
+        "extra_dish": 0
+      },
+      "low": {
+        "n": 32,
+        "counts": {
+          "fail": 19,
+          "meets_scored_endpoints": 8,
+          "unclear": 5
+        },
+        "visible_no_contact": 15,
+        "extra_spot": 4,
+        "extra_body": 0,
+        "extra_dish": 0
+      }
+    },
+    "distance": {
+      "far": {
+        "n": 32,
+        "counts": {
+          "fail": 23,
+          "unclear": 5,
+          "meets_scored_endpoints": 4
+        },
+        "visible_no_contact": 20,
+        "extra_spot": 3,
+        "extra_body": 0,
+        "extra_dish": 0
+      },
+      "near": {
+        "n": 32,
+        "counts": {
+          "fail": 17,
+          "meets_scored_endpoints": 11,
+          "unclear": 4
+        },
+        "visible_no_contact": 12,
+        "extra_spot": 4,
+        "extra_body": 2,
+        "extra_dish": 0
+      }
+    },
+    "role": {
+      "left-bottom": {
+        "n": 32,
+        "counts": {
+          "fail": 26,
+          "unclear": 5,
+          "meets_scored_endpoints": 1
+        },
+        "visible_no_contact": 18,
+        "extra_spot": 7,
+        "extra_body": 2,
+        "extra_dish": 0
+      },
+      "right-bottom": {
+        "n": 32,
+        "counts": {
+          "fail": 14,
+          "meets_scored_endpoints": 14,
+          "unclear": 4
+        },
+        "visible_no_contact": 14,
+        "extra_spot": 0,
+        "extra_body": 0,
+        "extra_dish": 0
+      }
+    },
+    "seed": {
+      "31": {
+        "n": 8,
+        "counts": {
+          "fail": 8
+        },
+        "visible_no_contact": 8,
+        "extra_spot": 0,
+        "extra_body": 0,
+        "extra_dish": 0
+      },
+      "32": {
+        "n": 8,
+        "counts": {
+          "fail": 8
+        },
+        "visible_no_contact": 4,
+        "extra_spot": 4,
+        "extra_body": 1,
+        "extra_dish": 0
+      },
+      "33": {
+        "n": 8,
+        "counts": {
+          "meets_scored_endpoints": 2,
+          "fail": 6
+        },
+        "visible_no_contact": 6,
+        "extra_spot": 0,
+        "extra_body": 0,
+        "extra_dish": 0
+      },
+      "34": {
+        "n": 8,
+        "counts": {
+          "unclear": 3,
+          "fail": 5
+        },
+        "visible_no_contact": 5,
+        "extra_spot": 0,
+        "extra_body": 0,
+        "extra_dish": 0
+      },
+      "35": {
+        "n": 8,
+        "counts": {
+          "meets_scored_endpoints": 4,
+          "fail": 4
+        },
+        "visible_no_contact": 1,
+        "extra_spot": 3,
+        "extra_body": 0,
+        "extra_dish": 0
+      },
+      "36": {
+        "n": 8,
+        "counts": {
+          "meets_scored_endpoints": 4,
+          "unclear": 2,
+          "fail": 2
+        },
+        "visible_no_contact": 2,
+        "extra_spot": 0,
+        "extra_body": 0,
+        "extra_dish": 0
+      },
+      "37": {
+        "n": 8,
+        "counts": {
+          "meets_scored_endpoints": 2,
+          "fail": 6
+        },
+        "visible_no_contact": 6,
+        "extra_spot": 0,
+        "extra_body": 0,
+        "extra_dish": 0
+      },
+      "38": {
+        "n": 8,
+        "counts": {
+          "meets_scored_endpoints": 3,
+          "fail": 1,
+          "unclear": 4
+        },
+        "visible_no_contact": 0,
+        "extra_spot": 0,
+        "extra_body": 1,
+        "extra_dish": 0
+      }
+    }
+  },
+  "matched_text_controls": [
+    {
+      "id": "high-near-right-bottom-s31",
+      "layout": "fail",
+      "text_only": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-near-left-bottom-s31",
+      "layout": "fail",
+      "text_only": "fail"
+    },
+    {
+      "id": "high-far-right-bottom-s31",
+      "layout": "fail",
+      "text_only": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-far-left-bottom-s31",
+      "layout": "fail",
+      "text_only": "fail"
+    },
+    {
+      "id": "low-near-right-bottom-s31",
+      "layout": "fail",
+      "text_only": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-near-left-bottom-s31",
+      "layout": "fail",
+      "text_only": "fail"
+    },
+    {
+      "id": "low-far-right-bottom-s31",
+      "layout": "fail",
+      "text_only": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-far-left-bottom-s31",
+      "layout": "fail",
+      "text_only": "fail"
+    },
+    {
+      "id": "high-near-right-bottom-s32",
+      "layout": "fail",
+      "text_only": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-near-left-bottom-s32",
+      "layout": "fail",
+      "text_only": "fail"
+    },
+    {
+      "id": "high-far-right-bottom-s32",
+      "layout": "fail",
+      "text_only": "meets_scored_endpoints"
+    },
+    {
+      "id": "high-far-left-bottom-s32",
+      "layout": "fail",
+      "text_only": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-near-right-bottom-s32",
+      "layout": "fail",
+      "text_only": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-near-left-bottom-s32",
+      "layout": "fail",
+      "text_only": "fail"
+    },
+    {
+      "id": "low-far-right-bottom-s32",
+      "layout": "fail",
+      "text_only": "meets_scored_endpoints"
+    },
+    {
+      "id": "low-far-left-bottom-s32",
+      "layout": "fail",
+      "text_only": "meets_scored_endpoints"
+    }
+  ]
+}

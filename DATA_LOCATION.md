@@ -19,3 +19,7 @@ AutoDL 数据盘总目录为 `/root/autodl-tmp/flux-experiments/2026-11-19/`。�
 | `CLAUDE.md` | 读取顺序、干预条件、原始字段和判读口径 |
 
 网页版 Claude 可以通过 GitHub 的原图和结构化测量审阅。普通网页无法打开 AutoDL 的绝对路径，完整内部张量需要具有该实例文件权限的 Claude 读取。
+
+## 重新设计的角色和接触实验
+
+新实验位于 07-hypothesis-tests/error-panel/。先读 protocol.md 与 live.json。正式实验的原始提示词和参考图坐标在 mannequin-grid/full-contact/design.json，逐图判读在 mannequin-grid/full-contact/visual-readout.json，逐图自动盲评分在 mannequin-grid/full-contact/judgments/，四个去噪步的 32 块和 32 头紧凑记录在 mannequin-grid/full-contact/trace/样本编号/。碗的正反向新种子干预位于 causal-N04/，木人偶的参考图注意力干预位于 mannequin-grid/patch/。读数区分自动盲评分、AI 直接视觉判读和独立人工标注。

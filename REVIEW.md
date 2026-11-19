@@ -36,3 +36,5 @@
 [同种子单主体与双物件对照](review/solo-controls.md)
 
 [木人偶触点的旁观者与表述对照](review/contact-controls.md)
+
+[正式配对组的 64 张与 16 张无布局对照](review/mannequin-grid.md)
