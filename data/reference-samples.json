@@ -1,1 +1,830 @@
-[]
+[
+  {
+    "recipient": "C03A/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 1,
+    "head_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 1,
+        "heads": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ],
+        "ref_value_rms": [
+          0.02125667780637741,
+          0.01112903282046318,
+          0.02365686185657978,
+          0.0012302789837121964,
+          0.042424965649843216,
+          0.0069860415533185005,
+          0.04133880138397217,
+          0.035101618617773056,
+          0.04113919660449028,
+          0.8983513712882996,
+          0.0015841791173443198,
+          0.02547754906117916,
+          0.0028990681748837233,
+          0.15243929624557495,
+          0.03408682346343994,
+          0.13798639178276062,
+          0.06756588816642761,
+          0.1008724644780159,
+          0.7110239863395691,
+          0.011606152169406414,
+          0.0031139631755650043,
+          0.681429922580719,
+          0.32125309109687805,
+          0.0031303924042731524,
+          0.030421432107686996,
+          0.2716630697250366,
+          0.023101292550563812,
+          0.09837501496076584,
+          0.07802744954824448,
+          0.9528235197067261,
+          0.00640357518568635,
+          0.01652088388800621
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03A/seed-1/all_heads_first/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "recipient": "C03A/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 10,
+    "head_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 10,
+        "heads": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ],
+        "ref_value_rms": [
+          0.008766859769821167,
+          0.0540265291929245,
+          0.03968269005417824,
+          0.014428628608584404,
+          0.04357175901532173,
+          0.013861597515642643,
+          0.030680816620588303,
+          0.002511498983949423,
+          0.024777187034487724,
+          0.04287389665842056,
+          0.04387787729501724,
+          0.02747286669909954,
+          0.03696869686245918,
+          0.0056974682956933975,
+          0.015260087326169014,
+          0.015024954453110695,
+          0.03240816295146942,
+          0.011384943500161171,
+          0.043148819357156754,
+          0.02886916883289814,
+          0.052229706197977066,
+          0.03975192829966545,
+          0.06840101629495621,
+          0.03451962396502495,
+          0.0034145063254982233,
+          0.01411709189414978,
+          0.027953460812568665,
+          0.006890682503581047,
+          0.004879421088844538,
+          0.002753017470240593,
+          0.019313251599669456,
+          0.3449997901916504
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03A/seed-1/control_block_first/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "recipient": "C03A/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 1,
+    "head_indices": [
+      10
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 1,
+        "heads": [
+          10
+        ],
+        "ref_value_rms": [
+          0.0015841791173443198
+        ]
+      },
+      {
+        "step": 1,
+        "layer": 1,
+        "heads": [
+          10
+        ],
+        "ref_value_rms": [
+          0.0075441873632371426
+        ]
+      },
+      {
+        "step": 2,
+        "layer": 1,
+        "heads": [
+          10
+        ],
+        "ref_value_rms": [
+          0.03112146072089672
+        ]
+      },
+      {
+        "step": 3,
+        "layer": 1,
+        "heads": [
+          10
+        ],
+        "ref_value_rms": [
+          0.026251839473843575
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03A/seed-1/neighbor_head_all/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "recipient": "C03A/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 1,
+    "head_indices": [
+      10
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 1,
+        "heads": [
+          10
+        ],
+        "ref_value_rms": [
+          0.0015841791173443198
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03A/seed-1/neighbor_head_first/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "recipient": "C03A/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 1,
+    "head_indices": [
+      9
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 1,
+        "heads": [
+          9
+        ],
+        "ref_value_rms": [
+          0.8983513712882996
+        ]
+      },
+      {
+        "step": 1,
+        "layer": 1,
+        "heads": [
+          9
+        ],
+        "ref_value_rms": [
+          1.0752745866775513
+        ]
+      },
+      {
+        "step": 2,
+        "layer": 1,
+        "heads": [
+          9
+        ],
+        "ref_value_rms": [
+          0.7466090321540833
+        ]
+      },
+      {
+        "step": 3,
+        "layer": 1,
+        "heads": [
+          9
+        ],
+        "ref_value_rms": [
+          0.282083123922348
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03A/seed-1/same_head_all/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "recipient": "C03A/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 1,
+    "head_indices": [
+      9
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 1,
+        "heads": [
+          9
+        ],
+        "ref_value_rms": [
+          0.8983513712882996
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03A/seed-1/same_head_first/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "recipient": "C03L/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 1,
+    "head_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 1,
+        "heads": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ],
+        "ref_value_rms": [
+          0.05679197981953621,
+          0.02700367011129856,
+          0.0939575806260109,
+          0.0027736611664295197,
+          0.11037955433130264,
+          0.024558784440159798,
+          0.12594269216060638,
+          0.06910792738199234,
+          0.09644178301095963,
+          0.9814702868461609,
+          0.00947534292936325,
+          0.039181821048259735,
+          0.008022026158869267,
+          0.38565418124198914,
+          0.06660418212413788,
+          0.26544609665870667,
+          0.18978551030158997,
+          0.11041166633367538,
+          1.058861494064331,
+          0.01886950246989727,
+          0.00814046524465084,
+          0.7765873670578003,
+          0.42106467485427856,
+          0.009057395160198212,
+          0.03616253659129143,
+          0.3346806764602661,
+          0.03630147874355316,
+          0.19285504519939423,
+          0.21238578855991364,
+          1.0478999614715576,
+          0.0114585617557168,
+          0.03400265797972679
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03L/seed-1/all_heads_first/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "recipient": "C03L/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 10,
+    "head_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 10,
+        "heads": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ],
+        "ref_value_rms": [
+          0.011948333121836185,
+          0.04721902310848236,
+          0.05856344848871231,
+          0.040516212582588196,
+          0.04687237739562988,
+          0.012275834567844868,
+          0.07711099833250046,
+          0.025613294914364815,
+          0.06580343097448349,
+          0.054029081016778946,
+          0.06910617649555206,
+          0.0670362189412117,
+          0.06190405786037445,
+          0.006355924066156149,
+          0.059710606932640076,
+          0.005201425869017839,
+          0.03784877806901932,
+          0.01343595515936613,
+          0.07551421970129013,
+          0.06517910212278366,
+          0.04949972406029701,
+          0.029558546841144562,
+          0.0870276540517807,
+          0.06991210579872131,
+          0.0147059615701437,
+          0.02740294858813286,
+          0.03963440656661987,
+          0.008591235615313053,
+          0.01112831849604845,
+          0.006465523969382048,
+          0.021551204845309258,
+          0.4107724726200104
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03L/seed-1/control_block_first/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "recipient": "C03L/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 1,
+    "head_indices": [
+      10
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 1,
+        "heads": [
+          10
+        ],
+        "ref_value_rms": [
+          0.00947534292936325
+        ]
+      },
+      {
+        "step": 1,
+        "layer": 1,
+        "heads": [
+          10
+        ],
+        "ref_value_rms": [
+          0.04851207137107849
+        ]
+      },
+      {
+        "step": 2,
+        "layer": 1,
+        "heads": [
+          10
+        ],
+        "ref_value_rms": [
+          0.09182614088058472
+        ]
+      },
+      {
+        "step": 3,
+        "layer": 1,
+        "heads": [
+          10
+        ],
+        "ref_value_rms": [
+          0.08113311976194382
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03L/seed-1/neighbor_head_all/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "recipient": "C03L/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 1,
+    "head_indices": [
+      10
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 1,
+        "heads": [
+          10
+        ],
+        "ref_value_rms": [
+          0.00947534292936325
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03L/seed-1/neighbor_head_first/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "recipient": "C03L/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 1,
+    "head_indices": [
+      9
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 1,
+        "heads": [
+          9
+        ],
+        "ref_value_rms": [
+          0.9814702868461609
+        ]
+      },
+      {
+        "step": 1,
+        "layer": 1,
+        "heads": [
+          9
+        ],
+        "ref_value_rms": [
+          1.1600061655044556
+        ]
+      },
+      {
+        "step": 2,
+        "layer": 1,
+        "heads": [
+          9
+        ],
+        "ref_value_rms": [
+          1.039838433265686
+        ]
+      },
+      {
+        "step": 3,
+        "layer": 1,
+        "heads": [
+          9
+        ],
+        "ref_value_rms": [
+          0.609744131565094
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03L/seed-1/same_head_all/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "recipient": "C03L/seed-1",
+    "parent": "final.png",
+    "target": "B",
+    "block_index": 1,
+    "head_indices": [
+      9
+    ],
+    "change": "retain softmax probabilities; subtract reference-image values only from designated visual-query head output",
+    "per_step": [
+      {
+        "step": 0,
+        "layer": 1,
+        "heads": [
+          9
+        ],
+        "ref_value_rms": [
+          0.9814702868461609
+        ]
+      }
+    ],
+    "prompt": "Point the narrow trumpet mouthpiece upwards and put the broad bell against the water. Preserve the background, camera angle and all other objects.",
+    "image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/reference/C03L/seed-1/same_head_first/final.png",
+    "visual_codes": [
+      "A",
+      "B"
+    ]
+  }
+]

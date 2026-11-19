@@ -37,14 +37,14 @@
     "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/blocks/31.md",
     "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/blocks/32.md"
   ],
-  "status": "baseline 70, single-turn cross-domain 150/150, multi-turn edits 355/360",
+  "status": "baseline 70, single-turn cross-domain 150/150, multi-turn edits 360/360",
   "observational_readout": "Qwen3-VL blind readouts with selected independently reviewed images; HIDDEN/absent contacts kept separate",
   "cohorts": {
     "prior": 70,
     "bowl_intervention_outputs": 320,
     "cross_single_turn": 150,
-    "multiturn_edits": 355,
-    "reference_path_intervention": 0
+    "multiturn_edits": 360,
+    "reference_path_intervention": 12
   },
   "sample_indexes": {
     "prior": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/prior-samples.json",

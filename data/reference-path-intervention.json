@@ -1,0 +1,12 @@
+{
+  "layer": 1,
+  "head": 9,
+  "selector": "seed0_failure_minus_success_reference_attention",
+  "reference_share_difference": 0.287353515625,
+  "screen_wrong": 3,
+  "screen_correct": 3,
+  "recipients": [
+    "C03A/seed-1",
+    "C03L/seed-1"
+  ]
+}

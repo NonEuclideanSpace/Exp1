@@ -9,9 +9,12 @@
     "noise_seed": 1041,
     "expected_relation": "B",
     "expected_marble": true,
-    "behavior_codes": [],
-    "behavior": "尚未判读",
-    "observed_marble": null,
+    "behavior_codes": [
+      "B",
+      "A"
+    ],
+    "behavior": "照片内裙子　红色　｜　照片内线轴　蓝色",
+    "observed_marble": "YES",
     "readout": "Qwen3-VL blind",
     "denoising_estimates": [
       "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C10A/seed-2/combined/step-0.jpg",
