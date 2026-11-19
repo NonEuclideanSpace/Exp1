@@ -28,3 +28,5 @@
 [2026-11-19 AutoDL directory and source records](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/DATA_LOCATION.md)
 
 [Machine progress snapshot](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/machine-live.json)
+
+[Prospective diagnostic cases and falsification criteria](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/diagnostic-design.md)
