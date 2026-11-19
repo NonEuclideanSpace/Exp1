@@ -9,3 +9,14 @@ Canonical project site: https://noneuclideanspace.github.io/Exp1/
 - https://noneuclideanspace.github.io/Exp1/data/blocks/25.md — 七块联合移植与平移对照。
 - https://noneuclideanspace.github.io/Exp1/research/ — 新的简单场景、LongBench 和真正多轮编辑。
 - https://noneuclideanspace.github.io/Exp1/articles/flux/block-5.html — 不运行 JavaScript 也可阅读的实验页。
+
+## Sample indexes
+
+baseline 70, single-turn cross-domain 138/150, multi-turn edits 0/360
+
+- prior: https://noneuclideanspace.github.io/Exp1/data/prior-samples.json
+- bowl: https://noneuclideanspace.github.io/Exp1/data/bowl-samples.json
+- cross: https://noneuclideanspace.github.io/Exp1/data/cross-samples.json
+- multiturn: https://noneuclideanspace.github.io/Exp1/data/multiturn-samples.json
+- reference: https://noneuclideanspace.github.io/Exp1/data/reference-samples.json
+- Download archives: https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119

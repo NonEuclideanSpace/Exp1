@@ -1,0 +1,37 @@
+{
+  "case": "C03B",
+  "family": "乐器两端",
+  "seed": 2,
+  "variant": "B",
+  "prompt_en": "At the edge of a wooden dock a rusty trumpet is tipped vertically. Its narrow mouthpiece points up into the sky. Its broad flared bell touches the surface of the water. Soft natural light, still-life photograph, clear view of the contact points.",
+  "target_zh": "生锈的小号吹嘴朝天，宽的喇叭口碰到水面。",
+  "criterion": "A: bell up, mouthpiece at water. B: mouthpiece up, bell at water.",
+  "source": null,
+  "model": "FLUX.2-klein-9b-kv",
+  "size": [
+    512,
+    512
+  ],
+  "denoising_steps": 4,
+  "term_groups": [
+    "trumpet",
+    "mouthpiece",
+    "sky",
+    "bell",
+    "water"
+  ],
+  "verdict_codes": [
+    "B",
+    "A"
+  ],
+  "behavior": "朝上　吹嘴　｜　碰水面　喇叭口",
+  "readout": "Qwen3-VL blind",
+  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C03B/seed-2/final.png",
+  "stages": [
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C03B/seed-2/step-0-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C03B/seed-2/step-1-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C03B/seed-2/step-2-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C03B/seed-2/step-3-estimate.jpg"
+  ],
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+}

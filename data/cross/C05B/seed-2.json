@@ -1,0 +1,38 @@
+{
+  "case": "C05B",
+  "family": "工具的哪一端接触",
+  "seed": 2,
+  "variant": "B",
+  "prompt_en": "On a watchmaker’s bench, a yellow-handled screwdriver lies horizontally beside a half-assembled pocket watch. The yellow handle just touches the watch movement. The chrome tip points away. Soft natural light, still-life photograph, clear view of the contact points.",
+  "target_zh": "螺丝刀的黄柄底端接触怀表，金属尖端指向外。",
+  "criterion": "A: metal tip meets watch. B: the yellow handle meets watch.",
+  "source": null,
+  "model": "FLUX.2-klein-9b-kv",
+  "size": [
+    512,
+    512
+  ],
+  "denoising_steps": 4,
+  "term_groups": [
+    "screwdriver",
+    "pocket watch",
+    "yellow handle",
+    "touches",
+    "watch movement",
+    "chrome tip"
+  ],
+  "verdict_codes": [
+    "A",
+    "B"
+  ],
+  "behavior": "接触怀表　螺丝刀尖端　｜　指向外侧　螺丝刀黄柄",
+  "readout": "Qwen3-VL blind",
+  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C05B/seed-2/final.png",
+  "stages": [
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C05B/seed-2/step-0-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C05B/seed-2/step-1-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C05B/seed-2/step-2-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C05B/seed-2/step-3-estimate.jpg"
+  ],
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+}

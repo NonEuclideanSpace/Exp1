@@ -1,0 +1,38 @@
+{
+  "case": "C04A",
+  "family": "餐具与承托物",
+  "seed": 1,
+  "variant": "A",
+  "prompt_en": "A chipped ceramic bowl sits beside a wooden cutting board. A silver spoon leans inside the bowl. A yellow-handled knife lies flat on the board. Soft natural light, still-life photograph, clear view of the contact points.",
+  "target_zh": "银勺在碗里，黄柄刀在砧板上。",
+  "criterion": "A: spoon in bowl, knife on board. B: knife in bowl, spoon on board.",
+  "source": null,
+  "model": "FLUX.2-klein-9b-kv",
+  "size": [
+    512,
+    512
+  ],
+  "denoising_steps": 4,
+  "term_groups": [
+    "bowl",
+    "cutting board",
+    "spoon",
+    "inside",
+    "knife",
+    "board"
+  ],
+  "verdict_codes": [
+    "A",
+    "B"
+  ],
+  "behavior": "在碗里　银勺　｜　在砧板上　黄柄刀",
+  "readout": "Qwen3-VL blind",
+  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C04A/seed-1/final.png",
+  "stages": [
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C04A/seed-1/step-0-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C04A/seed-1/step-1-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C04A/seed-1/step-2-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C04A/seed-1/step-3-estimate.jpg"
+  ],
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+}

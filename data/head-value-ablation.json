@@ -1,0 +1,142 @@
+[
+  {
+    "case": "N02",
+    "step": 0,
+    "block": 15,
+    "head": 0,
+    "occurrence": 0,
+    "term": "rabbit",
+    "left_fraction": 0.8230207562446594,
+    "relative_output_change": 0.0007450959528796375
+  },
+  {
+    "case": "N02",
+    "step": 0,
+    "block": 15,
+    "head": 0,
+    "occurrence": 1,
+    "term": "scarf",
+    "left_fraction": 0.6946471333503723,
+    "relative_output_change": 0.0002648741938173771
+  },
+  {
+    "case": "N02",
+    "step": 0,
+    "block": 15,
+    "head": 0,
+    "occurrence": 2,
+    "term": "neck",
+    "left_fraction": 0.6641989350318909,
+    "relative_output_change": 0.00029900469235144556
+  },
+  {
+    "case": "N02",
+    "step": 0,
+    "block": 15,
+    "head": 0,
+    "occurrence": 3,
+    "term": "cat",
+    "left_fraction": 0.09054633975028992,
+    "relative_output_change": 0.001410490833222866
+  },
+  {
+    "case": "N02",
+    "step": 0,
+    "block": 15,
+    "head": 0,
+    "occurrence": 4,
+    "term": "bites",
+    "left_fraction": 0.3329853415489197,
+    "relative_output_change": 0.021465953439474106
+  },
+  {
+    "case": "N02",
+    "step": 0,
+    "block": 15,
+    "head": 0,
+    "occurrence": 5,
+    "term": "free end",
+    "left_fraction": 0.26492270827293396,
+    "relative_output_change": 0.003810379421338439
+  },
+  {
+    "case": "N02",
+    "step": 0,
+    "block": 15,
+    "head": 0,
+    "occurrence": 6,
+    "term": "scarf",
+    "left_fraction": 0.4400750696659088,
+    "relative_output_change": 0.0004796538269147277
+  },
+  {
+    "case": "N02",
+    "step": 0,
+    "block": 15,
+    "head": 0,
+    "occurrence": 7,
+    "term": "bare",
+    "left_fraction": 0.24293503165245056,
+    "relative_output_change": 0.020819811150431633
+  },
+  {
+    "case": "P06",
+    "step": 1,
+    "block": 15,
+    "head": 0,
+    "occurrence": 0,
+    "term": "coral-pink",
+    "left_fraction": 0.4842754602432251,
+    "relative_output_change": 0.00034668759326450527
+  },
+  {
+    "case": "P06",
+    "step": 1,
+    "block": 15,
+    "head": 0,
+    "occurrence": 1,
+    "term": "rabbit",
+    "left_fraction": 0.4043428301811218,
+    "relative_output_change": 7.301888399524614e-05
+  },
+  {
+    "case": "P06",
+    "step": 1,
+    "block": 15,
+    "head": 0,
+    "occurrence": 2,
+    "term": "chin",
+    "left_fraction": 0.7476798295974731,
+    "relative_output_change": 0.017171982675790787
+  },
+  {
+    "case": "P06",
+    "step": 1,
+    "block": 15,
+    "head": 0,
+    "occurrence": 3,
+    "term": "back",
+    "left_fraction": 0.47580981254577637,
+    "relative_output_change": 0.004214048385620117
+  },
+  {
+    "case": "P06",
+    "step": 1,
+    "block": 15,
+    "head": 0,
+    "occurrence": 4,
+    "term": "jade-green",
+    "left_fraction": 0.6088769435882568,
+    "relative_output_change": 6.9588037149515e-05
+  },
+  {
+    "case": "P06",
+    "step": 1,
+    "block": 15,
+    "head": 0,
+    "occurrence": 5,
+    "term": "cat",
+    "left_fraction": 0.7324292063713074,
+    "relative_output_change": 0.000341160804964602
+  }
+]

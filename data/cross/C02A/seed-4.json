@@ -1,0 +1,38 @@
+{
+  "case": "C02A",
+  "family": "两处缠绕",
+  "seed": 4,
+  "variant": "A",
+  "prompt_en": "A weathered backpack and one hiking boot sit on a mossy trail. The backpack strap winds around a metal canteen. The boot lace winds around a hanging vine. Soft natural light, still-life photograph, clear view of the contact points.",
+  "target_zh": "背包肩带缠着水壶，登山靴鞋带缠着藤蔓。",
+  "criterion": "A: strap connects to canteen, lace to vine. B: those attachment targets exchange.",
+  "source": null,
+  "model": "FLUX.2-klein-9b-kv",
+  "size": [
+    512,
+    512
+  ],
+  "denoising_steps": 4,
+  "term_groups": [
+    "backpack",
+    "boot",
+    "strap",
+    "canteen",
+    "lace",
+    "vine"
+  ],
+  "verdict_codes": [
+    "A",
+    "B"
+  ],
+  "behavior": "绕水壶　背包带　｜　绕藤蔓　鞋带",
+  "readout": "Qwen3-VL blind",
+  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C02A/seed-4/final.png",
+  "stages": [
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C02A/seed-4/step-0-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C02A/seed-4/step-1-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C02A/seed-4/step-2-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C02A/seed-4/step-3-estimate.jpg"
+  ],
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+}

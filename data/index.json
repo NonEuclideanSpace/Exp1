@@ -36,5 +36,38 @@
     "https://noneuclideanspace.github.io/Exp1/data/blocks/30.md",
     "https://noneuclideanspace.github.io/Exp1/data/blocks/31.md",
     "https://noneuclideanspace.github.io/Exp1/data/blocks/32.md"
+  ],
+  "status": "baseline 70, single-turn cross-domain 138/150, multi-turn edits 0/360",
+  "observational_readout": "Qwen3-VL blind readouts with selected independently reviewed images; HIDDEN/absent contacts kept separate",
+  "cohorts": {
+    "prior": 70,
+    "bowl_intervention_outputs": 218,
+    "cross_single_turn": 138,
+    "multiturn_edits": 0,
+    "reference_path_intervention": 0
+  },
+  "sample_indexes": {
+    "prior": "https://noneuclideanspace.github.io/Exp1/data/prior-samples.json",
+    "bowl": "https://noneuclideanspace.github.io/Exp1/data/bowl-samples.json",
+    "cross": "https://noneuclideanspace.github.io/Exp1/data/cross-samples.json",
+    "multiturn": "https://noneuclideanspace.github.io/Exp1/data/multiturn-samples.json",
+    "reference": "https://noneuclideanspace.github.io/Exp1/data/reference-samples.json"
+  },
+  "component_search": "https://noneuclideanspace.github.io/Exp1/data/component-search.json",
+  "exact_head_measurements": "https://noneuclideanspace.github.io/Exp1/data/first-step-rabbit-heads.json",
+  "cross_scene_summary": "https://noneuclideanspace.github.io/Exp1/data/cross-score.json",
+  "edit_summary": null,
+  "scientific_archives": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119",
+  "families": [
+    "https://noneuclideanspace.github.io/Exp1/data/families/01.md",
+    "https://noneuclideanspace.github.io/Exp1/data/families/02.md",
+    "https://noneuclideanspace.github.io/Exp1/data/families/03.md",
+    "https://noneuclideanspace.github.io/Exp1/data/families/04.md",
+    "https://noneuclideanspace.github.io/Exp1/data/families/05.md",
+    "https://noneuclideanspace.github.io/Exp1/data/families/06.md",
+    "https://noneuclideanspace.github.io/Exp1/data/families/07.md",
+    "https://noneuclideanspace.github.io/Exp1/data/families/08.md",
+    "https://noneuclideanspace.github.io/Exp1/data/families/09.md",
+    "https://noneuclideanspace.github.io/Exp1/data/families/10.md"
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "case": "C09A",
+  "family": "鸟与狐狸",
+  "seed": 0,
+  "variant": "A",
+  "prompt_en": "A short wooden ladder and a bucket stand in a garden. A black raven sits on the highest rung. A small red fox peeks out from behind the bucket. Soft natural light, still-life photograph, clear view of the contact points.",
+  "target_zh": "乌鸦在梯子最高一档，小狐狸藏在桶后。",
+  "criterion": "A: raven atop ladder, fox behind bucket. B: fox atop ladder, raven behind bucket.",
+  "source": null,
+  "model": "FLUX.2-klein-9b-kv",
+  "size": [
+    512,
+    512
+  ],
+  "denoising_steps": 4,
+  "term_groups": [
+    "ladder",
+    "bucket",
+    "raven",
+    "highest rung",
+    "fox",
+    "behind",
+    "bucket"
+  ],
+  "verdict_codes": [
+    "A",
+    "B"
+  ],
+  "behavior": "最高梯级　乌鸦　｜　桶后方　红狐",
+  "readout": "Qwen3-VL blind",
+  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C09A/seed-0/final.png",
+  "stages": [
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C09A/seed-0/step-0-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C09A/seed-0/step-1-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C09A/seed-0/step-2-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C09A/seed-0/step-3-estimate.jpg"
+  ],
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+}

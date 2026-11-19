@@ -1,0 +1,37 @@
+{
+  "case": "C01L",
+  "family": "箱内与箱沿",
+  "seed": 1,
+  "variant": "L",
+  "prompt_en": "On the edge of a quiet, overcast afternoon, a worn wooden porch stretches under the weight of time, its boards buckling and groaning with the memory of storms long past. At the center, a weathered brown suitcase sits half-open, its latches sagging from years of use and a recent hasty departure. Inside, the clutter tells a story: a single folded newspaper, yellowed and brittle, rests atop a chaotic array of footwear— one worn sneaker and one elegant dress shoe— as if the owner couldn’t decide between casual flight and formal departure. Beside them, a half-smoked cigar, its ember still faintly glowing, balances precariously on the suitcase’s rim, dangling like a fuse over a bed of wild dandelions that have rooted in the porous cracks of the porch. The dandelions seem to breathe with the cigar’s heat, their fluffy seeds trembling as if about to take flight.  \n\nTo the left, a creaking wooden swing hangs slightly askew, its chains wrapped in ivy that creeps and climbs like a determined intruder. A single crimson leaf, perhaps carried by the wind from a distant maple, is wedged in the swing’s fabric, fluttering in a ghostly rhythm that mimics the heartbeat of the scene. Behind the suitcase, a flickering flashlight leans against a post, its beam weak but stubborn, casting shifting shadows across the warped floor. These shadows merge and fracture, creating illusory shapes that seem to reach out or fold in, as if the very air is trying to narrate the story of the place.  \n\nA rusted ladder, its rungs splintered and slanted, leans against the house’s side, half-hidden by a tattered curtain that billows with each breath of wind. The curtain is painted with the ghostly image of a man’s face, blurred and faded, as though someone had once tried to capture a memory in fabric and failed. A cat, emaciated and alert, crouches at the base of the ladder, its eyes locked on a butterfly that hovers in a delicate spiral above the dandelions. The butterfly, oddly mechanical with gears visible at its wings’ edges, emits a soft whirr, its movements precise and hypnotic, drawing both the cat and the viewer into its silent dance.  \n\nBeneath the porch, the ground slopes downward into a hidden cellar, its door ajar and shrouded in moss. A thick rope, knotted and frayed, extends from this cellar, looping around the leg of the suitcase and then vanishing over the edge of the porch into the distance. A child’s doll, its porcelain face cracked and one button eye missing, lies on the cellar step, as if discarded in the chaos of a forgotten game.  \n\nAbove, the sky is a tapestry of muted grays and blues, threaded with threads of gold from the dying sun. Clouds shift in slow, deliberate patterns, forming fleeting shapes— a bird, a hand, a ship. A clock tower, its hands frozen at 11:59, looms in the distance, its gears creaking audibly even through the stillness. The air hums with a strange resonance, as if the entire world is holding its breath, caught between one chapter and the next.",
+  "target_zh": "半开的棕色手提箱。报纸在箱里，雪茄横在箱沿。",
+  "criterion": "A: newspaper inside, cigar on rim. B: cigar inside, newspaper on rim.",
+  "source": "https://huggingface.co/datasets/YCZhou/LongBench-T2I/blob/ee9b9cbbcb1a683f71bddaded196ce2feca6d450/instruction.jsonl#L2",
+  "model": "FLUX.2-klein-9b-kv",
+  "size": [
+    512,
+    512
+  ],
+  "denoising_steps": 4,
+  "term_groups": [
+    "suitcase",
+    "Inside",
+    "newspaper",
+    "cigar",
+    "rim"
+  ],
+  "verdict_codes": [
+    "A",
+    "B"
+  ],
+  "behavior": "箱内　报纸　｜　箱沿　雪茄",
+  "readout": "Qwen3-VL blind",
+  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C01L/seed-1/final.png",
+  "stages": [
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C01L/seed-1/step-0-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C01L/seed-1/step-1-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C01L/seed-1/step-2-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C01L/seed-1/step-3-estimate.jpg"
+  ],
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+}

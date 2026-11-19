@@ -1,0 +1,39 @@
+{
+  "case": "C07B",
+  "family": "乌鸦抓握",
+  "seed": 4,
+  "variant": "B",
+  "prompt_en": "A black raven and a rusty key hang beside a sagging wire. The raven grips the key with its feet and holds the wire in its beak. Show both points of contact. Soft natural light, still-life photograph, clear view of the contact points.",
+  "target_zh": "乌鸦双脚抓钥匙，喙咬钢丝。",
+  "criterion": "A: feet on wire, beak holds key. B: feet on key, beak holds wire.",
+  "source": null,
+  "model": "FLUX.2-klein-9b-kv",
+  "size": [
+    512,
+    512
+  ],
+  "denoising_steps": 4,
+  "term_groups": [
+    "raven",
+    "rusty key",
+    "wire",
+    "key",
+    "feet",
+    "wire",
+    "beak"
+  ],
+  "verdict_codes": [
+    "B",
+    "B"
+  ],
+  "behavior": "在乌鸦脚下或脚中　钥匙　｜　在乌鸦嘴里　钥匙",
+  "readout": "Qwen3-VL blind",
+  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C07B/seed-4/final.png",
+  "stages": [
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C07B/seed-4/step-0-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C07B/seed-4/step-1-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C07B/seed-4/step-2-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C07B/seed-4/step-3-estimate.jpg"
+  ],
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+}

@@ -1,0 +1,37 @@
+{
+  "case": "C01B",
+  "family": "箱内与箱沿",
+  "seed": 1,
+  "variant": "B",
+  "prompt_en": "A half-open brown suitcase sits on a wooden porch. The short cigar rests inside the suitcase. A folded newspaper balances across its front rim. Soft natural light, still-life photograph, clear view of the contact points.",
+  "target_zh": "半开的棕色手提箱。雪茄在箱里，折好的报纸横在箱沿。",
+  "criterion": "A: newspaper inside, cigar on rim. B: cigar inside, newspaper on rim.",
+  "source": null,
+  "model": "FLUX.2-klein-9b-kv",
+  "size": [
+    512,
+    512
+  ],
+  "denoising_steps": 4,
+  "term_groups": [
+    "suitcase",
+    "cigar",
+    "inside",
+    "newspaper",
+    "rim"
+  ],
+  "verdict_codes": [
+    "BOTH",
+    "BOTH"
+  ],
+  "behavior": "箱内　两者　｜　箱沿　两者",
+  "readout": "Qwen3-VL blind",
+  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C01B/seed-1/final.png",
+  "stages": [
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C01B/seed-1/step-0-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C01B/seed-1/step-1-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C01B/seed-1/step-2-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C01B/seed-1/step-3-estimate.jpg"
+  ],
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+}

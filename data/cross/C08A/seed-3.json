@@ -1,0 +1,38 @@
+{
+  "case": "C08A",
+  "family": "人和倒影",
+  "seed": 3,
+  "variant": "A",
+  "prompt_en": "A child kneels beside a still puddle in a park. In the real scene the child holds a short stick. In the reflection the child holds a red balloon instead. Show the actual hand and the reflected hand. Soft natural light, still-life photograph, clear view of the contact points.",
+  "target_zh": "孩子拿木棍，水洼倒影中的孩子拿红气球。",
+  "criterion": "A: real child holds stick, reflected child holds balloon. B: reverse.",
+  "source": null,
+  "model": "FLUX.2-klein-9b-kv",
+  "size": [
+    512,
+    512
+  ],
+  "denoising_steps": 4,
+  "term_groups": [
+    "child",
+    "puddle",
+    "real scene",
+    "stick",
+    "reflection",
+    "balloon"
+  ],
+  "verdict_codes": [
+    "BOTH",
+    "BOTH"
+  ],
+  "behavior": "真人手中　两者　｜　倒影手中　两者",
+  "readout": "Qwen3-VL blind",
+  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C08A/seed-3/final.png",
+  "stages": [
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C08A/seed-3/step-0-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C08A/seed-3/step-1-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C08A/seed-3/step-2-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C08A/seed-3/step-3-estimate.jpg"
+  ],
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+}

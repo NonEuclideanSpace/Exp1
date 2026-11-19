@@ -1,0 +1,39 @@
+{
+  "case": "C06A",
+  "family": "水洼与花盆下方",
+  "seed": 4,
+  "variant": "A",
+  "prompt_en": "A wooden ladder and a red garden hose lie beside a terracotta flowerpot. The foot of the ladder rests in a shallow puddle. The end of the hose is pinned directly beneath the flowerpot. Soft natural light, still-life photograph, clear view of the contact points.",
+  "target_zh": "梯脚落在水洼，红水管压在花盆下面。",
+  "criterion": "A: ladder foot in puddle, hose under pot. B: hose end in puddle, ladder foot under pot.",
+  "source": null,
+  "model": "FLUX.2-klein-9b-kv",
+  "size": [
+    512,
+    512
+  ],
+  "denoising_steps": 4,
+  "term_groups": [
+    "ladder",
+    "red garden hose",
+    "foot",
+    "puddle",
+    "hose",
+    "beneath",
+    "flowerpot"
+  ],
+  "verdict_codes": [
+    "B",
+    "NONE"
+  ],
+  "behavior": "位于水洼　软管　｜　在花盆下　都没有",
+  "readout": "Qwen3-VL blind",
+  "image": "https://noneuclideanspace.github.io/Exp1/media/cross/C06A/seed-4/final.png",
+  "stages": [
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C06A/seed-4/step-0-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C06A/seed-4/step-1-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C06A/seed-4/step-2-estimate.jpg",
+    "https://noneuclideanspace.github.io/Exp1/media/cross/C06A/seed-4/step-3-estimate.jpg"
+  ],
+  "activation_archive": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+}

@@ -1,0 +1,82 @@
+{
+  "source": "Qwen3-VL blind + any separately saved human review",
+  "totals": {
+    "A": {
+      "correct": 27,
+      "mixed": 11,
+      "missing_contact": 6,
+      "swapped": 1
+    },
+    "B": {
+      "mixed": 11,
+      "swapped": 9,
+      "missing_contact": 11,
+      "correct": 13,
+      "duplicated": 1
+    },
+    "L": {
+      "mixed": 13,
+      "correct": 11,
+      "unreadable": 6,
+      "duplicated": 6,
+      "swapped": 4,
+      "missing_contact": 5
+    }
+  },
+  "exact_same_seed_explicit_matches": [
+    [
+      8,
+      4,
+      "BOTH",
+      "BOTH"
+    ]
+  ],
+  "by_family": [
+    {
+      "family": 1,
+      "exact_matches": []
+    },
+    {
+      "family": 2,
+      "exact_matches": []
+    },
+    {
+      "family": 3,
+      "exact_matches": []
+    },
+    {
+      "family": 4,
+      "exact_matches": []
+    },
+    {
+      "family": 5,
+      "exact_matches": []
+    },
+    {
+      "family": 6,
+      "exact_matches": []
+    },
+    {
+      "family": 7,
+      "exact_matches": []
+    },
+    {
+      "family": 8,
+      "exact_matches": [
+        [
+          4,
+          "BOTH",
+          "BOTH"
+        ]
+      ]
+    },
+    {
+      "family": 9,
+      "exact_matches": []
+    },
+    {
+      "family": 10,
+      "exact_matches": []
+    }
+  ]
+}
