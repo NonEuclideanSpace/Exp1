@@ -24,3 +24,5 @@
 | [第 3 块](review/blocks/3.md) · [第 4 块](review/blocks/4.md) · [第 5 块 H22](review/blocks/5.md) · [第 6 块](review/blocks/6.md) | [第 25 块](review/blocks/25.md) · [第 26 块](review/blocks/26.md) · [第 27 块](review/blocks/27.md) · [第 29 块](review/blocks/29.md) · [第 30 块](review/blocks/30.md) · [第 31 块](review/blocks/31.md) · [第 32 块](review/blocks/32.md) |
 
 [原图逐块注意力着色](articles/flux/single-stream.svg)　[32 块的纯文本与实测读数](data/blocks)　[实验记录下载](https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119)
+
+[最新实验进度和相似度×距离结果](review/live.md)

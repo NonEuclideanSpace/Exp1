@@ -1,0 +1,124 @@
+{
+  "decisions": 167,
+  "completed_by_tag": {
+    "A/initial": 12,
+    "A/swap": 12,
+    "A/swap_then_marble": 12,
+    "A/undo": 12,
+    "A/marble": 12,
+    "A/marble_then_swap": 12,
+    "A/combined": 12,
+    "L/initial": 12,
+    "L/swap": 12,
+    "L/swap_then_marble": 12,
+    "L/undo": 12,
+    "L/marble": 12,
+    "L/marble_then_swap": 12,
+    "L/combined": 11
+  },
+  "by_context": {
+    "A": {
+      "initial/correct": 9,
+      "swap/wrong_visible": 8,
+      "swap_then_marble/wrong_visible": 8,
+      "undo/wrong_visible": 5,
+      "marble/correct": 7,
+      "marble_then_swap/wrong_visible": 7,
+      "combined/wrong_visible": 10,
+      "swap_keeps_old_roles_den": 9,
+      "old_error_persists_den": 7,
+      "old_error_persists": 7,
+      "undo_loses_marble_den": 12,
+      "order_changes_binding_den": 8,
+      "simple_addition_loses_an_object_contact_den": 9,
+      "single_entity_copies_to_both_sites_den": 11,
+      "initial/wrong_visible": 2,
+      "marble/wrong_visible": 3,
+      "undo/correct": 6,
+      "swap_keeps_old_roles": 5,
+      "swap_then_marble/missing": 2,
+      "undo/missing": 1,
+      "marble/missing": 2,
+      "marble_then_swap/missing": 2,
+      "combined/missing": 1,
+      "simple_addition_loses_an_object_contact": 1,
+      "initial/missing": 1,
+      "swap/missing": 1,
+      "order_changes_binding": 2,
+      "swap/correct": 3,
+      "swap_then_marble/correct": 2,
+      "marble_then_swap/correct": 3,
+      "combined/correct": 1,
+      "unrelated_edit_breaks_binding_den": 3,
+      "undo_fails_den": 2,
+      "undo_fails": 2,
+      "sequential_fails_direct_succeeds_den": 1,
+      "unrelated_edit_breaks_binding": 1
+    },
+    "L": {
+      "initial/wrong_visible": 3,
+      "swap/wrong_visible": 7,
+      "swap_then_marble/wrong_visible": 6,
+      "undo/wrong_visible": 4,
+      "marble/wrong_visible": 4,
+      "marble_then_swap/wrong_visible": 5,
+      "combined/wrong_visible": 5,
+      "old_error_persists_den": 5,
+      "old_error_persists": 5,
+      "undo_loses_marble_den": 12,
+      "single_entity_copies_to_both_sites_den": 7,
+      "initial/correct": 6,
+      "marble/correct": 5,
+      "swap_keeps_old_roles_den": 4,
+      "order_changes_binding_den": 3,
+      "simple_addition_loses_an_object_contact_den": 6,
+      "swap_keeps_old_roles": 2,
+      "initial/unreadable": 3,
+      "swap/unreadable": 3,
+      "swap_then_marble/unreadable": 3,
+      "undo/unreadable": 3,
+      "marble/unreadable": 3,
+      "marble_then_swap/unreadable": 4,
+      "combined/unreadable": 4,
+      "undo/correct": 3,
+      "swap/missing": 2,
+      "swap_then_marble/missing": 3,
+      "undo/missing": 2,
+      "marble_then_swap/missing": 2,
+      "combined/missing": 2,
+      "marble_then_swap/correct": 1,
+      "single_entity_copies_to_both_sites": 1
+    }
+  },
+  "matched_simple_and_complex_per_pattern": {
+    "old_error_persists": [
+      [
+        1,
+        0
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        1
+      ]
+    ],
+    "swap_keeps_old_roles": [
+      [
+        3,
+        1
+      ]
+    ],
+    "simple_addition_loses_an_object_contact": [],
+    "order_changes_binding": [],
+    "undo_fails": [],
+    "unrelated_edit_breaks_binding": [],
+    "single_entity_copies_to_both_sites": []
+  }
+}

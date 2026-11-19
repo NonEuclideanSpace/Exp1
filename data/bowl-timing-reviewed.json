@@ -1,0 +1,76 @@
+{
+  "recipient": "N04",
+  "donor": "G1",
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "blocks_one_indexed": [
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    32
+  ],
+  "module": "single_transformer_blocks[i].attn, image-query attention output before joint output projection",
+  "human_readout": false,
+  "readout": "Assistant visual review of model images. Endpoint: continuous pink rabbit limb reaches inside bowl; green cat does not reach inside.",
+  "first_step": [
+    true,
+    false,
+    true
+  ],
+  "first_two_steps": [
+    true,
+    true,
+    true
+  ],
+  "all_steps": [
+    true,
+    true,
+    true
+  ],
+  "leave_one_out_first_step": {
+    "25": [
+      true,
+      false,
+      false
+    ],
+    "26": [
+      true,
+      false,
+      false
+    ],
+    "27": [
+      true,
+      false,
+      false
+    ],
+    "29": [
+      true,
+      false,
+      false
+    ],
+    "30": [
+      true,
+      false,
+      false
+    ],
+    "31": [
+      true,
+      false,
+      false
+    ],
+    "32": [
+      true,
+      false,
+      false
+    ]
+  },
+  "seed2_scope": "Group discovered on seed 2; seven single deletions break this first-step repair. Seed 0 tolerates each deletion.",
+  "early_token_readout": "QK softmax signal; head 22 ablation and mention re-routing individually rescue 0/3.",
+  "qk_vs_v": "Intact attention output was transplanted. These outcomes alone do not determine whether image routing or value content causes the rescue."
+}

@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "case": "C04L",
+    "seed": 0,
+    "turn": "combined",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-0/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/combined/final.png",
+    "prompt_en": "Place the yellow-handled knife inside the ceramic bowl and lay the silver spoon flat on the cutting board. Add exactly one small, vivid violet glass marble to the lower-left foreground of the scene. Preserve the people, objects, colors, and their relationships.",
+    "noise_seed": 1039,
+    "expected_relation": "B",
+    "expected_marble": true,
+    "behavior_codes": [
+      "NONE",
+      "B"
+    ],
+    "behavior": "在碗里　都没有　｜　在砧板上　黄柄刀",
+    "observed_marble": "YES",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/combined/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/combined/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/combined/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/combined/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  },
+  {
+    "case": "C04L",
+    "seed": 0,
+    "turn": "marble",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-0/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/marble/final.png",
+    "prompt_en": "Add exactly one small, vivid violet glass marble to the lower-left foreground of the scene. Preserve the people, objects, colors, and their relationships.",
+    "noise_seed": 1039,
+    "expected_relation": "A",
+    "expected_marble": true,
+    "behavior_codes": [
+      "A",
+      "B"
+    ],
+    "behavior": "在碗里　银勺　｜　在砧板上　黄柄刀",
+    "observed_marble": "YES",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/marble/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/marble/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/marble/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/marble/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  },
+  {
+    "case": "C04L",
+    "seed": 0,
+    "turn": "marble_then_swap",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/marble/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/marble_then_swap/final.png",
+    "prompt_en": "Place the yellow-handled knife inside the ceramic bowl and lay the silver spoon flat on the cutting board. Preserve the background, camera angle and all other objects.",
+    "noise_seed": 1039,
+    "expected_relation": "B",
+    "expected_marble": true,
+    "behavior_codes": [
+      "NONE",
+      "B"
+    ],
+    "behavior": "在碗里　都没有　｜　在砧板上　黄柄刀",
+    "observed_marble": "YES",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/marble_then_swap/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/marble_then_swap/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/marble_then_swap/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/marble_then_swap/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  },
+  {
+    "case": "C04L",
+    "seed": 0,
+    "turn": "swap",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C04L/seed-0/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap/final.png",
+    "prompt_en": "Place the yellow-handled knife inside the ceramic bowl and lay the silver spoon flat on the cutting board. Preserve the background, camera angle and all other objects.",
+    "noise_seed": 1039,
+    "expected_relation": "B",
+    "expected_marble": false,
+    "behavior_codes": [
+      "NONE",
+      "B"
+    ],
+    "behavior": "在碗里　都没有　｜　在砧板上　黄柄刀",
+    "observed_marble": "NO",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  },
+  {
+    "case": "C04L",
+    "seed": 0,
+    "turn": "swap_then_marble",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap_then_marble/final.png",
+    "prompt_en": "Add exactly one small, vivid violet glass marble to the lower-left foreground of the scene. Preserve the people, objects, colors, and their relationships.",
+    "noise_seed": 1039,
+    "expected_relation": "B",
+    "expected_marble": true,
+    "behavior_codes": [
+      "NONE",
+      "B"
+    ],
+    "behavior": "在碗里　都没有　｜　在砧板上　黄柄刀",
+    "observed_marble": "YES",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap_then_marble/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap_then_marble/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap_then_marble/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap_then_marble/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  },
+  {
+    "case": "C04L",
+    "seed": 0,
+    "turn": "undo",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/swap_then_marble/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/undo/final.png",
+    "prompt_en": "Place the silver spoon inside the ceramic bowl and lay the yellow-handled knife flat on the cutting board. Preserve the background, camera angle and all other objects.",
+    "noise_seed": 1039,
+    "expected_relation": "A",
+    "expected_marble": true,
+    "behavior_codes": [
+      "NONE",
+      "B"
+    ],
+    "behavior": "在碗里　都没有　｜　在砧板上　黄柄刀",
+    "observed_marble": "YES",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/undo/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/undo/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/undo/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C04L/seed-0/undo/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  }
+]

@@ -1,6 +1,6 @@
 # 跨场景行为与多轮审阅
 
-此仓库版本包含 150/150 张跨场景单轮输出、53/360 张多轮编辑输出以及 320 张碗底动作干预图。
+此仓库版本包含 150/150 张跨场景单轮输出、237/360 张多轮编辑输出以及 320 张碗底动作干预图。
 
 - [箱内与箱沿](review/families/01.md)
 - [两处缠绕](review/families/02.md)
@@ -14,3 +14,5 @@
 - [衣服与线轴](review/families/10.md)
 
 [全部逐图记录](data/cross-samples.json) · [多轮输入输出链](data/multiturn-samples.json) · [注意力与消融](data/component-search.json)
+
+[动作归属的分步干预与逐块移除](review/bowl-timing.md)

@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "case": "C06A",
+    "seed": 1,
+    "turn": "combined",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-1/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/combined/final.png",
+    "prompt_en": "Place the end of the hose inside the puddle and pin the foot of the ladder under the flowerpot. Add exactly one small, vivid violet glass marble to the lower-left foreground of the scene. Preserve the people, objects, colors, and their relationships.",
+    "noise_seed": 1040,
+    "expected_relation": "B",
+    "expected_marble": true,
+    "behavior_codes": [
+      "B",
+      "NONE"
+    ],
+    "behavior": "位于水洼　软管　｜　在花盆下　都没有",
+    "observed_marble": "YES",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/combined/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/combined/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/combined/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/combined/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  },
+  {
+    "case": "C06A",
+    "seed": 1,
+    "turn": "marble",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-1/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/marble/final.png",
+    "prompt_en": "Add exactly one small, vivid violet glass marble to the lower-left foreground of the scene. Preserve the people, objects, colors, and their relationships.",
+    "noise_seed": 1040,
+    "expected_relation": "A",
+    "expected_marble": true,
+    "behavior_codes": [
+      "B",
+      "NONE"
+    ],
+    "behavior": "位于水洼　软管　｜　在花盆下　都没有",
+    "observed_marble": "YES",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/marble/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/marble/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/marble/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/marble/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  },
+  {
+    "case": "C06A",
+    "seed": 1,
+    "turn": "marble_then_swap",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/marble/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/marble_then_swap/final.png",
+    "prompt_en": "Place the end of the hose inside the puddle and pin the foot of the ladder under the flowerpot. Preserve the background, camera angle and all other objects.",
+    "noise_seed": 1040,
+    "expected_relation": "B",
+    "expected_marble": true,
+    "behavior_codes": [
+      "B",
+      "NONE"
+    ],
+    "behavior": "位于水洼　软管　｜　在花盆下　都没有",
+    "observed_marble": "YES",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/marble_then_swap/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/marble_then_swap/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/marble_then_swap/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/marble_then_swap/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  },
+  {
+    "case": "C06A",
+    "seed": 1,
+    "turn": "swap",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C06A/seed-1/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap/final.png",
+    "prompt_en": "Place the end of the hose inside the puddle and pin the foot of the ladder under the flowerpot. Preserve the background, camera angle and all other objects.",
+    "noise_seed": 1040,
+    "expected_relation": "B",
+    "expected_marble": false,
+    "behavior_codes": [
+      "B",
+      "NONE"
+    ],
+    "behavior": "位于水洼　软管　｜　在花盆下　都没有",
+    "observed_marble": "NO",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  },
+  {
+    "case": "C06A",
+    "seed": 1,
+    "turn": "swap_then_marble",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap_then_marble/final.png",
+    "prompt_en": "Add exactly one small, vivid violet glass marble to the lower-left foreground of the scene. Preserve the people, objects, colors, and their relationships.",
+    "noise_seed": 1040,
+    "expected_relation": "B",
+    "expected_marble": true,
+    "behavior_codes": [
+      "B",
+      "NONE"
+    ],
+    "behavior": "位于水洼　软管　｜　在花盆下　都没有",
+    "observed_marble": "YES",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap_then_marble/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap_then_marble/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap_then_marble/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap_then_marble/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  },
+  {
+    "case": "C06A",
+    "seed": 1,
+    "turn": "undo",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/swap_then_marble/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/undo/final.png",
+    "prompt_en": "Stand the foot of the ladder inside the puddle and pin the end of the hose under the flowerpot. Preserve the background, camera angle and all other objects.",
+    "noise_seed": 1040,
+    "expected_relation": "A",
+    "expected_marble": true,
+    "behavior_codes": [
+      "B",
+      "NONE"
+    ],
+    "behavior": "位于水洼　软管　｜　在花盆下　都没有",
+    "observed_marble": "YES",
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/undo/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/undo/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/undo/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C06A/seed-1/undo/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  }
+]

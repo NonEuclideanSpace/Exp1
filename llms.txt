@@ -16,3 +16,7 @@
 - https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/blocks/5.md
 - https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/blocks/25.md
 - https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119
+
+[最新分步与逐块干预结果](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/bowl-timing-reviewed.json)
+
+[云端新结果增量快照](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/live.json)

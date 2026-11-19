@@ -37,13 +37,13 @@
     "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/blocks/31.md",
     "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/blocks/32.md"
   ],
-  "status": "baseline 70, single-turn cross-domain 150/150, multi-turn edits 53/360",
+  "status": "baseline 70, single-turn cross-domain 150/150, multi-turn edits 237/360",
   "observational_readout": "Qwen3-VL blind readouts with selected independently reviewed images; HIDDEN/absent contacts kept separate",
   "cohorts": {
     "prior": 70,
     "bowl_intervention_outputs": 320,
     "cross_single_turn": 150,
-    "multiturn_edits": 53,
+    "multiturn_edits": 237,
     "reference_path_intervention": 0
   },
   "sample_indexes": {
@@ -56,7 +56,7 @@
   "component_search": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/component-search.json",
   "exact_head_measurements": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/first-step-rabbit-heads.json",
   "cross_scene_summary": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/cross-score.json",
-  "edit_summary": null,
+  "edit_summary": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/multiturn-score.json",
   "scientific_archives": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119",
   "families": [
     "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/families/01.md",
