@@ -1,0 +1,242 @@
+[
+  {
+    "key": "bbox-s0",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "bbox-s1",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "bbox-s2",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "bbox-s3",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "bbox-s4",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "bbox-s5",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "bbox-s6",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "bbox-s7",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-s0",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-s1",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-s2",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-s3",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-s4",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-s5",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-s6",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "gm-s7",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-s0",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-s1",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-s2",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-s3",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-s4",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-s5",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-s6",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  },
+  {
+    "key": "mg-s7",
+    "labels": [
+      "MUG",
+      "GLASS"
+    ],
+    "raw": "MUG,GLASS",
+    "prompt": "Identify the primary vessel on the left and the primary vessel on the right. Use MUG if it has a mug body and handle, GLASS if it is a stemmed drinking glass, and OTHER if neither or unclear. Give only two comma-separated labels in left, right order.",
+    "source": "blind Qwen3-VL"
+  }
+]
