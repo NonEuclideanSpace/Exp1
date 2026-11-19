@@ -20,3 +20,7 @@
 [最新分步与逐块干预结果](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/bowl-timing-reviewed.json)
 
 [云端新结果增量快照](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/live.json)
+
+[Source-native evidence for N04](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/evidence.md)
+
+[Per-sample internal signals](https://github.com/NonEuclideanSpace/Exp1/tree/experiment-traces-20261119)

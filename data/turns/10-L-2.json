@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "case": "C10L",
+    "seed": 2,
+    "turn": "swap",
+    "input_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/cross/C10L/seed-2/final.png",
+    "output_image": "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C10L/seed-2/swap/final.png",
+    "prompt_en": "In the framed photograph, make the dress red and the thread spool blue. Preserve the background, camera angle and all other objects.",
+    "noise_seed": 1041,
+    "expected_relation": "B",
+    "expected_marble": false,
+    "behavior_codes": [],
+    "behavior": "尚未判读",
+    "observed_marble": null,
+    "readout": "Qwen3-VL blind",
+    "denoising_estimates": [
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C10L/seed-2/swap/step-0.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C10L/seed-2/swap/step-1.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C10L/seed-2/swap/step-2.jpg",
+      "https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/media/turns/C10L/seed-2/swap/step-3.jpg"
+    ],
+    "trace": "https://github.com/NonEuclideanSpace/Exp1/releases/tag/flux-binding-20261119"
+  }
+]

@@ -1,5 +1,7 @@
 # Exp1 · FLUX 实体现象与实验审阅
 
+[精选对照 · 原始图、提示词、测量和代码](review/evidence.md)
+
 [70 张既有样本与完整提示词](data/prior-samples.json)　[跨场景与多轮审阅](REVIEW.md)　[网页版 Claude 阅读入口](llms.txt)　[全部数据索引](data/index.json)
 
 ## 碗底动作归属
