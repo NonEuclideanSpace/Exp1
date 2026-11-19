@@ -1,0 +1,28 @@
+{
+  "selected_blocks": [
+    25,
+    26,
+    27,
+    29,
+    30,
+    31,
+    32
+  ],
+  "same_size_control_blocks": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "samples": [
+    "high-near-right-bottom-s31",
+    "low-near-right-bottom-s31",
+    "high-near-right-bottom-s32",
+    "low-near-right-bottom-s32"
+  ],
+  "selection": "All four near right-bottom cells in the two text-control seeds; examined matched images for clear original failures with reference and clear correct text-only contacts in all four. This is a paired diagnostic sample, not a frequency estimate.",
+  "intervention": "Keep recipient Q and K unchanged, substitute current image-token V from same-seed other branch at same grid indices. Text, reference-token V and non-image query outputs unchanged. refdrop separately zeros reference-token V without renormalizing weights. Donor and recipient differ in reference, resulting pose and framing. Judge target and composition separately."
+}

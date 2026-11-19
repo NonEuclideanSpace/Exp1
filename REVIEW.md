@@ -38,3 +38,7 @@
 [木人偶触点的旁观者与表述对照](review/contact-controls.md)
 
 [正式配对组的 64 张与 16 张无布局对照](review/mannequin-grid.md)
+
+[木人偶触点的七块因果干预](review/mannequin-patch.md)
+
+[指令句序与动作归属、主体数](review/clause-order.md)

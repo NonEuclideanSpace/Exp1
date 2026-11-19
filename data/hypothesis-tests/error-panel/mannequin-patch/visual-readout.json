@@ -1,0 +1,60 @@
+{
+  "cases": [
+    "high-near-right-bottom-s31",
+    "low-near-right-bottom-s31",
+    "high-near-right-bottom-s32",
+    "low-near-right-bottom-s32"
+  ],
+  "readout_source": "AI visual read of the original outputs in matched columns. Four scenes arise from two seeds. Strict focal endpoint requires the right fingertip visibly touching/covering the unique central white spot, with two intact figures and no duplicate spot. This is not an independent human judgment.",
+  "results": {
+    "capture-good": [
+      "contact",
+      "contact",
+      "contact",
+      "contact"
+    ],
+    "capture-bad": [
+      "miss",
+      "miss",
+      "miss",
+      "miss"
+    ],
+    "sham": [
+      "miss",
+      "miss",
+      "miss",
+      "miss"
+    ],
+    "V": [
+      "contact",
+      "contact",
+      "contact",
+      "contact"
+    ],
+    "earlier-blocks": [
+      "miss",
+      "miss",
+      "boundary",
+      "boundary"
+    ],
+    "late-steps": [
+      "duplicate_or_ghost",
+      "duplicate_or_ghost",
+      "duplicate_or_ghost",
+      "duplicate_or_ghost"
+    ],
+    "refdrop": [
+      "miss",
+      "miss",
+      "miss",
+      "miss"
+    ],
+    "reverse": [
+      "boundary",
+      "miss",
+      "miss",
+      "miss"
+    ]
+  },
+  "timing": "At the end of denoising step 2, all four input-layout trajectories visibly miss the central dot and all four text-only paired trajectories cover it. Step-1 predictions are lower fidelity and the same-contact contrast is not distinctly visible in all four. This is timing of visible predicted images, not the first causal layer."
+}

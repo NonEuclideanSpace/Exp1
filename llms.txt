@@ -50,3 +50,7 @@
 [Mannequin role grid and traces current status](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/data/hypothesis-tests/error-panel/live.json)
 
 [Fixed 64-image grid and 16 matched controls, adjudication, prompts, denominators and originals](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/mannequin-grid.md)
+
+[Mannequin causal interventions and denoising-stage evidence](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/mannequin-patch.md)
+
+[Action-clause-order matched tests; object counts and examples verbatim](https://raw.githubusercontent.com/NonEuclideanSpace/Exp1/main/review/clause-order.md)

@@ -1,0 +1,197 @@
+{
+  "cases": [
+    {
+      "id": "high-near-right-bottom-s31",
+      "seed": 31,
+      "role": "right-bottom",
+      "layout": "layouts/high-near-0.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish.",
+        "On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot."
+      ]
+    },
+    {
+      "id": "high-near-left-bottom-s31",
+      "seed": 31,
+      "role": "left-bottom",
+      "layout": "layouts/high-near-0.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot.",
+        "On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish."
+      ]
+    },
+    {
+      "id": "high-near-right-bottom-s32",
+      "seed": 32,
+      "role": "right-bottom",
+      "layout": "layouts/high-near-1.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish.",
+        "On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot."
+      ]
+    },
+    {
+      "id": "high-near-left-bottom-s32",
+      "seed": 32,
+      "role": "left-bottom",
+      "layout": "layouts/high-near-1.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot.",
+        "On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish."
+      ]
+    },
+    {
+      "id": "high-near-right-bottom-s33",
+      "seed": 33,
+      "role": "right-bottom",
+      "layout": "layouts/high-near-0.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish.",
+        "On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot."
+      ]
+    },
+    {
+      "id": "high-near-left-bottom-s33",
+      "seed": 33,
+      "role": "left-bottom",
+      "layout": "layouts/high-near-0.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot.",
+        "On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish."
+      ]
+    },
+    {
+      "id": "high-near-right-bottom-s34",
+      "seed": 34,
+      "role": "right-bottom",
+      "layout": "layouts/high-near-1.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish.",
+        "On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot."
+      ]
+    },
+    {
+      "id": "high-near-left-bottom-s34",
+      "seed": 34,
+      "role": "left-bottom",
+      "layout": "layouts/high-near-1.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot.",
+        "On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish."
+      ]
+    },
+    {
+      "id": "high-near-right-bottom-s35",
+      "seed": 35,
+      "role": "right-bottom",
+      "layout": "layouts/high-near-0.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish.",
+        "On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot."
+      ]
+    },
+    {
+      "id": "high-near-left-bottom-s35",
+      "seed": 35,
+      "role": "left-bottom",
+      "layout": "layouts/high-near-0.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot.",
+        "On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish."
+      ]
+    },
+    {
+      "id": "high-near-right-bottom-s36",
+      "seed": 36,
+      "role": "right-bottom",
+      "layout": "layouts/high-near-1.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish.",
+        "On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot."
+      ]
+    },
+    {
+      "id": "high-near-left-bottom-s36",
+      "seed": 36,
+      "role": "left-bottom",
+      "layout": "layouts/high-near-1.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot.",
+        "On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish."
+      ]
+    },
+    {
+      "id": "high-near-right-bottom-s37",
+      "seed": 37,
+      "role": "right-bottom",
+      "layout": "layouts/high-near-0.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish.",
+        "On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot."
+      ]
+    },
+    {
+      "id": "high-near-left-bottom-s37",
+      "seed": 37,
+      "role": "left-bottom",
+      "layout": "layouts/high-near-0.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a round head and the right figure has a round head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot.",
+        "On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish."
+      ]
+    },
+    {
+      "id": "high-near-right-bottom-s38",
+      "seed": 38,
+      "role": "right-bottom",
+      "layout": "layouts/high-near-1.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish.",
+        "On the RIGHT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot."
+      ]
+    },
+    {
+      "id": "high-near-left-bottom-s38",
+      "seed": 38,
+      "role": "left-bottom",
+      "layout": "layouts/high-near-1.png",
+      "original_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "swapped_prompt": "Two ivory wooden artist's mannequins and one shallow cobalt dish on a walnut table. The left figure has a square head and the right figure has a square head. Both have identical ivory wooden bodies and identical hands. Their two shoulders are close together. On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish. On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot. Two ivory wooden artist's mannequins, one shallow dish, walnut table, soft window light, slightly overhead view.",
+      "clauses": [
+        "On the LEFT an identical wooden-bodied mannequin extends its arm down into the dish. Its fingertip presses flat onto the white dot in the center; the tip covers part of the white dot.",
+        "On the RIGHT a wooden mannequin rests one fingertip on the upper rim of a shallow cobalt dish."
+      ]
+    }
+  ],
+  "rule": "Reorder whole left and right action clauses without adding, deleting or changing words. Same layout, physical side, target, prompt prefix and suffix, noise, sampler and seed; high head similarity, near spacing only."
+}

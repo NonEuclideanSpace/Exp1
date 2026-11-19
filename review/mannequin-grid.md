@@ -30,3 +30,7 @@
 |high-near-left-bottom-s35|![](../media/hypothesis-tests/error-panel/grid/high-near-left-bottom-s35.png)|
 |high-far-left-bottom-s35|![](../media/hypothesis-tests/error-panel/grid/high-far-left-bottom-s35.png)|
 |high-near-right-bottom-s35|![](../media/hypothesis-tests/error-panel/grid/high-near-right-bottom-s35.png)|
+
+[同一文字与噪声的四组正、反干预](mannequin-patch.md)
+
+[只交换动作句顺序的成对原图](clause-order.md)

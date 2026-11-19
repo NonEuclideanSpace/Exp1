@@ -1,0 +1,58 @@
+{
+  "seeds": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+  ],
+  "right_bottom_original_body_count": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "right_bottom_swapped_body_count": [
+    4,
+    3,
+    3,
+    2,
+    2,
+    3,
+    3,
+    2
+  ],
+  "left_bottom_original_body_count": [
+    2,
+    3,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3
+  ],
+  "left_bottom_swapped_body_count": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "readout_source": "AI visual inspection of the 16 matched pairs in the same-head near condition; only action clauses change their textual order. This is not a sequential diffusion/edit experiment.",
+  "examples": {
+    "33/right-bottom": "Original has two subjects and right finger covers white spot; swapped clauses produce three bodies and visible gap at the target.",
+    "33/left-bottom": "Original left finger stops short; swapping the same two clauses gives visible left-fingertip contact.",
+    "35/left-bottom": "Original places extra dot under left fingertip. With swapped clauses the right arm reaches the single center dot despite the instruction still assigning it to the left."
+  }
+}
