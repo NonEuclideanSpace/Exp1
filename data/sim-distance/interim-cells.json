@@ -1,0 +1,615 @@
+{
+  "scored": 121,
+  "finals": 89,
+  "balanced_complete": false,
+  "cells": {
+    "all_scored": [
+      {
+        "mode": "joint",
+        "similarity": "high",
+        "distance": "far",
+        "n": 32,
+        "count_ok": 32,
+        "counts": {
+          "correct": 32
+        },
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "high",
+        "distance": "near",
+        "n": 8,
+        "count_ok": 8,
+        "counts": {
+          "correct": 8
+        },
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "high",
+        "distance": "touch",
+        "n": 8,
+        "count_ok": 8,
+        "counts": {
+          "correct": 8
+        },
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "high",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "medium",
+        "distance": "far",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "medium",
+        "distance": "near",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "medium",
+        "distance": "touch",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "medium",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "low",
+        "distance": "far",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "low",
+        "distance": "near",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "low",
+        "distance": "touch",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "low",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "high",
+        "distance": "far",
+        "n": 32,
+        "count_ok": 31,
+        "counts": {
+          "correct": 31,
+          "count_error": 1
+        },
+        "undercount": 0,
+        "overcount": 1,
+        "copy": 0,
+        "copy_n": 31
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "high",
+        "distance": "near",
+        "n": 1,
+        "count_ok": 1,
+        "counts": {
+          "correct": 1
+        },
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 1
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "high",
+        "distance": "touch",
+        "n": 8,
+        "count_ok": 7,
+        "counts": {
+          "correct": 7,
+          "count_error": 1
+        },
+        "undercount": 0,
+        "overcount": 1,
+        "copy": 0,
+        "copy_n": 7
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "high",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "medium",
+        "distance": "far",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "medium",
+        "distance": "near",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "medium",
+        "distance": "touch",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "medium",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "low",
+        "distance": "far",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "low",
+        "distance": "near",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "low",
+        "distance": "touch",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "low",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      }
+    ],
+    "matched_prespecified": [
+      {
+        "mode": "joint",
+        "similarity": "high",
+        "distance": "far",
+        "n": 10,
+        "count_ok": 10,
+        "counts": {
+          "correct": 10
+        },
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "high",
+        "distance": "near",
+        "n": 8,
+        "count_ok": 8,
+        "counts": {
+          "correct": 8
+        },
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "high",
+        "distance": "touch",
+        "n": 8,
+        "count_ok": 8,
+        "counts": {
+          "correct": 8
+        },
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "high",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "medium",
+        "distance": "far",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "medium",
+        "distance": "near",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "medium",
+        "distance": "touch",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "medium",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "low",
+        "distance": "far",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "low",
+        "distance": "near",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "low",
+        "distance": "touch",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "joint",
+        "similarity": "low",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "high",
+        "distance": "far",
+        "n": 10,
+        "count_ok": 9,
+        "counts": {
+          "correct": 9,
+          "count_error": 1
+        },
+        "undercount": 0,
+        "overcount": 1,
+        "copy": 0,
+        "copy_n": 9
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "high",
+        "distance": "near",
+        "n": 1,
+        "count_ok": 1,
+        "counts": {
+          "correct": 1
+        },
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 1
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "high",
+        "distance": "touch",
+        "n": 8,
+        "count_ok": 7,
+        "counts": {
+          "correct": 7,
+          "count_error": 1
+        },
+        "undercount": 0,
+        "overcount": 1,
+        "copy": 0,
+        "copy_n": 7
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "high",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "medium",
+        "distance": "far",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "medium",
+        "distance": "near",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "medium",
+        "distance": "touch",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "medium",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "low",
+        "distance": "far",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "low",
+        "distance": "near",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "low",
+        "distance": "touch",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      },
+      {
+        "mode": "seq_final",
+        "similarity": "low",
+        "distance": "overlap",
+        "n": 0,
+        "count_ok": 0,
+        "counts": {},
+        "undercount": 0,
+        "overcount": 0,
+        "copy": 0,
+        "copy_n": 0
+      }
+    ]
+  }
+}

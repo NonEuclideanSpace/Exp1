@@ -1,0 +1,6 @@
+{
+  "recorded_at": "2026-11-19T21:27:57.741301",
+  "original_target": 800,
+  "first_comparison": "All 8 seeds of red/blue in every mode, similarity and distance, plus red/blue reversal for two seeds per cell; retain and independently score all previously generated samples.",
+  "rule": "Prioritize low similarity and complete matched data; evaluate on rates with denominators and seed-level differences before deciding on further generation. The original protocol and all earlier images remain accessible."
+}
